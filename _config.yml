@@ -1,0 +1,118 @@
+info:
+  # Blog Information
+  title:        "Konduto Blog"
+  subtitle:     ""
+  cover_image:  view-office-sao-paulo.jpg
+  cover_image_caption: "View from our first office, in São Paulo."
+  logo:         logo.png
+  
+  # Social links
+  facebook:     konduto
+  twitter:      KondutoBR
+  github:       konduto
+  
+  # Sharing settings
+  sharing:
+    twitter:    false
+    facebook:   false
+    gplus:      false
+    hn:         false
+    reddit:     false
+
+  # Comments
+  disqus:
+    shortname:  konduto
+    url:        "http://blog.konduto.com"
+  
+  # Analytics
+  google-analytics-id: 
+    
+  # Google Fonts
+  # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
+  google_font:  'Ubuntu:400,700'
+
+# Site stuff
+url:          https://www.konduto.com
+baseurl:      ""
+permalink:    /:categories/:year/:month/:title
+paginate:     6
+timezone:     America/Sao_Paulo
+encoding:     utf-8
+highlighter:  pygments
+markdown:     kramdown
+
+safe:         true
+exclude:      ["vendor"]
+sass:
+  sass_dir: _sass
+  style:    :compressed
+
+
+locales:
+  default: pt
+  pt:
+    name: pt
+    minread: mins
+    product: Produto
+    about: Sobre
+    older: Antigos
+    newer: Novos
+    written_by: Por
+    override_date: true
+    email_placeholder: voce@exemplo.com.br
+    subscribe_button: Assinar
+    mailchimp_id: 8949a10898
+    previous: Veja também
+    next: A seguir
+    months:
+      Jan: Janeiro
+      Feb: Fevereiro
+      Mar: Março
+      Apr: Abril
+      May: Maio
+      Jun: Junho
+      Jul: Julho
+      Aug: Agosto
+      Sep: Setembro
+      Oct: Outubro
+      Nov: Novembro
+      Dec: Dezembro
+  en:
+    name: en
+    minread: min read
+    product: Product
+    about: About
+    older: Older
+    newer: Newer
+    written_by: By
+    email_placeholder: you@example.com
+    subscribe_button: Subscribe
+    mailchimp_id: d4ebf0389a
+    previous: Previous story
+    next: Next up
+
+
+authors:
+  tom:
+    name: Tom Canabarro
+    image: tc.jpg
+    bio: Co-founder @ Konduto
+    link: http://br.linkedin.com/in/tcanabarro/
+  milton:
+    name: Milton Tavares Neto
+    image: mt.jpg
+    bio: Co-founder @ Konduto
+    link: http://br.linkedin.com/in/miltontavares/
+
+
+defaults:
+  -
+    scope:
+      path: "pt"
+    values:
+      categories: ["pt"]
+  -
+    scope:
+      path: "en"
+    values:
+      categories: ["en"]

@@ -1,0 +1,13 @@
+&copy; {{ site.time | date: "%Y" }} Konduto
+        
+<nav>
+    <a href="/{{ locale.name }}">Blog</a> &middot;
+    <a href="{{ site.url }}/{{ locale.name }}/about">{{ locale.about }}</a>
+</nav>
+
+<nav class="social">
+    {% include _social-links.html %}
+    {% include _google-analytics.html %}
+</nav>
+<br /><br />
+<p class="credits">Based on Incorporated theme by <a href="https://sendtoinc.com">Inc</a> and <a href="https://github.com/willkoehler/my_blog">Will Koehler</a></p>

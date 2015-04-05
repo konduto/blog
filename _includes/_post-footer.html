@@ -1,0 +1,38 @@
+{% assign author = site.authors[page.author] %}
+<address>
+   {% if author.image %}<img src="/images/{{ author.image }}">{% endif %}
+    <p>Written by <strong><a rel="author" href="{{ author.link }}" title="{{ author.name }}" target="_blank">{{ author.name }}</a></strong><br>
+    <span class="muted">{{ author.bio }}</span>
+    </p>
+</address>
+
+{% assign catg_posts = site.categories[locale.name] %}
+{% for post in catg_posts %}
+    {% if post.title == page.title %}
+        {% assign prev_post = forloop.index0 | plus: 1 %}
+        {% assign next_post = forloop.index0 | minus: 1 %}
+        {% unless forloop.first %}
+            {% assign next = catg_posts[next_post] %}
+            <section class="index">
+                <h3 class="title">{{ site.locales[locale.name].next }}: <a href="{{ site.baseurl }}{{ next.url }}" rel="prefetch">{{ next.title }}</a></h3>
+                <p>{{ next.excerpt }}</p>
+                <hr>
+            </section>
+        {% endunless %}
+        {% unless forloop.last %}
+            {% assign prev = catg_posts[prev_post] %}
+            <section class="index">
+                <h3 class="title">{{ site.locales[locale.name].previous }}: <a href="{{ site.baseurl }}{{ prev.url }}" rel="prefetch">{{ prev.title }}</a></h3>
+                <p>{{ prev.excerpt }}</p>
+                <hr>
+            </section>
+        {% endunless %}
+    {% endif %}
+{% endfor %}
+
+{% if site.info.disqus.shortname %}
+<section>
+    <div id="disqus_thread"></div>
+    {% include _disqus.html %}
+</section>
+{% endif %}

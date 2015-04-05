@@ -1,0 +1,18 @@
+{% include _locale-picker.html %}
+<nav id="brand">
+    <a class="brand" href="/">
+        <img src="/images/{{ site.info.logo }}" alt="Konduto">
+    </a>
+</nav>
+<nav id="i18n">
+  <a class="clear" href="/pt">
+      <img src="/images/blank.gif" class="flag flag-br" alt="Português" />
+    </a>
+    <a class="clear" href="/en">
+      <img src="/images/blank.gif" class="flag flag-us" alt="English" />
+    </a>
+</nav>
+<nav id="navigation">
+    <a id="product" href="{{ site.url }}/{{ locale.name }}">{{ locale.product }}</a>
+    <a id="about" href="{{ site.url }}/{{ locale.name }}/about">{{ locale.about }}</a>
+</nav>

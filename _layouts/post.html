@@ -1,0 +1,36 @@
+---
+layout: base
+---
+{% assign locale = site.locales[page.categories.first] %}
+{% assign author = site.authors[page.author] %}
+{% if page.cover_image %}
+<div class="article-cover" style="background-image:url(/images/{{ page.cover_image }})"></div>
+{% endif %}
+{% if page.cover_image_caption %}
+<div class='cover-caption'>{{ page.cover_image_caption }}</div>
+{% endif %}
+
+<article {% if page.container_class %}class='{{ page.container_class }}'{% endif %}>
+
+    <div class="container">
+        <header>
+            <div class="meta">
+                {% include _locale-date.html param=page %}
+                {{ locale.written_by }} <address>{{ author.name }}</address> &mdash;
+                <time pubdate datetime="{{ page.date | date: '%Y-%d-%B' }}" title="{{ page.date | date: '%b %d, %Y' }}">{{ page.date | date: date_format }}</time> &mdash; <span style="text-transform:lowercase">{% include _read-time-estimate.html param=content %}</span>
+                 &mdash; <span class="comments-link"><a href="{{ page.url }}#disqus_thread">Comments</a></span>
+            </div>
+            <h1 class="title">{{ page.title }}</h1>
+            {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
+        </header>
+
+        <section id="content">
+            {{ content }}
+            {% include _social-sharing.html %}
+        </section>
+
+        <footer>
+            {% include _post-footer.html %}
+        </footer>
+    </div>
+</article>

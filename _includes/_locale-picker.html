@@ -1,0 +1,5 @@
+{% if site.locales[page.categories.first] %}
+{% assign locale = site.locales[page.categories.first] %}
+{% else %}
+{% assign locale = site.locales[site.locales.default] %}
+{% endif %}

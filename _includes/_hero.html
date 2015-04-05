@@ -1,0 +1,11 @@
+{% include _locale-picker.html %}
+<div class="blog-cover" style="background-image:url(/images/{{ site.info.cover_image }});">
+    <section>
+        <div class="container">
+            <h1>{{ site.info.title }}</h1>
+            {% if site.info.subtitle %}<h3>{{ site.info.subtitle }}</h3>{% endif %}
+            {% include _newsletter-signup.html %}
+        </div>
+    </section>
+</div>
+<div class='cover-caption'>{{ site.info.cover_image_caption }}</div>

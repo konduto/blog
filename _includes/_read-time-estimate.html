@@ -1,0 +1,2 @@
+{% capture readtime %}{{ include.param | number_of_words | plus:91 | divided_by:180.0 | append:'.' | split:'.' | first | plus:1 }}{% endcapture %}
+{% if readtime == '0' %} &lt; 2{% else %}{{ readtime }}{% endif %} {{ locale.minread }}

@@ -1,0 +1,6 @@
+{% if locale.override_date %}
+{% assign postmonth = include.param.date | date: "%b" %}
+{% capture date_format %}{{ include.param.date | date: "%-d" }} de {{ locale.months[postmonth] }} de {{ include.param.date | date: "%Y" }}{% endcapture %}
+{% else %}
+{% assign date_format = include.param.date | date: "%b %-d, %Y" %}
+{% endif %}
