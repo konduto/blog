@@ -8,7 +8,7 @@ $ ->
       (navigator.language || navigator.userLanguage)
     locale = lang.substring(0,2)
     if locale not in ["en","pt"]
-      locale = "en"
+      locale = "pt"
     window.location.replace("http://"+window.location.host+"/"+locale)
 
 # google maps fix
