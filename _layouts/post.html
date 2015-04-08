@@ -18,7 +18,7 @@ layout: base
                 {% include _locale-date.html param=page %}
                 {{ locale.written_by }} <address>{{ author.name }}</address> &mdash;
                 <time pubdate datetime="{{ page.date | date: '%Y-%d-%B' }}" title="{{ page.date | date: '%b %d, %Y' }}">{{ page.date | date: date_format }}</time> &mdash; <span style="text-transform:lowercase">{% include _read-time-estimate.html param=content %}</span>
-                 &mdash; <span class="comments-link"><a href="{{ page.url }}#disqus_thread">Comments</a></span>
+                 &mdash; <span class="comments-link"><a href="{{ site.info.disqus.url }}{{ page.url }}/#disqus_thread">Comments</a></span>
             </div>
             <h1 class="title">{{ page.title }}</h1>
             {% if page.subtitle %}<h2 class="subtitle">{{ page.subtitle }}</h2>{% endif %}
