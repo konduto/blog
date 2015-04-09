@@ -75,6 +75,11 @@ a {
     font-style: italic;
     color: #BAB8B3;
     margin-right: .5em;
+
+    a {
+        color: #BAB8B3;
+        text-decoration: underline;
+    }
 }
 
 .index {
