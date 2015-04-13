@@ -25,7 +25,7 @@ info:
     url:        "https://blog.konduto.com"
   
   # Analytics
-  google-analytics-id: 
+  google-analytics-id: "UA-47132225-1"
     
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
