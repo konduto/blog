@@ -32,7 +32,8 @@ info:
   google_font:  'Ubuntu:400,700'
 
 # Site stuff
-url:          https://www.konduto.com
+url:          https://blog.konduto.com
+main_url:     https://www.konduto.com
 baseurl:      ""
 permalink:    /:categories/:year/:month/:title
 paginate:     6
