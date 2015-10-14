@@ -13,9 +13,9 @@ author: felipe
 Uma das maiores empresas de segurança digital no mundo, a holandesa Gemalto lançou uma novidade que promete reduzir consideravelmente o número de fraudes online em transações de cartão não-presente (CNP). Trata-se de um **CVV/CVC (código de verificação de cartões) dinâmico**, que é atualizado a cada 20 minutos – dificultando de maneira considerável a ação dos golpistas nos meios digitais. 
 
 **Leia também**
-[5 coisas que você não sabia sobre cartão de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito/){:target="_blank"}
-[O que fazer quando você recebe um chargeback?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/){:target="_blank"}
-[Novidades na Konduto! Revisão manual, notificações e muito mais](https://blog.konduto.com/pt/2015/09/novidades-da-konduto-setembro-2015/){:target="_blank"}
+[5 coisas que você não sabia sobre cartão de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito/)
+[O que fazer quando você recebe um chargeback?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/)
+[Novidades na Konduto! Revisão manual, notificações e muito mais](https://blog.konduto.com/pt/2015/09/novidades-da-konduto-setembro-2015/)
 
 
 
@@ -30,7 +30,7 @@ A solução de CVV digital apresentada pela companhia holandesa poderá ser utiliza
 
 Em ambos os casos, um novo código de verificação é gerado a cada 20 minutos, já conectado com os servidores dos bancos. De acordo com a Gemalto, mais de 125 mil CVVs são criados pelos dispositivos a cada quatro anos – duração estimada da bateria do token acoplado ao cartão. 
 
-Atualmente, para se ter uma ideia, há inclusive softwares maliciosos que geram esses códigos para os fraudadores. A ideia da Gemalto pode dificultar bastante a ação de golpistas, uma vez que, hoje em dia, os CVVs são fixos, mantendo-se iguais até o fim da vigência ou o cancelamento do cartão. Já com a implantação do CVV dinâmico, **um fraudador que tenha adquirido os dados de um [cartão vazado](https://blog.konduto.com/pt/2015/03/as-causas-da-fraude-parte-2/){:target="_blank"} teria, no máximo, 20 minutos para utilizar aquele código**. 
+Atualmente, para se ter uma ideia, há inclusive softwares maliciosos que geram esses códigos para os fraudadores. A ideia da Gemalto pode dificultar bastante a ação de golpistas, uma vez que, hoje em dia, os CVVs são fixos, mantendo-se iguais até o fim da vigência ou o cancelamento do cartão. Já com a implantação do CVV dinâmico, **um fraudador que tenha adquirido os dados de um [cartão vazado](https://blog.konduto.com/pt/2015/03/as-causas-da-fraude-parte-2/) teria, no máximo, 20 minutos para utilizar aquele código**. 
 
 
 
@@ -49,8 +49,8 @@ Nós somos uma startup brasileira que ajuda lojistas a **reduzirem o número de fr
 
 
 
-A solução antifraude da Konduto é simples, mas eficiente e sem complicações para a implantação. Além disso, **não necessita de manutenção**, uma vez que conta com um **sistema machine learning**. Não é preciso gerenciar nenhuma regra: o nosso algoritmo aprende automaticamente com as suas vendas e com os seus clientes, adaptando-se ao  seu negócio. Ah, e um detalhe muito importante: por um **[preço muito menor](https://www.konduto.com/pt/pricing){:target="_blank"}** que os demais antifraudes do mercado! 
+A solução antifraude da Konduto é simples, mas eficiente e sem complicações para a implantação. Além disso, **não necessita de manutenção**, uma vez que conta com um **sistema machine learning**. Não é preciso gerenciar nenhuma regra: o nosso algoritmo aprende automaticamente com as suas vendas e com os seus clientes, adaptando-se ao  seu negócio. Ah, e um detalhe muito importante: por um **[preço muito menor](https://www.konduto.com/pt/pricing)** que os demais antifraudes do mercado! 
 	
-Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com){:target="_blank"}!
+Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!
 
-Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto){:target="_blank"}, [Facebook](https://www.facebook.com/konduto){:target="_blank"} e [Twitter](https://twitter.com/KondutoBR){:target="_blank"}. 
+Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR). 
