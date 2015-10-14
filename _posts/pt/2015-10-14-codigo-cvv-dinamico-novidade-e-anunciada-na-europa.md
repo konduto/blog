@@ -1,12 +1,12 @@
 ---
 layout: post
-date: '2015-10-14T17:27:00-03:00'
+date: '2015-10-14T18:10:00-03:00'
 title: "Código CVV dinâmico? Novidade é anunciada na Europa"
 subtitle: "Gemalto pretende reduzir fraudes e chargebacks para lojistas"
 excerpt: "Token no celular ou no próprio cartão promete diminuir as fraudes no e-commerce mundial"
 cover_image: 151014-dcv-mobile-gemalto.jpg
 cover_image_caption: "Image by: <a href='http://www.gemalto.com/DCV/'>Gemalto</a>"
-author: tom
+author: felipe
 ---
 Uma das maiores empresas de segurança digital no mundo, a holandesa Gemalto lançou uma novidade que promete reduzir consideravelmente o número de fraudes online em transações de cartão não-presente (CNP). Trata-se de um **CVV/CVC (código de verificação de cartões) dinâmico**, que é atualizado a cada 20 minutos – dificultando de maneira considerável a ação dos golpistas nos meios digitais. 
 
