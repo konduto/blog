@@ -49,7 +49,7 @@ Nós somos uma startup brasileira que ajuda lojistas a **reduzirem o número de fr
 
 
 
-A solução antifraude da Konduto é simples, mas eficiente e sem complicações para a implantação. Além disso, **não necessita de manutenção**, uma vez que conta com um **sistema machine learning**. Não é preciso gerenciar nenhuma regra: o nosso algoritmo aprende automaticamente com as suas vendas e com os seus clientes, adaptando-se ao  seu negócio. Ah, e um detalhe muito importante: por um **[preço muito menor](https://www.konduto.com/pt/pricing){:target="_blank"}** que os demais antifraudes do mercado! 
+A solução antifraude da Konduto é simples, mas eficiente e sem complicações para a implantação. Além disso, **não necessita de manutenção**, uma vez que conta com um **sistema machine learning**. Não é preciso gerenciar nenhuma regra: o nosso algoritmo aprende automaticamente com as suas vendas e com os seus clientes, adaptando-se ao  seu negócio. Ah, e um detalhe muito importante: por um **[preço muito menor](https://www.konduto.com/pt/pricing)** que os demais antifraudes do mercado! 
 	
 Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!
 
