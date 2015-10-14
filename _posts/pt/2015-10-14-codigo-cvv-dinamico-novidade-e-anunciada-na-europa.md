@@ -1,15 +1,13 @@
 ---
 layout: post
-date: '2015-10-14T14:10:00-03:00'
+date: '2015-10-14T18:10:00-03:00'
 title: "Código CVV dinâmico? Novidade é anunciada na Europa"
 subtitle: "Gemalto pretende reduzir fraudes e chargebacks para lojistas"
 excerpt: "Token no celular ou no próprio cartão promete diminuir as fraudes no e-commerce mundial"
 cover_image: 151014-dcv-mobile-gemalto.jpg
-cover_image_caption: "CVV tem validade de 20 minutos e aumenta a sensação de segurança nas transações. Imagem:
-<a href='http://www.gemalto.com/DCV/'>Gemalto</a>"
+cover_image_caption: "Image by: <a href='http://www.gemalto.com/DCV/'>Gemalto</a>"
 author: felipe
 ---
-
 Uma das maiores empresas de segurança digital no mundo, a holandesa Gemalto lançou uma novidade que promete reduzir consideravelmente o número de fraudes online em transações de cartão não-presente (CNP). Trata-se de um **CVV/CVC (código de verificação de cartões) dinâmico**, que é atualizado a cada 20 minutos – dificultando de maneira considerável a ação dos golpistas nos meios digitais. 
 
 **Leia também**
@@ -17,10 +15,7 @@ Uma das maiores empresas de segurança digital no mundo, a holandesa Gemalto lanç
 [O que fazer quando você recebe um chargeback?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/)
 [Novidades na Konduto! Revisão manual, notificações e muito mais](https://blog.konduto.com/pt/2015/09/novidades-da-konduto-setembro-2015/)
 
-
-
 A novidade da Gemalto é uma resposta ao altíssimo (e crescente) número de fraudes reportadas em transações CNP: só em 2014, de acordo com o The Nilson Report, o comércio mundial teve um prejuízo de aproximadamente **US$ 4,1 bilhões por conta dos golpes online com cartão de crédito**. Isso corresponde a 25% do volume total de fraudes reportadas – e a tendência é que, para 2015, os valores sejam ainda mais elevados. 
-
 
 ## Fim do gerador de CVVs?
 
