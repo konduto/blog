@@ -104,6 +104,11 @@ authors:
     image: mt.jpg
     bio: Co-founder @ Konduto
     link: http://br.linkedin.com/in/miltontavares/
+  felipe:
+    name: Felipe Held
+    image: fh.jpg
+    bio: "Head of Marketing & Communications @ Konduto"
+    link: https://br.linkedin.com/in/felipeheld
 
 
 defaults:
