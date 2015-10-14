@@ -13,17 +13,16 @@ author: felipe
 Uma das maiores empresas de segurança digital no mundo, a holandesa Gemalto lançou uma novidade que promete reduzir consideravelmente o número de fraudes online em transações de cartão não-presente (CNP). Trata-se de um **CVV/CVC (código de verificação de cartões) dinâmico**, que é atualizado a cada 20 minutos – dificultando de maneira considerável a ação dos golpistas nos meios digitais. 
 
 **Leia também**
-[5 coisas que você não sabia sobre cartão de crédito] (https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito/){:target="_blank"}
-[O que fazer quando você recebe um chargeback?] (https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/){:target="_blank"}
-[Novidades na Konduto! Revisão manual, notificações e muito mais] (https://blog.konduto.com/pt/2015/09/novidades-da-konduto-setembro-2015/){:target="_blank"}
+[5 coisas que você não sabia sobre cartão de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito/){:target="_blank"}
+[O que fazer quando você recebe um chargeback?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/){:target="_blank"}
+[Novidades na Konduto! Revisão manual, notificações e muito mais](https://blog.konduto.com/pt/2015/09/novidades-da-konduto-setembro-2015/){:target="_blank"}
 
 
 
 A novidade da Gemalto é uma resposta ao altíssimo (e crescente) número de fraudes reportadas em transações CNP: só em 2014, de acordo com o The Nilson Report, o comércio mundial teve um prejuízo de aproximadamente **US$ 4,1 bilhões por conta dos golpes online com cartão de crédito**. Isso corresponde a 25% do volume total de fraudes reportadas – e a tendência é que, para 2015, os valores sejam ainda mais elevados. 
 
 
-## 
-Fim do gerador de CVVs?
+## Fim do gerador de CVVs?
 
 A solução de CVV digital apresentada pela companhia holandesa poderá ser utilizada pelos portadores de cartões de créditos de duas maneiras: a partir de um aplicativo de smartphone ou, então, com um pequeno token instalado no verso do cartão. 
 
