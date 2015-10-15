@@ -1,4 +1,4 @@
-----		
+﻿----		
 layout: post		
 date: '2015-10-14T18:10:00-03:00'		
 title: "Código CVV dinâmico? Novidade é anunciada na Europa"		
