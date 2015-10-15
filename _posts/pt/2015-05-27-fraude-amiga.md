@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2015-05-27T14:10:00-03:00'
-title: "Fraude amiga.. ?"
+title: "Fraude amiga?"
 subtitle: "Um chargeback nem sempre é fraude."
 excerpt: "Um chargeback nem sempre é fraude. Descubra o que é a fraude amiga e o que você pode fazer a respeito."
 cover_image: friendly-fraud.jpg
@@ -11,7 +11,7 @@ author: tom
 ---
 Existem [inúmeros](http://www.cursodeecommerce.com.br/blog/tipos-de-fraudes-com-cartoes-de-credito-ecommerce/) [artigos](http://ecommercepordentro.com/tipos-fraude-cartao-credito/) [por ai](http://www.albertovalle.com.br/fraudes-cartoes-de-credito-lojas-virtuais/) descrevendo os tipos mais comuns de fraude no e-commerce. Uma delas é conhecida como **fraude amiga**, termo que gera uma certa curiosidade. Como uma fraude pode ser considerada "amiga"? Chamamos de **fraude amiga** aquela contestação que acontece não por malícia, mas sim por confusão do dono do cartão. Ele pode muito bem ter feito aquela compra, mas não se lembra.
 
-**Leia também**
+**Leia também**  
 [Quer evitar fraudes? Checar apenas nomes e CPF não é mais suficiente](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [5 coisas que você não sabia sobre cartões de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  

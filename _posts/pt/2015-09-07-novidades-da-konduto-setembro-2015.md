@@ -21,6 +21,11 @@ Vocês pediram e nós ouvimos. Agora, além de contar com a nossa análise autom
 
 Fizemos uma parceria com o pessoal da [BCR Serviços](http://www.bcrservicos.com/) para oferecer a todos os nossos clientes uma análise manual de qualidade, rápida e imparcial. Isso mantém o nosso foco em otimizar a decisão automática.
 
+**Leia também**  
+[Saiba as principais causas de fraude no e-commerce - Parte 1: Autenticação do cliente](https://blog.konduto.com/pt/2015/02/as-causas-da-fraude-parte-1?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Saiba as principais causas de fraude no e-commerce - Parte 2: Vazamento de dados](https://blog.konduto.com/pt/2015/03/as-causas-da-fraude-parte-2?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Inteligência artificial: afinal, o que é machine learning?](https://blog.konduto.com/pt/2015/01/afinal-o-que-e-machine-learning?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)    
+
 ## Notificaçōes na medida certa
 
 Quer receber um e-mail quando nós detectarmos um pedido suspeito? E quando alguém aprova um pedido manualmente no Portal? Agora você pode!
