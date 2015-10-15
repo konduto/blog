@@ -2,7 +2,7 @@
 layout: post
 date: '2014-11-11T09:36:00-03:00'
 title: 5 indicadores para quem faz análise de risco no e-commerce
-subtitle: "Chargebacks, revisões manuais, rejeições, aprovações automáticas. Você sabe tudo isso de cabeça?
+subtitle: "Chargebacks, revisões manuais, rejeições, aprovações automáticas. Você sabe tudo isso de cabeça?"
 excerpt: "Chargebacks, revisões manuais, rejeições, aprovações automáticas. Você sabe tudo isso de cabeça?"
 author: tom
 ---
@@ -80,6 +80,6 @@ Com um valor único por pedido analisado você corre o risco de pagar caro por p
 
 Em uma operação mais avançada há outros indicadores importantes, quase todas ligadas à equipe de análise manual, como tempo médio da revisão e a performance dos analistas. Vamos tratar deste assunto em outro post, mas com os indicadores acima você já terá uma visão muito melhor da saúde da sua operação.
 
-**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para o nosso newsletter!](http://eepurl.com/2jpuz)**
+**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para a nossa newsletter!](http://eepurl.com/2jpuz)**
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)

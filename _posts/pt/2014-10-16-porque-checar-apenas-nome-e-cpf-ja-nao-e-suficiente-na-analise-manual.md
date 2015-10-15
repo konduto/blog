@@ -29,8 +29,6 @@ Não é difícil presumir que, ao invés de se dar ao trabalho de roubar a ident
 
 Com as fraudes ficando mais sofisticadas, é importante olhar além dos dados cadastrais para avaliar o risco de um pedido. Isso pode variar desde consultas a birôs de crédito até o uso de ferramentas antifraude completas. A lição é que confiar somente nos dados do usuário já não é mais suficiente.
 
-**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para o nosso newsletter!](http://eepurl.com/2jpuz)**
-
-Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)
+**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para a nossa newsletter!](http://eepurl.com/2jpuz)**
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)
