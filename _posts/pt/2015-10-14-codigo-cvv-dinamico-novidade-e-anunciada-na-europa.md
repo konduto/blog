@@ -1,4 +1,4 @@
-﻿----		
+﻿---		
 layout: post		
 date: '2015-10-14T18:10:00-03:00'		
 title: "Código CVV dinâmico? Novidade é anunciada na Europa"		
@@ -7,7 +7,7 @@ excerpt: "Token no celular ou no próprio cartão promete diminuir as fraudes no
 cover_image: 151015-cartoes-credito.jpg		
 cover_image_caption: "CVV tem validade de 20 minutos e aumenta a sensação de segurança nas transações. Imagem: <a href='https://www.flickr.com/photos/armydre2008/'>armydre2008</a>"		
 author: felipe		
-----		
+---		
 Uma das maiores empresas de segurança digital no mundo, a holandesa Gemalto lançou uma novidade que promete reduzir consideravelmente o número de fraudes online em transações de cartão não-presente (CNP). Trata-se de um **CVV/CVC (código de verificação de cartões) dinâmico**, que é atualizado a cada 20 minutos – dificultando de maneira considerável a ação dos golpistas nos meios digitais. 		
 	
 **Leia também**		
