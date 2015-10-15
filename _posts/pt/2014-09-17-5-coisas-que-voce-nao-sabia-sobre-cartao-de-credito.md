@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 date: '2014-09-17T14:32:00-03:00'
 title: 5 coisas que você não sabia sobre cartão de crédito
