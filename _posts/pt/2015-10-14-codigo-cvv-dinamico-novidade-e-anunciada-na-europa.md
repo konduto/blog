@@ -1,51 +1,42 @@
----
-layout: post
-date: '2015-10-14T18:10:00-03:00'
-title: "CÛdigo CVV din‚mico? Novidade È anunciada na Europa"
-subtitle: "Gemalto pretende reduzir fraudes e chargebacks para lojistas"
-excerpt: "Token no celular ou no prÛprio cart„o promete diminuir as fraudes no e-commerce mundial"
-cover_image: 151014-dcv-mobile-gemalto.jpg
-cover_image_caption: "Image by: <a href='http://www.gemalto.com/DCV/'>Gemalto</a>"
-author: felipe
----
-Uma das maiores empresas de seguranÁa digital no mundo, a holandesa Gemalto lanÁou uma novidade que promete reduzir consideravelmente o n˙mero de fraudes online em transaÁıes de cart„o n„o-presente (CNP). Trata-se de um **CVV/CVC (cÛdigo de verificaÁ„o de cartıes) din‚mico**, que È atualizado a cada 20 minutos ñ dificultando de maneira consider·vel a aÁ„o dos golpistas nos meios digitais. 
-
-**Leia tambÈm**
-[5 coisas que vocÍ n„o sabia sobre cart„o de crÈdito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito/)
-[O que fazer quando vocÍ recebe um chargeback?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/)
-[Novidades na Konduto! Revis„o manual, notificaÁıes e muito mais](https://blog.konduto.com/pt/2015/09/novidades-da-konduto-setembro-2015/)
-
-A novidade da Gemalto È uma resposta ao altÌssimo (e crescente) n˙mero de fraudes reportadas em transaÁıes CNP: sÛ em 2014, de acordo com o The Nilson Report, o comÈrcio mundial teve um prejuÌzo de aproximadamente **US$ 4,1 bilhıes por conta dos golpes online com cart„o de crÈdito**. Isso corresponde a 25% do volume total de fraudes reportadas ñ e a tendÍncia È que, para 2015, os valores sejam ainda mais elevados. 
-
-## Fim do gerador de CVVs?
-
-A soluÁ„o de CVV digital apresentada pela companhia holandesa poder· ser utilizada pelos portadores de cartıes de crÈditos de duas maneiras: a partir de um aplicativo de smartphone ou, ent„o, com um pequeno token instalado no verso do cart„o. 
-
-
-
-Em ambos os casos, um novo cÛdigo de verificaÁ„o È gerado a cada 20 minutos, j· conectado com os servidores dos bancos. De acordo com a Gemalto, mais de 125 mil CVVs s„o criados pelos dispositivos a cada quatro anos ñ duraÁ„o estimada da bateria do token acoplado ao cart„o. 
-
-Atualmente, para se ter uma ideia, h· inclusive softwares maliciosos que geram esses cÛdigos para os fraudadores. A ideia da Gemalto pode dificultar bastante a aÁ„o de golpistas, uma vez que, hoje em dia, os CVVs s„o fixos, mantendo-se iguais atÈ o fim da vigÍncia ou o cancelamento do cart„o. J· com a implantaÁ„o do CVV din‚mico, **um fraudador que tenha adquirido os dados de um [cart„o vazado](https://blog.konduto.com/pt/2015/03/as-causas-da-fraude-parte-2/) teria, no m·ximo, 20 minutos para utilizar aquele cÛdigo**. 
-
-
-
-## E quais os benefÌcios?
-
-
-A proposta de um CVV din‚mico aparenta ser mais eficiente que as soluÁıes dos bancos para evitar fraudes no e-commerce ñ como a abertura de um pop-up da p·gina da instituiÁ„o banc·ria para que o usu·rio faÁa o login em sua conta. O problema È que isso custa aos lojistas uma **alta taxa de abandono de carrinho: na casa de 68%**, segundo a Gemalto. 
-
-
-
-J· o CVV din‚mico, de acordo com uma pesquisa de mercado independente, causaria uma reaÁ„o positiva nos consumidores: eles ficariam mais dispostos a utilizar um cart„o com essa soluÁ„o de seguranÁa em suas transaÁıes. E, por sua vez, lojistas teriam um n˙mero muito menor de chargebacks por conta das fraudes.
-
-## Konduto
-
-NÛs somos uma startup brasileira que ajuda lojistas a **reduzirem o n˙mero de fraudes em transaÁıes de cart„o n„o-presente e a minimizarem seus custos**. As nossas an·lises se baseiam no comportamento de navegaÁ„o do cliente e deixam apenas os pedidos **realmente suspeitos** na fila para revis„o manual. 
-
-
-
-A soluÁ„o antifraude da Konduto È simples, mas eficiente e sem complicaÁıes para a implantaÁ„o. AlÈm disso, **n„o necessita de manutenÁ„o**, uma vez que conta com um **sistema machine learning**. N„o È preciso gerenciar nenhuma regra: o nosso algoritmo aprende automaticamente com as suas vendas e com os seus clientes, adaptando-se ao  seu negÛcio. Ah, e um detalhe muito importante: por um **[preÁo muito menor](https://www.konduto.com/pt/pricing)** que os demais antifraudes do mercado! 
+----		
+layout: post		
+date: '2015-10-14T18:10:00-03:00'		
+title: "C√≥digo CVV din√¢mico? Novidade √© anunciada na Europa"		
+subtitle: "Gemalto pretende reduzir fraudes e chargebacks para lojistas"		
+excerpt: "Token no celular ou no pr√≥prio cart√£o promete diminuir as fraudes no e-commerce mundial"		
+cover_image: 151015-cartoes-credito.jpg		
+cover_image_caption: "CVV tem validade de 20 minutos e aumenta a sensa√ß√£o de seguran√ßa nas transa√ß√µes. Imagem: <a href='https://www.flickr.com/photos/armydre2008/'>armydre2008</a>"		
+author: felipe		
+----		
+Uma das maiores empresas de seguran√ßa digital no mundo, a holandesa Gemalto lan√ßou uma novidade que promete reduzir consideravelmente o n√∫mero de fraudes online em transa√ß√µes de cart√£o n√£o-presente (CNP). Trata-se de um **CVV/CVC (c√≥digo de verifica√ß√£o de cart√µes) din√¢mico**, que √© atualizado a cada 20 minutos ‚Äì dificultando de maneira consider√°vel a a√ß√£o dos golpistas nos meios digitais. 		
 	
-Quer saber mais? Ficou alguma d˙vida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!
+**Leia tamb√©m**		
+[5 coisas que voc√™ n√£o sabia sobre cart√£o de cr√©dito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito/)		
+[O que fazer quando voc√™ recebe um chargeback?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/)		
+[Novidades na Konduto! Revis√£o manual, notifica√ß√µes e muito mais](https://blog.konduto.com/pt/2015/09/novidades-da-konduto-setembro-2015/)		
+		
+A novidade da Gemalto √© uma resposta ao alt√≠ssimo (e crescente) n√∫mero de fraudes reportadas em transa√ß√µes CNP: s√≥ em 2014, de acordo com o The Nilson Report, o com√©rcio mundial teve um preju√≠zo de aproximadamente **US$ 4,1 bilh√µes por conta dos golpes online com cart√£o de cr√©dito**. Isso corresponde a 25% do volume total de fraudes reportadas ‚Äì e a tend√™ncia √© que, para 2015, os valores sejam ainda mais elevados. 		
+	
+## Fim do gerador de CVVs?		
 
-Conecte-se com a Konduto tambÈm nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR). 
+A solu√ß√£o de CVV digital apresentada pela companhia holandesa poder√° ser utilizada pelos portadores de cart√µes de cr√©ditos de duas maneiras: a partir de um aplicativo de smartphone ou, ent√£o, com um pequeno token instalado no verso do cart√£o. 		
+		
+Em ambos os casos, um novo c√≥digo de verifica√ß√£o √© gerado a cada 20 minutos, j√° conectado com os servidores dos bancos. De acordo com a Gemalto, mais de 125 mil CVVs s√£o criados pelos dispositivos a cada quatro anos ‚Äì dura√ß√£o estimada da bateria do token acoplado ao cart√£o. 		
+		
+Atualmente, para se ter uma ideia, h√° inclusive softwares maliciosos que geram esses c√≥digos para os fraudadores. A ideia da Gemalto pode dificultar bastante a a√ß√£o de golpistas, uma vez que, hoje em dia, os CVVs s√£o fixos, mantendo-se iguais at√© o fim da vig√™ncia ou o cancelamento do cart√£o. J√° com a implanta√ß√£o do CVV din√¢mico, **um fraudador que tenha adquirido os dados de um [cart√£o vazado](https://blog.konduto.com/pt/2015/03/as-causas-da-fraude-parte-2/) teria, no m√°ximo, 20 minutos para utilizar aquele c√≥digo**. 		
+	
+## E quais os benef√≠cios?		
+		
+A proposta de um CVV din√¢mico aparenta ser mais eficiente que as solu√ß√µes dos bancos para evitar fraudes no e-commerce ‚Äì como a abertura de um pop-up da p√°gina da institui√ß√£o banc√°ria para que o usu√°rio fa√ßa o login em sua conta. O problema √© que isso custa aos lojistas uma **alta taxa de abandono de carrinho: na casa de 68%**, segundo a Gemalto. 		
+		
+J√° o CVV din√¢mico, de acordo com uma pesquisa de mercado independente, causaria uma rea√ß√£o positiva nos consumidores: eles ficariam mais dispostos a utilizar um cart√£o com essa solu√ß√£o de seguran√ßa em suas transa√ß√µes. E, por sua vez, lojistas teriam um n√∫mero muito menor de chargebacks por conta das fraudes.		
+	
+## Konduto		
+		
+N√≥s somos uma startup brasileira que ajuda lojistas a **reduzirem o n√∫mero de fraudes em transa√ß√µes de cart√£o n√£o-presente e a minimizarem seus custos**. As nossas an√°lises se baseiam no comportamento de navega√ß√£o do cliente e deixam apenas os pedidos **realmente suspeitos** na fila para revis√£o manual. 		
+		
+A solu√ß√£o antifraude da Konduto √© simples, mas eficiente e sem complica√ß√µes para a implanta√ß√£o. Al√©m disso, **n√£o necessita de manuten√ß√£o**, uma vez que conta com um **sistema machine learning**. N√£o √© preciso gerenciar nenhuma regra: o nosso algoritmo aprende automaticamente com as suas vendas e com os seus clientes, adaptando-se ao  seu neg√≥cio. Ah, e um detalhe muito importante: por um **[pre√ßo muito menor](https://www.konduto.com/pt/pricing)** que os demais antifraudes do mercado! 		
+			
+**Quer saber mais? Ficou alguma d√∫vida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**		
+		
+Conecte-se com a Konduto tamb√©m nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)
