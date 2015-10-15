@@ -19,9 +19,9 @@ Já vi diversas vezes compras cujo portador do cartão era o Chuck Norris ou o L
 Claro que não recomendo que você faça isso, pois se porventura a loja fizer essa validação, seu pedido ficará parado na fila de análise e o produto pode não ser enviado.
 
 **Leia também**  
-[Coisas que você acha que sabe sobre IPs - só que não!](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn)  
-[Fraude amiga? Saiba o que é](https://blog.konduto.com/pt/2015/05/fraude-amiga)  
-[Saiba as principais causas de fraude no e-commerce - Parte 1: Autenticação do cliente]  (https://blog.konduto.com/pt/2015/02/as-causas-da-fraude-parte-1)  
+[Coisas que você acha que sabe sobre IPs - só que não!](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Fraude amiga? Saiba o que é](https://blog.konduto.com/pt/2015/05/fraude-amiga?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Saiba as principais causas de fraude no e-commerce - Parte 1: Autenticação do cliente](https://blog.konduto.com/pt/2015/02/as-causas-da-fraude-parte-1?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
 ### 2. O seu CPF também não conta
 
