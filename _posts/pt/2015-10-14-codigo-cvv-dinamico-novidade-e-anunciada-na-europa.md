@@ -11,10 +11,9 @@ author: felipe
 Uma das maiores empresas de segurança digital no mundo, a holandesa Gemalto lançou uma novidade que promete reduzir consideravelmente o número de fraudes online em transações de cartão não-presente (CNP). Trata-se de um **CVV/CVC (código de verificação de cartões) dinâmico**, que é atualizado a cada 20 minutos – dificultando de maneira considerável a ação dos golpistas nos meios digitais. 		
 	
 **Leia também**
-
-[5 coisas que você não sabia sobre cartão de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito/)  
-[O que fazer quando você recebe um chargeback?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/)  
-[Novidades na Konduto! Revisão manual, notificações e muito mais](https://blog.konduto.com/pt/2015/09/novidades-da-konduto-setembro-2015/)		
+[5 coisas que você não sabia sobre cartão de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[O que fazer quando você recebe um chargeback?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Novidades na Konduto! Revisão manual, notificações e muito mais](https://blog.konduto.com/pt/2015/09/novidades-da-konduto-setembro-2015?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo/)		
 		
 A novidade da Gemalto é uma resposta ao altíssimo (e crescente) número de fraudes reportadas em transações CNP: só em 2014, de acordo com o The Nilson Report, o comércio mundial teve um prejuízo de aproximadamente **US$ 4,1 bilhões por conta dos golpes online com cartão de crédito**. Isso corresponde a 25% do volume total de fraudes reportadas – e a tendência é que, para 2015, os valores sejam ainda mais elevados. 		
 	
