@@ -8,7 +8,7 @@ author: tom
 ---
 Todo mundo que administra um e-commerce tem alguns indicadores na ponta da língua: número de pedidos faturados, ticket médio, visitantes únicos, taxa de conversão e assim por diante.
 
-**Leia também**
+**Leia também**  
 [Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Quer evitar fraudes? Checar apenas nomes e CPF não é mais suficiente](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [5 coisas que você não sabia sobre cartões de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  

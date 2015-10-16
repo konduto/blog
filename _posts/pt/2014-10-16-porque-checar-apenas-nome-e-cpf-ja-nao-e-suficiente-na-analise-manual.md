@@ -11,7 +11,7 @@ Duas das análises mais básicas que os e-commerces fazem quando suspeitam de um
 **Leia também**  
 [5 coisas que você não sabia sobre cartões de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Compra online sem login? Conheça o case do botão de R$ 1 bilhão](https://blog.konduto.com/pt/2015/01/tinha-uma-senha-no-meio-do-caminho?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Chargeback, revisões manuais... veja 5 indicadores de análise de risco no e-commerce](https://blog.konduto.com/pt/2014/11/5-indicadores-para-quem-faz-analise-de-risco-no-e-commerce?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Veja 5 indicadores de análise de risco no e-commerce](https://blog.konduto.com/pt/2014/11/5-indicadores-para-quem-faz-analise-de-risco-no-e-commerce?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
 Aqui na Konduto, a análise dos pedidos é focada no **[comportamento de navegação](https://www.konduto.com/pt/how-it-works?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo/)** dos usuários no site, indicando a sua intenção de comprar ou fraudar. Recentemente temos visto um aumento nos casos de tentativas de fraude em que o nome e o CPF são válidos e correspondem aos dados da Receita, mas nosso algoritmo marca como comportamento suspeito.
 

@@ -8,6 +8,11 @@ author: tom
 ![5 coisas que você não sabia sobre cartão de crédito](/images/credit_card_facts.jpg)
 O cartão de crédito é hoje o meio de pagamento mais usado na internet, chegando a mais de 70% das compras. Uma das maiores vantagens do meio de pagamento é a facilidade: além de você receber uma aprovação imediata, sem esperar a compensação de bancos ou contar dias úteis, ainda é possível parcelar as compras. 
 
+**Leia também**  
+[Coisas que você acha que sabe sobre IPs - só que não!](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Fraude amiga? Saiba o que é](https://blog.konduto.com/pt/2015/05/fraude-amiga?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Saiba as principais causas de fraude no e-commerce - Parte 1: Autenticação do cliente](https://blog.konduto.com/pt/2015/02/as-causas-da-fraude-parte-1?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
+
 Apesar de muito conhecido e utilizado, esse meio de pagamento ainda esconde alguns segredos. Veja abaixo alguns deles:
 
 ### 1. O seu nome não conta!
@@ -17,11 +22,6 @@ Sabe quando o site pede o nome do portador do cartão? Pois é, esta informaçã
 Já vi diversas vezes compras cujo portador do cartão era o Chuck Norris ou o Luke Skywalker, e o pagamento foi aprovado. (Há quem argumente que se o portador for o [Chuck Norris](http://desciclopedia.org/wiki/Fatos:Chuck_Norris) ele sempre será aprovado, mas não vou entrar neste mérito).
 
 Claro que não recomendo que você faça isso, pois se porventura a loja fizer essa validação, seu pedido ficará parado na fila de análise e o produto pode não ser enviado.
-
-**Leia também**  
-[Coisas que você acha que sabe sobre IPs - só que não!](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Fraude amiga? Saiba o que é](https://blog.konduto.com/pt/2015/05/fraude-amiga?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Saiba as principais causas de fraude no e-commerce - Parte 1: Autenticação do cliente](https://blog.konduto.com/pt/2015/02/as-causas-da-fraude-parte-1?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
 ### 2. O seu CPF também não conta
 
@@ -51,6 +51,6 @@ Sim, seu cartão pode ser roubado, copiado e usado para fraudes. Mas não é sua
 
 Por outro lado, se você pagou um [boleto de uma loja fantasma](http://www1.folha.uol.com.br/mercado/2014/07/1479569-gangue-do-boleto-infectou-192-mil-computadores-detectam-fbi-e-pf.shtml), não há como pedir o dinheiro de volta a não ser através da Justiça, um processo bem mais lento do que uma ligação para o banco.
 
-**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para o nosso newsletter!](http://eepurl.com/2jpuz)**
+**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para a nossa newsletter!](http://eepurl.com/2jpuz)**
 		
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)

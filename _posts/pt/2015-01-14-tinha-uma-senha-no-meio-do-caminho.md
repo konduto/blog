@@ -11,7 +11,6 @@ Convido você a puxar na memória a última vez que comprou pela internet. Visua
 **Leia também**  
 [Quer evitar fraudes? Checar apenas nomes e CPF não é mais suficiente](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-
 [5 coisas que você não sabia sobre cartões de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
 Na tela de login é necessário criar um cadastro novo - e inserir todos os seus dados pessoais - ou digitar um usuário e senha já existentes. **Provavelmente você já esqueceu a senha**, então pede que o site envie uma nova por e-mail. Às vezes esqueceu até que já comprou naquele site, então faz um novo cadastro completo e só no final o sistema diz que o seu CPF já existe na base. Que raiva!

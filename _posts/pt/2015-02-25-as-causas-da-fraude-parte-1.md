@@ -13,7 +13,7 @@ Este post, dividido em duas partes, vai tratar dos principais fatores que contri
 **Leia também**  
 [Saiba as principais causas de fraude no e-commerce - Parte 2: Vazamento de dados](https://blog.konduto.com/pt/2015/03/as-causas-da-fraude-parte-2?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 [Compra online sem login? Conheça o case do botão de R$ 1 bilhão](https://blog.konduto.com/pt/2015/01/tinha-uma-senha-no-meio-do-caminho?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Chargeback, revisões manuais... veja 5 indicadores de análise de risco no e-commerce](https://blog.konduto.com/pt/2014/11/5-indicadores-para-quem-faz-analise-de-risco-no-e-commerce?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Veja 5 indicadores de análise de risco no e-commerce](https://blog.konduto.com/pt/2014/11/5-indicadores-para-quem-faz-analise-de-risco-no-e-commerce?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
 
 ## Autenticação: quem é você mesmo?
@@ -32,6 +32,6 @@ Muitas empresas estão trabalhando para tentar resolver o problema da autentica�
 
 Enquanto não surgir uma solução universal, simples de usar e segura, o melhor é ter sempre em mente isto: não há como verificar quem está do outro lado.
 
-**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para o nosso newsletter!](http://eepurl.com/2jpuz)**
+**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para a nossa newsletter!](http://eepurl.com/2jpuz)**
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)

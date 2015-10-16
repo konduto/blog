@@ -10,7 +10,7 @@ Não teríamos fraude no e-commerce se não houvessem milhares de números de ca
 
 **Leia também**  
 [Saiba as principais causas de fraude no e-commerce - Parte 1: Autenticação do cliente](https://blog.konduto.com/pt/2015/02/as-causas-da-fraude-parte-1?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo) 
-Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [5 coisas que você não sabia sobre cartões de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
 A principal fonte, infelizmente, são os próprios lojistas. A responsabilidade é de quem captura e manipula os dados, ou seja, quem os recebe em primeira mão do comprador e os usa no processamento do pagamento. São raros os casos nos quais alguma instituição da cadeia de pagamentos - adquirentes, bancos ou bandeiras - é atacada. Mas já [aconteceu](http://g1.globo.com/Noticias/Tecnologia/0,,MUL968334-6174,00-VAZAMENTO+DE+DADOS+DE+CARTAO+DE+CREDITO+PODE+SER+O+MAIOR+DA+HISTORIA.html) [antes](http://g1.globo.com/tecnologia/noticia/2012/04/ataque-contra-global-payments-atinge-15-milhao-de-cartoes.html). Porém, a grande maioria dos vazamentos acontece quando o comprador oferece o cartão ao lojista.
@@ -39,6 +39,6 @@ Você pode usar um gateway com uma página de pagamento customizada, que fica so
 
 Se o seu negócio não consegue rodar sem capturar ou armazenar o número do cartão - e há muitos casos assim -, então está na hora de se familiarizar com os padrões de segurança do PCI. Comece clicando [aqui](https://pt.pcisecuritystandards.org/_onelink_/pcisecurity/en2pt/minisite/en/docs/PCI_DSS_v3.pdf) e [aqui](https://pt.pcisecuritystandards.org/minisite/en/).
 
-**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para o nosso newsletter!](http://eepurl.com/2jpuz)**
+**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para a nossa newsletter!](http://eepurl.com/2jpuz)**
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)
