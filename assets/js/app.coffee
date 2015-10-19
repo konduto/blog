@@ -31,3 +31,7 @@ deactivate_map = ->
 # zoom
 $ -> 
   $(".full.zoomable img").click -> $(this).toggleClass("zoom")
+
+# target blank
+$ ->
+  $("a").attr("target","_blank");
