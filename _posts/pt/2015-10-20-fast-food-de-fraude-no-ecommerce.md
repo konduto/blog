@@ -6,7 +6,7 @@ subtitle: "Crime de venda de dados roubados de cartões de crédito é tão orga
 excerpt: "Hoje em dia, há fóruns, grupos de discussão e sites que vendem dados sobre cartões de créditos roubados. Perigo para o e-commerce!"		
 author: felipe		
 ---
-![Crime Cartão](/images/201520-ladrao_cartao_dpc.jpg)  
+![Crime Cartão](/images/201520-ladrao_cartao_dpc.jpg)
 <small>*Imagem: Dollar Photoclub*</small>
 
 Já pensou se criminosos tivessem a ousadia de criar sites, fóruns e grupos de discussão para **vender dados válidos de [cartões de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo) pela internet**? Bem... na verdade, não é necessário fazer um exercício tão grande de imaginação, pois isso **já existe** – facilitando (e muito) a vida de golpistas que fazem uso dessas informações para adquirir mercadorias de alto valor que sejam facilmente revendidas. 
@@ -20,7 +20,7 @@ Um exemplo emblemático dessas “lojas” foi relatado pelo repórter norte-ame
 
 A paródia com a rede de fast food está no nome, que em tradução (bastante) livre poderia ser McFraude, com direito aos arcos dourados no logotipo. O slogan, *I’m swipin’ it*, poderia ser interpretado como “**roubo muito tudo isso**”. Já o mascote, um Ronald McDonald apontando um revólver, não precisa de tradução.
 
-![McDumpals](/images/151020-mcdumpals.jpg)  
+![McDumpals](/images/151020-mcdumpals.jpg)
 <small>*Reprodução: <a href="krebsonsecurity.com/">KrebsOnSecurity</a>*</small>
 
 O McDumpals deixa claro logo na sua taxa de inscrição que não é voltado a amadores, mas sim a profissionais do crime cibernético: o site exige um depósito de 100 Bitcoins, **algo em torno de R$ 88 mil**. Uma vez inscrito, o fraudador tem acesso a todo o conteúdo da página, incluindo **as últimas notícias sobre dumps**, como novos lotes de cartões recentemente roubados, pré-vendas, descontos em lotes mais antigos e novos fornecedores de informações roubadas. 
