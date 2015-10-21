@@ -2,14 +2,14 @@
 ---
 
 # languages
-$ ->
+###$ ->
   if location.pathname == "/"
     lang = if navigator.languages then navigator.languages[0] else \
       (navigator.language || navigator.userLanguage)
     locale = lang.substring(0,2)
     if locale not in ["en","pt"]
       locale = "pt"
-    window.location.replace("http://"+window.location.host+"/"+locale)
+    window.location.replace("http://"+window.location.host+"/"+locale)###
 
 # google maps fix
 $ ->
