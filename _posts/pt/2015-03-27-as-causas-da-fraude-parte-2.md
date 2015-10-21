@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2015-03-27T19:48:00-03:00'
-title: "As rincipais causas de fraude no e-commerce - Parte 2: Vazamento de dados"
+title: "As principais causas de fraude no e-commerce - Parte 2: Vazamento de dados"
 subtitle: "Nesta segunda parte vamos falar sobre segurança e vazamento de dados sensíveis"
 excerpt: "Na segunda parte deste post, que fala sobre as fontes da fraude na internet, vamos tratar da segurança e vazamento de dados pessoais e de cartão de crédito."
 author: tom
