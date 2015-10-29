@@ -52,6 +52,8 @@ Somos uma startup brasileira fundada em 2014 que criou uma tecnologia única que
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/konduto/videos/613187352119217/" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/konduto/videos/613187352119217/"><p>Entenda como diminuir fraudes no seu e-commerce com a Konduto:</p>Posted by <a href="https://www.facebook.com/konduto/">Konduto</a> on&nbsp;<a href="https://www.facebook.com/konduto/videos/613187352119217/">Sexta, 12 de dezembro de 2014</a></blockquote></div></div>  
 
-**Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	
+## Quer saber mais? 
+
+Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)
