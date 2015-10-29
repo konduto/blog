@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 date: '2014-09-28T17:26:00-03:00'
 title: O que fazer quando você recebe o seu primeiro chargeback?
