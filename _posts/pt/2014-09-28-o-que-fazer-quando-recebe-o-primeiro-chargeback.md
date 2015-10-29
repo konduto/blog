@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 date: '2014-09-28T17:26:00-03:00'
 title: O que fazer quando você recebe o seu primeiro chargeback?
@@ -45,6 +45,10 @@ Até o ano passado não havia muito o que pudesse ser feito para reverter um cha
 Se você comprovar que foi vítima de uma fraude, investigue para ver se não continua acontecendo. Muitos fraudadores usam o mesmo cadastro para fraudar uma loja até que ele seja cancelado, e pode haver pedidos em abertos no seu sistema feitos para o mesmo usuário. Verifique se não há outros pedidos com entregas para o mesmo endereço e com os mesmos dados cadastrais, como IP, e-mail, CPF ou cartão. Bloqueie tudo o que puder achar até poder revisar um por um.
 
 Receber uma notificação de chargeback nunca é uma coisa boa, mas não é o fim do mundo. É importante ficar atento para ver se é um caso isolado ou um sinal de algum problema maior. Na dúvida, tente sempre o contato com cliente e com a sua operadora de cartão.
+
+## Sobre a Konduto
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/konduto/videos/613187352119217/" data-width="500"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/konduto/videos/613187352119217/"><p>Entenda como diminuir fraudes no seu e-commerce com a Konduto:</p>Posted by <a href="https://www.facebook.com/konduto/">Konduto</a> on&nbsp;<a href="https://www.facebook.com/konduto/videos/613187352119217/">Sexta, 12 de dezembro de 2014</a></blockquote></div></div>
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	
 
