@@ -1,6 +1,6 @@
 ---
 layout: post		
-date: '2015-10-20T18:10:00-03:00'		
+date: '2015-11-03T18:10:00-03:00'		
 title: "Você sabe para que serve o HTTPS no seu site?"		
 subtitle: "O cliente se sente mais seguro em um ambiente HTTPS, mas isso não quer dizer, necessariamente, que ele esteja seguro"		
 excerpt: "Certificado de segurança é fundamental para quem deseja abrir um e-commerce, mas você sabe para o que realmente serve o HTTPS?"	
