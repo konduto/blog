@@ -6,7 +6,7 @@ subtitle: "A fraude está cada vez mais inteligente. E os lojistas também preci
 excerpt: "Espera-se que as fraudes na Black Friday atinjam R$ 15 milhões. Saiba como se proteger para não fazer parte dessa estatística tão tenebrosa"		
 author: felipe		
 ---
-![HTTPS](/images/151105-5dicas.jpg)
+![5dicas](/images/151105-5dicas.jpg)
 <small>*Imagem: Dollar Photoclub*</small>
 
 A [Black Friday](blog.konduto.com/pt/2015/10/black-friday-fraudes-aumentam?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo) deve movimentar quase R$ 2 bilhões no País na última sexta-feira de novembro, segundo o [Portal iG](economia.ig.com.br/black-friday/2015-11-07/black-friday-boleto-continuara-como-opcao-em-mercado-dominado-pelo-credito.html). O número é ótimo, especialmente levando em consideração o momento turbulento por que passa a economia brasileira em 2015. No entanto, este mesmo valor traz consigo uma expectativa alarmante, se considerarmos que **a taxa de fraudes do mercado nacional gira em torno de 1,5%**. Ou seja: espera-se, também, um prejuízo de **R$ 30 milhões** em decorrência do evento. 
