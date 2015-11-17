@@ -59,7 +59,7 @@ Por mais que os obstáculos apresentados aqui variem de grau, cor e sabor, a ide
 
 O lojista precisa garantir que determinada necessidade básica já foi sanada antes de “escalar” para o próximo obstáculo – ou para o próximo nível da hierarquia. Afinal de contas, na maioria dos casos não faz muito sentido preocupar-se com automação de plataforma ou análise de risco se você não tem um volume tão grande e tem disponibilidade para realizar essas atividades. Até porque um indicador que jamais deve ser ignorado pelo dono de uma loja – online ou offline – é a **margem**. 
 
-## Sobre a [Konduto]https://www.konduto.com/pt?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
+## Sobre a [Konduto](https://www.konduto.com/pt?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 		
 Nós somos uma startup brasileira que desenvolveu uma tecnologia inovadora para barrar a fraude no e-commerce. Nossas análises são completas e não se baseiam na triangulação de dados cadastrais, como e-mail e CPF. Nós monitoramos também o comportamento de navegação do cliente do instante em que ele entra em sua loja virtual até o momento em que a compra é concluída. 
 
