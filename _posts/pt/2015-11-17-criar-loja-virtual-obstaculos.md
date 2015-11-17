@@ -58,9 +58,9 @@ A preocupação com a automatização de **[análises de risco](http://blog.kond
 
 ##  Concluindo...
 
-Por mais que os obstáculos apresentados aqui variem de grau, cor e sabor, a ideia é que a evolução estrutural trilhada pelas lojas online é em grande parte previsível – assim como a Pirâmide de Maslow, a analogia é válida para quem deseja começar a vender pela internet. 
+O lojista precisa garantir que determinada necessidade básica já foi sanada antes de “escalar” para o próximo obstáculo – ou para o próximo nível da hierarquia. Afinal de contas, na maioria dos casos não faz muito sentido preocupar-se com automação de plataforma ou análise de risco se você não tem um volume tão grande e tem disponibilidade para realizar essas atividades. Até porque um indicador que jamais deve ser ignorado pelo dono de uma loja – online ou offline – é a **margem**.
 
-O lojista precisa garantir que determinada necessidade básica já foi sanada antes de “escalar” para o próximo obstáculo – ou para o próximo nível da hierarquia. Afinal de contas, na maioria dos casos não faz muito sentido preocupar-se com automação de plataforma ou análise de risco se você não tem um volume tão grande e tem disponibilidade para realizar essas atividades. Até porque um indicador que jamais deve ser ignorado pelo dono de uma loja – online ou offline – é a **margem**. 
+Por mais que os obstáculos apresentados aqui variem de grau, cor e sabor, a ideia é que a evolução estrutural trilhada pelas lojas online é em grande parte previsível – assim como a Pirâmide de Maslow, a analogia é válida para quem deseja começar a vender pela internet.  
 
 ## Sobre a [Konduto](https://www.konduto.com/pt?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 		
