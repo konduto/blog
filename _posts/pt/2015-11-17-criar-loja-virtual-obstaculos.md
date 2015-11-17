@@ -47,6 +47,9 @@ Para cada um desses problemas existem diferentes soluções. Cabe ao lojista pes
 
 ## Obstáculo #4: As fraudes! 
 
+![5dicas](/images/151117-fraudador.jpg)
+<small>*Imagem: Dollar Photoclub*</small>
+
 Quando você e sua equipe não têm tempo para revisar todos os pedidos, imprimir etiquetas dos Correios ou emitir Notas Fiscais manualmente, parabéns! Apesar de esses problemas darem uma grande dor de cabeça, eles são sinais de que existem chances de que **sua operação está razoavelmente grande e necessita mais automatização** – ainda que o termo “grande” possa incluir números de diferentes escalas.
 
 Claro que ver o crescimento de sua loja virtual é algo muito agradável, mas há uma consequência que precisa ser encarada: assim como muitos clientes conheceram o seu e-commerce, pessoas mal intencionadas também descobriram o seu estabelecimento e podem querer tirar proveito disso. Como? Realizando **[compras fraudulentas](http://blog.konduto.com/pt/2015/10/fast-food-de-fraude-no-ecommerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. 
