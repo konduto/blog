@@ -30,8 +30,8 @@ deactivate_map = ->
 
 # zoom
 $ -> 
-  $(".full.zoomable img").click -> $(this).toggleClass("zoom")
-
-# target blank
-$ ->
+  if location.search.indexOf("em=1") > 0
+    $('#mc_embed_signup').hide()
   $("a").attr("target","_blank");
+  $(".full.zoomable img").click -> $(this).toggleClass("zoom")
+  
