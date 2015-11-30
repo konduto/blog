@@ -31,7 +31,7 @@ O lojista que opera nestas condições não tem o luxo de filtrar os pedidos mai
 
 Vale aqui fazermos uma observação: caso o lojista se encontre nesta posição de ter que escolher entre vender mais ou barrar mais, quem deve ampará-lo na decisão é o bolso – ou a **“dor do bolso”**. Caso o modelo de negócios esteja sustentado em margens mais gordas, talvez a melhor resposta seja aprovar mais pedidos, pois o prejuízo será muito menor – embora haja também o risco de o volume de fraudes ser tão grande que incomode as adquirentes de cartões de crédito. Já se o lojista trabalha com escala ou com produtos físicos de alto custo, recusar vendas suspeitas pode ser o mais sensato a se fazer.
 
-Nós sabemos, o termo **recusar vendas** gera um grande desconforto aos lojistas – e essa reação é totalmente compreensível. É um faturamento que deixa de entrar, uma meta que não é alcançada, um produto que fica no estoque... é uma sensação ruim, especialmente por conta da dúvida de que aquele pedido barrado pdoeria ser um pedido bom. Contudo, é necessário conscientizar-se de que **nem sempre “recusar uma venda” significa “recusar ganhar dinheiro”**. Às vezes, pode significar **recusar uma fraude**. Trata-se de manter o seu negócio saudável e evitar um (enorme!) prejuízo.
+Nós sabemos, o termo **recusar vendas** gera um grande desconforto aos lojistas – e essa reação é totalmente compreensível. É um faturamento que deixa de entrar, uma meta que não é alcançada, um produto que fica no estoque... é uma sensação ruim, especialmente por conta da dúvida de que aquele pedido barrado poderia ser um pedido bom. Contudo, é necessário conscientizar-se de que **nem sempre “recusar uma venda” significa “recusar ganhar dinheiro”**. Às vezes, pode significar **recusar uma fraude**. Trata-se de manter o seu negócio saudável e evitar um (enorme!) prejuízo.
 
 **Leia também**  
 [Coisas que você acha que sabe sobre IPs, só que não!](http://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
@@ -99,8 +99,8 @@ Mas e se ele passou uma hora navegando pelo site, observou diversos modelos, col
     <td class="tg-yw4l">Entrega:</td>
     <td class="tg-yw4l">Alameda Girassol, número 99 - Cidade Z</td>
   </tr>
-</table>
-
+</table>  
+  
 **Você também pode levar em consideração essas informações:**
 
 <style type="text/css">
@@ -151,7 +151,7 @@ Mas e se ele passou uma hora navegando pelo site, observou diversos modelos, col
     <td class="tg-yw4l">4</td>
   </tr>
 </table></div>  
-<p>  
+  
 A priori, com um bom conhecimento de matemática e estatística, papel e caneta (ou uma planilha de Excel) e bastante tempo para investir, você pode criar as regras que funcionam para evitar fraudes na sua loja online. Mas fazer com que esse modelo se aplique para todas as transações e as respostas sejam dadas em menos de 1 segundo torna essa tarefa humanamente impossível.
 
 É aí que entra a inteligência artificial, que consegue cruzar todas essas informações (e muitas outras mais) em milissegundos, sem truncar o seu negócio e sem deixar o cliente faminto esperando aquela pizza quentinha. Sem falar que, com tudo isso, seus custos com fraudes diminuem e os lucros aumentam. **Vale até a pena pedir uma pizza para comemorar, não acha?**
