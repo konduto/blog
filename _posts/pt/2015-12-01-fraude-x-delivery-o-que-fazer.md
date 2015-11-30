@@ -99,6 +99,7 @@ Mas e se ele passou uma hora navegando pelo site, observou diversos modelos, col
   </tr>
 </table>  
 .
+
 **Você também pode levar em consideração essas informações:**
 
 <style type="text/css">
@@ -150,6 +151,7 @@ Mas e se ele passou uma hora navegando pelo site, observou diversos modelos, col
   </tr>
 </table></div>  
 .
+
 A priori, com um bom conhecimento de matemática e estatística, papel e caneta (ou uma planilha de Excel) e bastante tempo para investir, você pode criar as regras que funcionam para evitar fraudes na sua loja online. Mas fazer com que esse modelo se aplique para todas as transações e as respostas sejam dadas em tempo real torna essa tarefa humanamente impossível.
 
 É aí que entra a inteligência artificial, que consegue cruzar todas essas informações (e muitas outras mais) em milissegundos, sem truncar o seu negócio e sem deixar o cliente faminto esperando aquela pizza quentinha. Sem falar que, com tudo isso, seus custos com fraudes diminuem e os lucros aumentam. **Vale até a pena pedir uma pizza para comemorar, não acha?**
