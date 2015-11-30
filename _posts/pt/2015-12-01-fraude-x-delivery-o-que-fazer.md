@@ -18,10 +18,10 @@ Já comentamos algumas vezes aqui no blog que essa [checagem “cara-crachá” 
 
 Estamos falando aqui de negócios como delivery de comida, venda de software ou jogos online ou até mesmo entregas expressas de produtos. Nesses casos, a operação tem que trabalhar em tempo real e **as respostas devem ser precisas e instantâneas**: o gamer não vai topar esperar horas para testar o jogo que ele quer tanto baixar e o cliente faminto não vai gostar nem um pouco de aguardar nem um minutinho para que a comida quentinha chegue à porta da casa dele.
 
+**_"A sua pizza deliciosa já saiu do forno, o queijo está borbulhando de tão quente e a calabresa está até estalando. Mas aguarde algumas horas enquanto confirmamos o seu pagamento”_**
+
 ![5dicas](/images/151201-pizza.jpg)
 <small>*Imagem: Dollar Photoclub*</small>
-
-**_"A sua pizza deliciosa já saiu do forno, o queijo está borbulhando de tão quente e a calabresa está até estalando. Mas aguarde algumas horas enquanto confirmamos o seu pagamento”_**
 
 Já pensou?
 
