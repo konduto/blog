@@ -1,7 +1,7 @@
 ---
 layout: post		
 date: '2015-12-01T18:10:00-03:00'
-title: "Delivery x fraude: você deve aprovar mais ou lucrar menos?"		
+title: "Análise de risco em tempo real: como evitar fraudes sem prejudicar o bom cliente?"		
 subtitle: "A tecnologia pode ser uma aliada importante do lojista para uma tomada de decisão tão importante"
 excerpt: "Como detectar fraudes quando você não possui tempo hábil para revisar uma compra suspeita?"		
 author: felipe		
