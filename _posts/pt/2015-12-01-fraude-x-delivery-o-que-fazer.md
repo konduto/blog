@@ -11,16 +11,19 @@ Para a maioria dos varejistas online, o caminho que um pedido faz após a finali
 
 Já comentamos algumas vezes aqui no blog que essa [checagem “cara-crachá” não é mais tão eficiente quanto antigamente](http://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual/), já que a fraude online está cada vez mais inteligente. A revisão manual leva tempo – minutos, horas, e até mesmo dias. Este é um fluxo bastante testado por muitas lojas e funciona bem para quem vende produtos (físicos) e depende de uma transportadora para coletá-lo e transportá-lo até o destino final. 
 
-###Mas e quando a empresa não tem esse tempo para aprovar a compra e despachar o produto para o cliente?
-
-Estamos falando aqui de negócios como delivery de comida, venda de software ou jogos online ou até mesmo entregas expressas de produtos. Nesses casos, a operação tem que trabalhar em tempo real e **as respostas devem ser precisas e instantâneas**: o gamer não vai topar esperar horas para testar o jogo que ele quer tanto baixar e o cliente faminto não vai gostar nem um pouco de aguardar nem um minutinho para que a comida quentinha chegue à porta da casa dele.
+**Mas e quando a empresa não tem esse tempo para aprovar a compra e despachar o produto para o cliente?**
 
 ![5dicas](/images/151201-empresario-relogios.jpg)
 <small>*Imagem: Dollar Photoclub*</small>
 
+Estamos falando aqui de negócios como delivery de comida, venda de software ou jogos online ou até mesmo entregas expressas de produtos. Nesses casos, a operação tem que trabalhar em tempo real e **as respostas devem ser precisas e instantâneas**: o gamer não vai topar esperar horas para testar o jogo que ele quer tanto baixar e o cliente faminto não vai gostar nem um pouco de aguardar nem um minutinho para que a comida quentinha chegue à porta da casa dele.
+
+![5dicas](/images/151201-pizza.jpg)
+<small>*Imagem: Dollar Photoclub*</small>
+
 **_"A sua pizza deliciosa já saiu do forno, o queijo está borbulhando de tão quente e a calabresa está até estalando. Mas aguarde algumas horas enquanto confirmamos o seu pagamento”_**
 
-###Já pensou?
+Já pensou?
 
 O lojista que opera nestas condições não tem o luxo de filtrar os pedidos mais difíceis na mão, então precisa fazer uma escolha: deixar mais fraudes passarem para não impactar os clientes legítimos ou barrar mais vendas e acabar com clientes bons na "rede"?
 
@@ -47,7 +50,7 @@ Talvez você desconfie de um cliente que nunca adquiriu aparelhos eletrônicos e
 
 Mas e se ele passou uma hora navegando pelo site, observou diversos modelos, colocou e tirou vários itens no carrinho, calculou frete e só então fez login para digitar todos os números do cartão de crédito? O risco cai bastante, não é? Ainda bem, porque ele só queria dar um presente de aniversário para a irmã dele, que mora tão longe. Já fraudadores não perderiam tanto tempo observando produtos e calculando fretes: eles simplesmente escolheriam o produto que lhes interessasse, colocariam no carrinho e concluiriam a compra em questão de minutos.
 
-###Por exemplo, em vez de olhar apenas para as seguintes informações do pedido:
+**Por exemplo, em vez de olhar apenas para as seguintes informações do pedido:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -98,7 +101,7 @@ Mas e se ele passou uma hora navegando pelo site, observou diversos modelos, col
   </tr>
 </table>
 
-###Você também pode levar em consideração essas informações:
+**Você também pode levar em consideração essas informações:**
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -148,7 +151,7 @@ Mas e se ele passou uma hora navegando pelo site, observou diversos modelos, col
     <td class="tg-yw4l">4</td>
   </tr>
 </table></div>  
-  
+<p>  
 A priori, com um bom conhecimento de matemática e estatística, papel e caneta (ou uma planilha de Excel) e bastante tempo para investir, você pode criar as regras que funcionam para evitar fraudes na sua loja online. Mas fazer com que esse modelo se aplique para todas as transações e as respostas sejam dadas em menos de 1 segundo torna essa tarefa humanamente impossível.
 
 É aí que entra a inteligência artificial, que consegue cruzar todas essas informações (e muitas outras mais) em milissegundos, sem truncar o seu negócio e sem deixar o cliente faminto esperando aquela pizza quentinha. Sem falar que, com tudo isso, seus custos com fraudes diminuem e os lucros aumentam. **Vale até a pena pedir uma pizza para comemorar, não acha?**
