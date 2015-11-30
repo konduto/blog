@@ -13,15 +13,13 @@ Já comentamos algumas vezes aqui no blog que essa [checagem “cara-crachá” 
 
 **Mas e quando a empresa não tem esse tempo para aprovar a compra e despachar o produto para o cliente?**
 
-![5dicas](/images/151201-empresario-relogios.jpg)
-<small>*Imagem: Dollar Photoclub*</small>
+![empresario](/images/151201-empresario-relogios.jpg)
 
 Estamos falando aqui de negócios como delivery de comida, venda de software ou jogos online ou até mesmo entregas expressas de produtos. Nesses casos, a operação tem que trabalhar em tempo real e **as respostas devem ser precisas e instantâneas**: o gamer não vai topar esperar horas para testar o jogo que ele quer tanto baixar e o cliente faminto não vai gostar nem um pouco de aguardar nem um minutinho para que a comida quentinha chegue à porta da casa dele.
 
 **_"A sua pizza deliciosa já saiu do forno, o queijo está borbulhando de tão quente e a calabresa está até estalando. Mas aguarde algumas horas enquanto confirmamos o seu pagamento”_**
 
-![5dicas](/images/151201-pizza.jpg)
-<small>*Imagem: Dollar Photoclub*</small>
+![pizza](/images/151201-pizza.jpg)
 
 Já pensou?
 
@@ -167,3 +165,5 @@ Somos uma startup que desenvolveu uma **tecnologia inovadora** para barrar as fr
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)  
 
 <div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/konduto/videos/613187352119217/" data-width="650"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/konduto/videos/613187352119217/"><p>Entenda como diminuir fraudes no seu e-commerce com a Konduto:</p>Posted by <a href="https://www.facebook.com/konduto/">Konduto</a> on&nbsp;<a href="https://www.facebook.com/konduto/videos/613187352119217/">Sexta, 12 de dezembro de 2014</a></blockquote></div></div>
+
+<small>Imagens: Dollar Photoclub</small>
