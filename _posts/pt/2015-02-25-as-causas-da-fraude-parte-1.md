@@ -20,7 +20,7 @@ Este post, dividido em duas partes, vai tratar dos principais fatores que contri
 
 Autenticar alguém implica em confiar em uma instituição que garante a identidade daquela pessoa. O governo é a primeira que vem em mente, já que sacamos o RG ou a CNH para provar quem somos. Documentação autenticada em cartório tem quase o mesmo valor que a oficial, pois tanto o governo quanto nós confiamos no processo.
 
-Há também a autenticação não de identidade, mas sim de *"posse"* de uma informação. Um e-mail pedindo a confirmação do endereço ou um SMS com um código de ativação são os exemplos mais comuns. Com iso eu não posso autenticar quem você é, mas sei que você estava com este telefone no momento do SMS. O PayPal, por exemplo, faz uma cobrança no seu cartão passando um token na fatura e você precisa confirmá-lo depois. Isso implica que você tem acesso à fatura do cartão e que, portanto, é o seu dono.
+Há também a autenticação não de identidade, mas sim de *"posse"* de uma informação. Um e-mail pedindo a confirmação do endereço ou um SMS com um código de ativação são os exemplos mais comuns. Com isso eu não posso autenticar quem você é, mas sei que você estava com este telefone no momento do SMS. O PayPal, por exemplo, faz uma cobrança no seu cartão passando um token na fatura e você precisa confirmá-lo depois. Isso implica que você tem acesso à fatura do cartão e que, portanto, é o seu dono.
 
 Até aí tudo bem. Mas nenhum destes modos de autenticação é fácil de se usar no e-commerce. Pedir documentos digitalizados para o cliente é uma experiência ruim ("*você não confia em mim?!*") e as consultas de CPF só dizem a quem ele pertence. Não há como garantir que a pessoa do outro lado da tela é quem ela diz ser.
 
