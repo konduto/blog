@@ -21,6 +21,8 @@ Um data scientist (ou cientista de dados) dos Estados Unidos resolveu aplicar ma
 ##2. Escolher o melhor filme para o seu final de semana
 Às vezes você esgotou a sua criatividade e não sabe qual filme será a escolha perfeita para aquele domingo preguiçoso. É justamente aí que entra o machine learning do [Netflix](https://www.netflix.com/br/), por exemplo: com base nos filmes que você já assistiu e avaliou na plataforma, o serviço de streaming faz sugestões que, muito provavelmente, não te decepcionarão. 
 
+![tv](/images/151217-tv.gif)
+
 ##3. Tirar motoristas de grandes congestionamentos
 Sim, é exatamente sobre o Waze que estamos falando: o algoritmo desenvolvido por uma startup israelense aprende com os próprios usuários os melhores caminhos do mapa, além de receber informações de congestionamentos, acidentes, bloqueio de vias, condições de clima adversas etc. e fornece em tempo real as rotas mais adequadas, (se possível) fugindo de engarrafamentos e das demais complicações que impactam o nosso trânsito de cada dia. Se o serviço não fosse tão preciso assim, provavelmente o Google - uma das maiores referências de machine learning do mundo - não teria investido mais de US$ 1,3 bilhão para comprar o Waze em 2013. 
  
