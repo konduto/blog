@@ -15,7 +15,7 @@ Como você pode ver, nós aqui na [Konduto](http://konduto.com/?utm_source=kondu
 ##1. Indicar a qualidade de um vinho
 Um data scientist (ou cientista de dados) dos Estados Unidos resolveu aplicar machine learning sobre vinhos franceses da cidade de Bordeaux e desenvolveu um sistema para classificar a qualidade de uma safra da bebida. Como? Ele compilou dados sobre o clima na região nos últimos 60 anos e sobre as melhores safras durante o mesmo período de tempo e treinou um algoritmo de acordo com os fatores que fazem uma colheita de uva ser boa ou ruim para a produção vinícola. [Resultado](http://www.datanami.com/2015/02/20/outsmarting-wine-snobs-with-machine-learning/): o modelo “acertou” 6 das 8 melhores safras de vinho durante as seis décadas utilizadas no estudo. 
 
-![vinho](/images/151217-vinho.jpg)
+![vinho](/images/151217-garrafa-vinho.jpg)
 <small>Imagem: Dollar Photoclub</small>
 
 ##2. Escolher o melhor filme para o seu final de semana
