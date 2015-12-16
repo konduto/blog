@@ -25,6 +25,8 @@ Um data scientist (ou cientista de dados) dos Estados Unidos resolveu aplicar ma
 
 ##3. Tirar motoristas de grandes congestionamentos
 Sim, é exatamente sobre o Waze que estamos falando: o algoritmo desenvolvido por uma startup israelense aprende com os próprios usuários os melhores caminhos do mapa, além de receber informações de congestionamentos, acidentes, bloqueio de vias, condições de clima adversas etc. e fornece em tempo real as rotas mais adequadas, (se possível) fugindo de engarrafamentos e das demais complicações que impactam o nosso trânsito de cada dia. Se o serviço não fosse tão preciso assim, provavelmente o Google - uma das maiores referências de machine learning do mundo - não teria investido mais de US$ 1,3 bilhão para comprar o Waze em 2013. 
+
+![transito](/images/151217-transito.gif)
  
 ##4. Evitar colisões de embarcações com baleias
 A Universidade de Cornell, nos Estados Unidos, desenvolveu um algoritmo capaz de identificar a presença de baleias-francas no oceano e desviar as rotas de embarcações para evitar a colisão com esses animais, que têm quase 20 m de largura e 90 toneladas de peso. O modelo foi baseado no som que as baleias emitem para se localizarem e ajuda na preservação do mamífero, que está ameaçado de extinção. 
