@@ -10,7 +10,7 @@ Já dedicamos no nosso blog um post apenas para **[explicar o que é machine lea
 
 Machine learning é tão sexy (tecnologicamente falando) que os sistemas permitem **extensas análises de dados, reconhecimento de padrões, cruzamento de informações e geração de insights**. Tudo isso ocorrendo em frações de segundo e em uma escala gigantesca!
 
-Como você pode ver, nós aqui na [Konduto](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo) somos apaixonados por este tema. Mas queremos explicar por que, apresentando 20 tarefas inacreditáveis (triviais ou não) que são realizadas por machine learning e que talvez você nem sabia.
+Como você pode ver, nós aqui na **[Konduto](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)** somos apaixonados por este tema. Mas queremos explicar por que, apresentando 20 tarefas inacreditáveis (triviais ou não) que são realizadas por machine learning e que talvez você nem sabia.
 
 ##1. Indicar a qualidade de um vinho
 Um data scientist (ou cientista de dados) dos Estados Unidos resolveu aplicar machine learning sobre vinhos franceses da cidade de Bordeaux e desenvolveu um sistema para classificar a qualidade de uma safra da bebida. Como? Ele compilou dados sobre o clima na região nos últimos 60 anos e sobre as melhores safras durante o mesmo período de tempo e treinou um algoritmo de acordo com os fatores que fazem uma colheita de uva ser boa ou ruim para a produção vinícola. [Resultado](http://www.datanami.com/2015/02/20/outsmarting-wine-snobs-with-machine-learning/): o modelo “acertou” 6 das 8 melhores safras de vinho durante as seis décadas utilizadas no estudo. 
