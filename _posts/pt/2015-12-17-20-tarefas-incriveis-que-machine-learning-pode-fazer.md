@@ -85,10 +85,10 @@ Pode parecer tarefa fácil identificar um pássaro a partir de alguns segundos d
 ![passaro](/images/151217-passaro.jpg)
 <small>Imagem: Pixabay</small>
 
-#19. Filtrar spams
+##19. Filtrar spams
 Os principais serviços de e-mails (gratuitos ou pagos) têm um filtro de spam bastante inteligente, capazes de bloquear automaticamente mensagens indesejadas que contenham características “clássicas” como “viagra”, “príncipe nigeriano” ou links para download de arquivos .exe. O usuário não precisa sequer configurar essas regras: graças ao machine learning, os serviços filtram os e-mails e não deixam que eles apareçam na caixa de entrada.
 
-##20. Detectar fraudes no e-commerce (claro!) 
+#20. Detectar fraudes no e-commerce (claro!) 
 Claro que não poderíamos deixar este tópico fora da nossa relação - afinal, a [Konduto](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo) desenvolveu um antifraude inteligente graças ao machine learning. Com base nas características dos clientes de uma loja, do histórico de chargebacks e de diversos outros fatores (incluindo o “feijão com arroz” da análise de risco, o cruzamento de CPF e número de cartão de crédito), é possível detectar padrões de comportamento de usuários em um site e identificar uma fraude no momento em que o pedido é realizado. Com isso, o lojista obtém respostas em tempo real (em menos de 1s), aprova mais pedidos, tem menos custos de revisão manual e barra somente as transações realmente suspeitas. Ou seja: é possível ter uma redução considerável de custos e, consequentemente, um aumento de lucro. 
 
 ## Sobre a [Konduto](https://www.konduto.com/pt?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
