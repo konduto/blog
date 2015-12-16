@@ -80,7 +80,7 @@ Um dos sistemas de computadores mais modernos já lançados, o Watson, da IBM, t
 Uma das tecnologias mais surpreendentes nos últimos tempos são os carros que se locomovem sem a necessidade de um humano no comando do volante. Há diversos fatores que contribuíram para o desenvolvimento destes veículos foi o machine learning: o algoritmo aprendeu padrões de milhares de motoristas, desde o instante em que as luzes dos semáforos ficam verdes até as mudanças de faixa. Detalhe: o algoritmo é tão inteligente que também consegue filtrar comportamentos de “barbeiragens”. 
 
 ![parking](/images/151217-parking.gif)
--> <small>Machine learning é à prova de barbeiragens</small> <-
+<small>Machine learning é à prova de barbeiragens</small>
 
 ##18. Identificar pássaros a partir de gravações de áudio
 Pode parecer tarefa fácil identificar um pássaro a partir de alguns segundos do canto da ave, certo? Ok, sim. Mas vamos escalar este desafio, para gravações com dias de duração, centenas (ou milhares) de espécies de pássaros e um ambiente aberto, com muitos outros ruídos (de outros animais, insetos, vento, chuva etc). Tudo isso também é possível graças ao machine learning, usando a tecnologia para facilitar a tarefa dos profissionais da área, reduzir custos e acelerar os estudos, além de torná-los muito mais precisos. 
