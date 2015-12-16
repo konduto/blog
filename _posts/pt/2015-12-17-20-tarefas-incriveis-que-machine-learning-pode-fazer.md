@@ -80,7 +80,7 @@ Um dos sistemas de computadores mais modernos já lançados, o Watson, da IBM, t
 Uma das tecnologias mais surpreendentes nos últimos tempos são os carros que se locomovem sem a necessidade de um humano no comando do volante. Há diversos fatores que contribuíram para o desenvolvimento destes veículos foi o machine learning: o algoritmo aprendeu padrões de milhares de motoristas, desde o instante em que as luzes dos semáforos ficam verdes até as mudanças de faixa. Detalhe: o algoritmo é tão inteligente que também consegue filtrar comportamentos de “barbeiragens”. 
 
 ![parking](/images/151217-parking.gif)
-<small>Machine learning é à prova de barbeiragens</small>
+-> <small>Machine learning é à prova de barbeiragens</small> <-
 
 ##18. Identificar pássaros a partir de gravações de áudio
 Pode parecer tarefa fácil identificar um pássaro a partir de alguns segundos do canto da ave, certo? Ok, sim. Mas vamos escalar este desafio, para gravações com dias de duração, centenas (ou milhares) de espécies de pássaros e um ambiente aberto, com muitos outros ruídos (de outros animais, insetos, vento, chuva etc). Tudo isso também é possível graças ao machine learning, usando a tecnologia para facilitar a tarefa dos profissionais da área, reduzir custos e acelerar os estudos, além de torná-los muito mais precisos. 
@@ -90,8 +90,6 @@ Pode parecer tarefa fácil identificar um pássaro a partir de alguns segundos d
 
 ##19. Filtrar spams
 Os principais serviços de e-mails (gratuitos ou pagos) têm um filtro de spam bastante inteligente, capazes de bloquear automaticamente mensagens indesejadas que contenham características “clássicas” como “viagra”, “príncipe nigeriano” ou links para download de arquivos .exe. O usuário não precisa sequer configurar essas regras: graças ao machine learning, os serviços filtram os e-mails e não deixam que eles apareçam na caixa de entrada.
-
-![spam](/images/151217-spam.jpg)
 
 ##20. Detectar fraudes no e-commerce (claro!)
 Claro que não poderíamos deixar este tópico fora da nossa relação - afinal, a [Konduto](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo) desenvolveu um antifraude inteligente graças ao machine learning. Com base nas características dos clientes de uma loja, do histórico de chargebacks e de diversos outros fatores (incluindo o “feijão com arroz” da análise de risco, o cruzamento de CPF e número de cartão de crédito), é possível detectar padrões de comportamento de usuários em um site e identificar uma fraude no momento em que o pedido é realizado. Com isso, o lojista obtém respostas em tempo real (em menos de 1s), aprova mais pedidos, tem menos custos de revisão manual e barra somente as transações realmente suspeitas. Ou seja: é possível ter uma redução considerável de custos e, consequentemente, um aumento de lucro. 
