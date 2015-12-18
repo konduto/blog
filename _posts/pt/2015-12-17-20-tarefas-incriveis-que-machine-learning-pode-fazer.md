@@ -59,7 +59,7 @@ Aqui a “brincadeira” do Facebook começa a ficar séria. Sabe quando você c
 Neste tópico, Facebook e Google revolucionaram o mercado da publicidade online, desenvolvendo um modelo muito mais sedutor para anunciantes - que pagavam muito dinheiro (muito mesmo!) para atingir muita gente (inclusive as que não eram interessante para o negócio). Com machine learning foi possível otimizar a entrega de publicidade, segmentando-a de acordo com as características do público-alvo do produto e exibindo-a em redes sociais, sites de busca ou páginas com conteúdos relacionados aos anúncios. 
 
 ##12. Prever voos que sofrerão atrasos ou cancelamentos 
-Dois cientistas de dados de Stamford, nos Estados Unidos, também conseguiram desenvolver um serviço capaz de beneficiar inúmeros viajantes, “prevendo” voos que poderão sofrer atrasos ou cancelamentos em função das condições meteorológicas. Eles cruzaram uma fonte de dados de mais de 100 anos da meteorologia americana com informações de 25 anos de performance de linhas aéreas no país e criaram um algoritmo que demonstrou 75% de precisão em voos que sofreram alterações significativas em função das variações do clima. 
+Dois cientistas de dados de Stanford, nos Estados Unidos, também conseguiram desenvolver um serviço capaz de beneficiar inúmeros viajantes, “prevendo” voos que poderão sofrer atrasos ou cancelamentos em função das condições meteorológicas. Eles cruzaram uma fonte de dados de mais de 100 anos da meteorologia americana com informações de 25 anos de performance de linhas aéreas no país e criaram um algoritmo que demonstrou 75% de precisão em voos que sofreram alterações significativas em função das variações do clima. 
 
 ![aeroporto](/images/151217-aeroporto.jpg)
 <small>Imagem: Pixabay</small>
