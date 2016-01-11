@@ -36,7 +36,7 @@ As respostas para essas perguntas podem dar um bom indício sobre os pedidos que
 
 Às vezes um pedido fraudulento não envolve somente um item bastante cobiçado, mas um “ponto fora da curva” pode ser um bom indício para levantar suspeitas. Por isso, olhe para as métricas internas e encontre o **ticket médio** de sua loja online (ou seja: quanto um cliente gasta em média por compra?). 
 
-Se um cliente costuma gastar R$ 200,00 quando realiza uma compra na sua loja, qual seria a sua primeira reação se, um belo dia, chegasse um pedido no valor de R$ 10.000,00? 
+Se um cliente costuma gastar R$ 200,00 quando realiza uma compra na sua loja, qual seria a sua primeira reação se, um belo dia, chegasse um pedido no valor de, digamos... **R$ 10.000,00**?
 
 ![festa](/images/160112-celebration.gif)
 
