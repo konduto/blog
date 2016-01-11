@@ -10,7 +10,7 @@ O seu e-commerce acabou de passar por um ótimo período de vendas, superando as
 
 ![blu](/images/160112-blu.gif)
 
-O que fazer? 
+O que fazer?
 
 Nós da Konduto queremos te ajudar. Por isso, pensamos em **5 dicas emergenciais para você conter o “sangramento” financeiro que o seu negócio pode estar sofrendo** enquanto não implementa uma solução antifraude capaz de barrar os golpes online. 
 
