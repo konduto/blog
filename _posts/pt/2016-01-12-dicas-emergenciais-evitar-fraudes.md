@@ -22,7 +22,7 @@ Isso significa que fraudadores têm uma janela muito grande para “trabalhar”
 
 Quando o problema da fraude começar a aparecer, o e-commerce deve já se preparar: o cenário pode ficar ainda pior, e chargebacks pipocarão por mais um ou dois meses, comprometendo uma fatia considerável do faturamento do negócio. Então, **respire fundo, separe um orçamento para cobrir o prejuízo que virá e adote o lema**: 
 
-![peguefraude](/images/160112-kcpf.png)
+![peguefraude](/images/160112-v1-kcpf.png)
 
 ##2. Filtrar por produto
 
