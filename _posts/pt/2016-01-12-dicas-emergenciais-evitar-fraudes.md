@@ -22,7 +22,7 @@ Isso significa que fraudadores têm uma janela muito grande para “trabalhar”
 
 Quando o problema da fraude começar a aparecer, o e-commerce deve já se preparar: o cenário pode ficar ainda pior, e chargebacks pipocarão por mais um ou dois meses, comprometendo uma fatia considerável do faturamento do negócio. Então, **respire fundo, separe um orçamento para cobrir o prejuízo que virá e adote o lema**: 
 
-![peguefraude](/images/160112-kcpf.jpg)
+![peguefraude](/images/160112-kcpf.png)
 
 ##2. Filtrar por produto
 
@@ -38,7 +38,7 @@ As respostas para essas perguntas podem dar um bom indício sobre os pedidos que
 
 Se um cliente costuma gastar R$ 200,00 quando realiza uma compra na sua loja, qual seria a sua primeira reação se, um belo dia, chegasse um pedido no valor de R$ 10.000,00? 
 
-[festa](/images/160112-celebration.gif)
+![festa](/images/160112-celebration.gif)
 
 Não dá vontade de comemorar deste jeito? Mas é melhor irmos com calma. Muita calma. Às vezes a euforia de “vender bastante” e ter um lucro espetacular pode nublar a nossa visão. E aí, em vez disso, você teria um prejuízo considerável. Recomendamos que você separe todos os pedidos que tenham um valor bem superior ao seu ticket médio e revise-os com mais atenção. 
 
