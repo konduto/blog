@@ -50,7 +50,7 @@ Ah, e importante frisar: não estamos sugerindo que você retire a opção de fr
 
 ##5. Desconfie das coincidências
 
-Fique bastante atento a muitos pedidos que cheguem com os dados repetidos, especialmente **dados de endereço de entrega e telefone para contato** - afinal, um criminoso pode ter dados de [milhares de cartões e milhares de CPFs](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo, mas ele certamente não terá dezenas de números de telefone ou de endereços para receber entregas. 
+Fique bastante atento a muitos pedidos que cheguem com os dados repetidos, especialmente **dados de endereço de entrega e telefone para contato** - afinal, um criminoso pode ter dados de [milhares de cartões e milhares de CPFs](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo), mas ele certamente não terá dezenas de números de telefone ou de endereços para receber entregas. 
 
 Mais de um pedido com o mesmo telefone de contato em um curto espaço de tempo? Cheque tudo com muita atenção. Coincidências, neste contexto, não existem para o e-commerce: são evidências. 
 
