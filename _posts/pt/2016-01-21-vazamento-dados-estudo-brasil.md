@@ -15,6 +15,8 @@ A pesquisa teve a participação de 350 empresas, de 12 países: Alemanha, Austr
 
 De acordo com IBM e Ponemon, as empresas brasileiras tiveram um aumento considerável no risco de sofrerem um grande vazamento de dados, saltando de 30,1% em 2014 para 37% em 2015, “herdando” a amarga liderança do ranking - antes pertencente à Índia, que praticamente não sofreu alterações: apresentou uma tímida queda, de 30,4% para 29,8%. Atrás do Brasil apareceu a França, que cresceu de 24,5% para 35,6%. Do outro lado da lista, com muito mais segurança, estão Canadá e Alemanha, com, respectivamente, 16,3% e 15,9% de chances sofrerem grandes violações de registros pessoais. 
 
+##Países mais vulneráveis
+
 ![chances-fraude](/images/160121-chances_fraude.jpg)
 <small>Ranking de países mais vulneráveis a vazamento de dados em nível empresarial. Brasil (BZ) teve o risco aumentado de 30,1% para 37%. Imagem: 2015 Cost of Data Breach/IBM e Instituto Ponemon</small>
 
@@ -22,8 +24,10 @@ O estudo levou em consideração três grandes fatores como causadores dos vazam
 
 No entanto, neste quesito reside outra estatística alarmante para as empresas brasileiras. Percentualmente, dos 12 países que participaram da pesquisa, o nosso País é o que possui o maior índice de erros causados por colaboradores da própria empresa: 32%. Quantitativamente, os ataques criminosos ainda respondem pela maior parte da quebra de sigilo de informações pessoais de clientes: 38%. Os erros de TI são responsáveis por “apenas” 30%.
 
+##Principais causas de vazamento de dados
+
 ![causas-fraude](/images/160121-causas-fraude.jpg)
-<small>Principais causas de vazamento de dados por País. Azul representa ataques maliciosos, vermelho indica falhas no sistema e verde corresponde ao fator humano. Imagem: 2015 Cost of Data Breach/IBM e Instituto Ponemon</small>
+<small>Azul representa ataques maliciosos, vermelho indica falhas no sistema e verde corresponde ao fator humano. Imagem: 2015 Cost of Data Breach/IBM e Instituto Ponemon</small>
 
 ## Devo armazenar dados de cartão de crédito de clientes?
 
