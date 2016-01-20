@@ -17,14 +17,14 @@ De acordo com IBM e Ponemon, as empresas brasileiras tiveram um aumento consider
 
 ##Países mais vulneráveis
 
-![chances](/images/160121-chances.jpg)
+![chances](/images/160121-chances.png)
 <small>Ranking de países mais vulneráveis a vazamento de dados em nível empresarial. Brasil (BZ) teve o risco aumentado de 30,1% para 37%. Imagem: 2015 Cost of Data Breach/IBM e Instituto Ponemon</small>
 
 O estudo levou em consideração três grandes fatores como causadores dos vazamentos de dados nas empresas: ataques cibernéticos, falhas de sistema e negligência de funcionários. Mundialmente, invasões hackers são a principal razão para a divulgação indevida de registros pessoais: 47%, contra 29% de problemas relacionados à tecnologia e 25% de “fator humano”. 
 
 No entanto, neste quesito reside outra estatística alarmante para as empresas brasileiras. Percentualmente, dos 12 países que participaram da pesquisa, o nosso País é o que possui o maior índice de erros causados por colaboradores da própria empresa: 32%. Quantitativamente, os ataques criminosos ainda respondem pela maior parte da quebra de sigilo de informações pessoais de clientes: 38%. Os erros de TI são responsáveis por “apenas” 30%.
 
-![causas](/images/160121-causas.jpg)
+![causas](/images/160121-causas.png)
 <small>Azul representa ataques maliciosos, vermelho indica falhas no sistema e verde corresponde ao fator humano. Imagem: 2015 Cost of Data Breach/IBM e Instituto Ponemon</small>
 
 ## Devo armazenar dados de cartão de crédito de clientes?
