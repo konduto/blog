@@ -3,7 +3,7 @@ layout: post
 date: '2016-01-21T18:39:00-03:00'
 title: "Estudo: Brasil é o país mais vulnerável para vazamento de dados"
 subtitle: "Risco de vazamento de dados no Brasil disparou quase sete pontos percentuais, superando a Índia"
-excerpt: "O nosso País também é o mais propício a falhas de segurança em decorrência de """
+excerpt: "O nosso País também é o mais propício a falhas de segurança em decorrência do erro humano"
 author: felipe
 ---
 ![foto de abre](/images/160121-foto-abre.jpg)
@@ -23,7 +23,7 @@ O estudo levou em consideração três grandes fatores como causadores dos vazam
 No entanto, neste quesito reside outra estatística alarmante para as empresas brasileiras. Percentualmente, dos 12 países que participaram da pesquisa, o nosso País é o que possui o maior índice de erros causados por colaboradores da própria empresa: 32%. Quantitativamente, os ataques criminosos ainda respondem pela maior parte da quebra de sigilo de informações pessoais de clientes: 38%. Os erros de TI são responsáveis por “apenas” 30%.
 
 ![causas-fraude](/images/160121-causas-fraude.jpg)
-<small>Principais causas de vazamento de dados por País. Azul representa ataques maliciosos, vermelho indica falhas no sistema e verde corresponde ao fator humanoo. Imagem: 2015 Cost of Data Breach/IBM e Instituto Ponemon</small>
+<small>Principais causas de vazamento de dados por País. Azul representa ataques maliciosos, vermelho indica falhas no sistema e verde corresponde ao fator humano. Imagem: 2015 Cost of Data Breach/IBM e Instituto Ponemon</small>
 
 ## Devo armazenar dados de cartão de crédito de clientes?
 
