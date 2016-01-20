@@ -13,6 +13,11 @@ A IBM e o Instituto Ponemon divulgaram uma notícia bastante alarmante para o co
 
 A pesquisa teve a participação de 350 empresas, de 12 países: Alemanha, Austrália, Brasil, Canadá, Estados Unidos, França, Japão, Índia, Itália, Reino Unido, Arábia Saudita e Emirados Árabes Unidos (estas duas nações são organizadas dentro da “Região Árabe” no estudo).
 
+**Leia também**  
+[Análise de risco em tempo real: como evitar fraudes sem prejudicar o bom cliente?](http://blog.konduto.com/pt/2015/12/analise-tempo-real-fraude-x-delivery-o-que-fazer?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo) 
+[Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Conheça 20 tarefas incríveis executadas por machine learning](http://blog.konduto.com/pt/2015/12/20-tarefas-incriveis-que-machine-learning-pode-fazer/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+
 De acordo com IBM e Ponemon, as empresas brasileiras tiveram um aumento considerável no risco de sofrerem um grande vazamento de dados, saltando de 30,1% em 2014 para 37% em 2015, “herdando” a amarga liderança do ranking - antes pertencente à Índia, que praticamente não sofreu alterações: apresentou uma tímida queda, de 30,4% para 29,8%. Atrás do Brasil apareceu a França, que cresceu de 24,5% para 35,6%. Do outro lado da lista, com muito mais segurança, estão Canadá e Alemanha, com, respectivamente, 16,3% e 15,9% de chances sofrerem grandes violações de registros pessoais. 
 
 ##Países mais vulneráveis
