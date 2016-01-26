@@ -81,3 +81,15 @@ Brincadeiras à parte, apenas em dezembro de 2015, três donos de sites prestes 
 E para você, quando será tarde demais? Quando você aprenderá que, sem avaliar a **conversão do seu sistema de pagamentos**, você não saberá nada? Você poderá fazer algo antes que seja tarde? 
 
 Antes que seu fôlego financeiro acabe, pense, faça cálculos e, mais importante ainda, faça as suas escolhas. 
+
+##Sobre a Konduto
+
+Somos uma startup que desenvolveu uma tecnologia inovadora para barrar fraudes no e-commerce. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída. e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
+
+Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup e pagando centavos por cada transação analisada. 
+
+**Ficou interessado? Mande um e-mail para [oi@konduto.com](mailto:oi@konduto.com) e nos conte como podemos ajudar a sua loja virtual!**
+
+Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)  
+
+<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/konduto/videos/613187352119217/" data-width="650"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/konduto/videos/613187352119217/"><p>Entenda como diminuir fraudes no seu e-commerce com a Konduto:</p>Posted by <a href="https://www.facebook.com/konduto/">Konduto</a> on&nbsp;<a href="https://www.facebook.com/konduto/videos/613187352119217/">Sexta, 12 de dezembro de 2014</a></blockquote></div></div>
