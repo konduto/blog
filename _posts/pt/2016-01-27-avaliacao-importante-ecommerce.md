@@ -1,7 +1,7 @@
 ---
 layout: post
 date: '2017-01-26T18:39:00-03:00'
-title: “Você precisa avaliar uma coisa muito importante no seu e-commerce"
+title: Você precisa avaliar uma coisa muito importante no seu e-commerce
 subtitle: "É sério que você vai deixar o medo da fraude acabar com o seu e-commerce?"
 excerpt: "Sem medo: a fraude não é um bicho-papão. Só parece."
 author: daniel
@@ -35,7 +35,7 @@ A segunda possibilidade já é mais densa. Trata-se do…
 
 Este argumento parece muito forte quando você não pesquisa um pouco sobre o tema, e é compreensível. Afinal… 
 
-**A fraude assusta!**
+**A FRAUDE ASSUSTA!!!**
 
 ![gif beaker](/images/160127-beaker.gif)
 
@@ -65,7 +65,7 @@ Vamos fazer um exercício simples de dois cenários, com dois e-commerce: a Loja
 
 Temos então dois quadros: 
 
-![case lojas](/images/160127-case.png)
+![case lojas](/images/160127-case-lojas.PNG)
 <small>(1) O índice real para métodos de pagamentos errados pode facilmente chegar a 50%. Neste caso, aplicamos 40% de rejeição; já para as transações enviadas diretamente à adquirente esse valor pode chegar a patamares superiores a 85%  
 (2) Índice máximo que as adquirentes consideram aceitável: 1%, além de entender que o facilitador realmente garante 100% (sem considerar as letras miúdas dos contratos)  
 (3) dados do webshoppers 32/2015</small>
