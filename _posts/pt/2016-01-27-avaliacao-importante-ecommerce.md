@@ -1,6 +1,6 @@
 ---
 layout: post
-date: '2017-01-26T18:39:00-03:00'
+date: '2016-01-26T18:39:00-03:00'
 title: Você precisa avaliar uma coisa muito importante no seu e-commerce
 subtitle: "É sério que você vai deixar o medo da fraude acabar com o seu e-commerce?"
 excerpt: "Sem medo: a fraude não é um bicho-papão. Só parece."
