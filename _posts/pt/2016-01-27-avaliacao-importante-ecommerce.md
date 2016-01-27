@@ -59,7 +59,7 @@ A única empresa que vi lançar um índice confiável disso foi a FControl, que 
 
 Mas quantos pedidos de fato causam fraudes ao mercado eletrônico no Brasil? O número, evidentemente, é ainda menor: algo na marca de 0,8%. Digo “ao redor” porque os dados são poucos, e os bancos acabam misturando neste índice até mesmo pedidos de chargebacks por desconformidade comercial (como a fraude amiga). 
 
-Analisando um pouco os dados com os quais tenho lidado nos últimos nove anos, eu diria que a fraude real no Brasil fica ao redor de 0,8%. Novamente, você não leu errado: **A TAXA É MENOR DO QUE 1%! **
+Analisando um pouco os dados com os quais tenho lidado nos últimos nove anos, eu diria que a fraude real no Brasil fica ao redor de 0,8%. Novamente, você não leu errado: **A TAXA É MENOR DO QUE 1%!**
 
 Vamos fazer um exercício simples de dois cenários, com dois e-commerce: a Loja Alfa, que utiliza um meio de pagamento "errado", e a Loja Beta, que processa diretamente os pagamentos. Para facilitar a compreensão, vamos considerar que as duas empresas possuem características idênticas em navegabilidade do site, preços e condições de entrega. 
 
