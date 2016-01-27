@@ -57,7 +57,7 @@ Sim, pode chutar.
 
 A única empresa que vi lançar um índice confiável disso foi a FControl, que há alguns anos divulgou que a tentativa de fraude Brasil no e-commerce brasileiro é de 3,8%. Você leu corretamente: 3,8% de **TODOS** os pedidos do e-commerce são considerados fraudes puras. 
 
-Mas quantos pedidos de fato causam fraudes ao mercado eletrônico no Brasil? O número, evidentemente, é ainda menor: algo na marca de 0,8%. Digo “ao redor” porque os dados são poucos, e os bancos acabam misturando neste índice até mesmo pedidos de chargebacks por desconformidade comercial (como a **[fraude amiga]**(http://blog.konduto.com/pt/2015/05/fraude-amiga/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)). 
+Mas quantos pedidos de fato causam fraudes ao mercado eletrônico no Brasil? O número, evidentemente, é ainda menor: algo na marca de 0,8%. Digo “ao redor” porque os dados são poucos, e os bancos acabam misturando neste índice até mesmo pedidos de chargebacks por desconformidade comercial (como a **[fraude amiga](http://blog.konduto.com/pt/2015/05/fraude-amiga/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**). 
 
 Analisando um pouco os dados com os quais tenho lidado nos últimos nove anos, eu diria que a fraude real no Brasil fica ao redor de 0,8%. Novamente, você não leu errado: **A TAXA É MENOR DO QUE 1%!**
 
