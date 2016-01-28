@@ -4,7 +4,7 @@ date: '2016-01-26T18:39:00-03:00'
 title: Você precisa avaliar uma coisa muito importante no seu e-commerce
 subtitle: "É sério que você vai deixar o medo da fraude acabar com o seu e-commerce?"
 excerpt: "Sem medo: a fraude não é um bicho-papão. Só parece."
-author: felipe
+author: daniel
 ---
 Venho recebendo recebido muitos e-mails e mensagens privadas de empreendedores perguntando por que eu sempre faço a mesma pergunta a sites que estão com problemas para sobreviverem: qual é o método de pagamento utilizado?
 

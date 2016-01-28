@@ -109,6 +109,11 @@ authors:
     image: fh.jpg
     bio: "Head of Marketing & Communications @ Konduto"
     link: https://br.linkedin.com/in/felipeheld
+  daniel:
+    name: Daniel Bento
+    image: db.jpg
+    bio: Co-founder @ Konduto
+    link: https://br.linkedin.com/in/danielbento
 
 
 defaults:
