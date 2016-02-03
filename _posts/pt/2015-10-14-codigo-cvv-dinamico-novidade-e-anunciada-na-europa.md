@@ -1,5 +1,6 @@
 ---
-layout: post		
+layout: post
+categories: pt		
 date: '2015-10-14T18:10:00-03:00'		
 title: "Código CVV dinâmico? Novidade é anunciada na Europa"		
 subtitle: "Gemalto pretende reduzir fraudes e chargebacks para lojistas"		

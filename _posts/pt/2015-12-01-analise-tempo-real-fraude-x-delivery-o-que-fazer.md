@@ -1,5 +1,6 @@
 ---
-layout: post		
+layout: post
+categories: pt		
 date: '2015-12-01T18:10:00-03:00'
 title: "Análise de risco em tempo real: como evitar fraudes sem prejudicar o bom cliente?"		
 subtitle: "A tecnologia pode ser uma aliada importante do lojista para uma tomada de decisão tão importante"

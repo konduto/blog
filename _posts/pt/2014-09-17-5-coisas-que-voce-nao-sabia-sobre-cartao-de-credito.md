@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: pt
 date: '2014-09-17T14:32:00-03:00'
 title: 5 coisas que você não sabia sobre cartão de crédito
 excerpt: "Na hora de fazer uma compra na internet, nem o nome e nem o CPF do cliente valem muito na autenticação. Confira outros segredos"

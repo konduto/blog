@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: pt
 date: '2014-10-16T10:14:00-03:00'
 title: Quer evitar fraudes? Checar apenas nomes e CPF não é mais suficiente
 subtitle: "Fizemos um teste e geramos 300 CPFs aleatórios para ver quantos pertenciam a alguma pessoa"

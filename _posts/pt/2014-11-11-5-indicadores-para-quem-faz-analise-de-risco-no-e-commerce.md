@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: pt
 date: '2014-11-11T09:36:00-03:00'
 title: 5 indicadores para quem faz análise de risco no e-commerce
 subtitle: "Chargebacks, revisões manuais, rejeições, aprovações automáticas. Você sabe tudo isso de cabeça?"

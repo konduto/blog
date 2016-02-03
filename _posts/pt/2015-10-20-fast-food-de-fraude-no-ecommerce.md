@@ -1,5 +1,6 @@
 ---
-layout: post		
+layout: post
+categories: pt		
 date: '2015-10-20T18:10:00-03:00'		
 title: "Fast-food de fraude no e-commerce? Já existe algo assim... "		
 subtitle: "Crime de venda de dados roubados de cartões de crédito é tão organizado que é possível obter facilmente essas informações em sites e grupos de discussões na internet. Quase tão fácil como comprar um hambúrguer..."		

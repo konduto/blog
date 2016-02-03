@@ -1,5 +1,6 @@
 ---
-layout: post		
+layout: post
+categories: pt		
 date: '2015-10-27T18:10:00-03:00'
 title: "A Black Friday vem aí! Mas e as fraudes, vão aumentar?"		
 subtitle: "A expectativa é que o consumidor aproveite os descontos de 27 de novembro. Mas fraudador também gosta de promoção"		

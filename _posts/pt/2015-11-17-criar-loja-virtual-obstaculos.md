@@ -1,5 +1,6 @@
 ---
-layout: post		
+layout: post
+categories: pt		
 date: '2015-11-17T18:10:00-03:00'
 title: "Vai criar uma loja virtual? Veja quais obstáculos você deve ultrapassar"		
 subtitle: "Operação, propaganda, automação, análise de risco... há uma sequência a ser seguida - não obrigatória, mas recomendável"

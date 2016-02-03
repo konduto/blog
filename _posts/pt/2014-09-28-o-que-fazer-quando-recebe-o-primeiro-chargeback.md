@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: pt
 date: '2014-09-28T17:26:00-03:00'
 title: O que fazer quando você recebe o seu primeiro chargeback?
 subtitle: "Antes de tudo, não entre em pânico! Ainda é possível tentar revertê-lo e se prevenir para o futuro!"

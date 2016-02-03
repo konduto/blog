@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: pt
 date: '2015-03-27T19:48:00-03:00'
 title: "As principais causas de fraude no e-commerce - Parte 2: Vazamento de dados"
 subtitle: "Nesta segunda parte vamos falar sobre segurança e vazamento de dados sensíveis"

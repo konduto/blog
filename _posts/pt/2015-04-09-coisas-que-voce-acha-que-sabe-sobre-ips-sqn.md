@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: pt
 date: '2015-04-09T14:43:00-03:00'
 title: "Coisas que você acha que sabe sobre IPs, só que não"
 subtitle: "Qual é o meu IP? Depende... você não tem um IP para chamar de seu!"

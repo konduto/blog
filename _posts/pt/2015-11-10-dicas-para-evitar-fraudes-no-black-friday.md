@@ -1,5 +1,6 @@
 ---
-layout: post		
+layout: post
+categories: pt		
 date: '2015-11-10T18:10:00-03:00'
 title: "5 dicas para lojistas evitarem fraudes (e faturarem mais) na Black Friday"		
 subtitle: "A fraude está cada vez mais inteligente. E os lojistas também precisam estar cada vez mais atentos para não verem suas margens sendo reduzidas por conta dos golpes virtuais"		

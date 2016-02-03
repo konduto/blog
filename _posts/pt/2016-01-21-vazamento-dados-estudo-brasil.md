@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: pt
 date: '2016-01-21T18:39:00-03:00'
 title: "Estudo: Brasil é o país mais vulnerável para vazamento de dados"
 subtitle: "Risco de vazamento de dados no Brasil disparou quase sete pontos percentuais, superando a Índia"
