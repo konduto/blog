@@ -39,7 +39,7 @@ permalink:    /:categories/:year/:month/:title
 paginate:     6
 timezone:     America/Sao_Paulo
 encoding:     utf-8
-highlighter:  pygments
+highlighter:  rouge
 markdown:     kramdown
 
 safe:         true
