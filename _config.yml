@@ -35,7 +35,7 @@ info:
 url:          https://blog.konduto.com
 main_url:     https://www.konduto.com
 baseurl:      ""
-permalink:    /:categories/:year/:month/:title
+permalink:    /_posts/:categories/:year/:month/:title
 paginate:     6
 timezone:     America/Sao_Paulo
 encoding:     utf-8
