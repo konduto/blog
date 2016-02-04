@@ -52,7 +52,7 @@ Mas não é porque você trabalha com análise de risco em tempo real e não pod
 E não, não é um trabalho perdido de “enxugar gelo”: sempre será necessário abastecer o seu banco de dados com estes dados, a fim de que a sua análise de risco continue evoluindo e seja capaz de ter cada vez menos pedidos sendo enviados para a fila de revisão. 
 
 **Leia também**  
-[Os chargebacks aumentaram? Aprenda dicas emergenciais para se proteger de fraudes](http://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Aprenda dicas emergenciais para se proteger de fraudes](http://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Conheça 5 indicadores para quem faz análise de risco no e-commerce](http://blog.konduto.com/pt/2014/11/5-indicadores-para-quem-faz-analise-de-risco-no-e-commerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Compra online sem login? Conheça o case do botão de R$ 1 bilhão](http://blog.konduto.com/pt/2015/01/tinha-uma-senha-no-meio-do-caminho/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
