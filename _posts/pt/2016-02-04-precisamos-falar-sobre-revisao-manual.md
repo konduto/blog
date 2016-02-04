@@ -19,11 +19,6 @@ Há diversas formas de um antifraude um pedido e chegar a uma conclusão sobre o
 
 Neste caso, toda loja que faz análise de risco precisa levar a revisão manual em consideração - seja com uma equipe interna realizando esta atividade ou terceirizando a operação. É a revisão manual que poderá executar algumas tarefas que a tecnologia (ainda) não faz, como procurar informações sobre ele em sites de busca ou redes sociais ou até mesmo entrar em contato com o comprador para checar alguns dados. E, uma vez munido de todas as informações necessárias, tomar uma decisão holística, analisando o todo.
 
-**Leia também**  
-[Os chargebacks aumentaram? Aprenda 5 dicas emergenciais para se proteger de fraudes](http://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo) 
-[5 indicadores para quem faz análise de risco no e-commerce](http://blog.konduto.com/pt/2014/11/5-indicadores-para-quem-faz-analise-de-risco-no-e-commerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Compra online sem login? Conheça o case do botão de R$ 1 bilhão](http://blog.konduto.com/pt/2015/01/tinha-uma-senha-no-meio-do-caminho/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-
 Mas será que a revisão manual vale mesmo a pena? Eu realmente devo adicionar este custo à minha operação?
 
 Resposta: sim. Duas vezes sim. E o exemplo abaixo vai explicar o porquê. 
@@ -56,9 +51,16 @@ Mas não é porque você trabalha com análise de risco em tempo real e não pod
 
 E não, não é um trabalho perdido de “enxugar gelo”: sempre será necessário abastecer o seu banco de dados com estes dados, a fim de que a sua análise de risco continue evoluindo e seja capaz de ter cada vez menos pedidos sendo enviados para a fila de revisão. 
 
+**Leia também**  
+[Os chargebacks aumentaram? Aprenda 5 dicas emergenciais para se proteger de fraudes](http://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo) 
+[5 indicadores para quem faz análise de risco no e-commerce](http://blog.konduto.com/pt/2014/11/5-indicadores-para-quem-faz-analise-de-risco-no-e-commerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Compra online sem login? Conheça o case do botão de R$ 1 bilhão](http://blog.konduto.com/pt/2015/01/tinha-uma-senha-no-meio-do-caminho/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+
 Outro fator importante que você deve analisar é o tipo de pedido que deve ir para a revisão manual. Desenhamos o exemplo acima em uma venda de ticket médio alto, e o custo da revisão manual acabou ficando irrisório diante daquele valor. No caso de uma transação de R$ 50, com a mesma margem de 20%, será que valeria a pena adicionar um custo de R$ 10 e ficar sem margem? 
 
-Por isso, cada e-commerce deve desenhar uma estratégia para a realização da revisão manual e fazer as escolhas que mais façam sentido para o modelo de negócios e para a operação em si. O que não pode acontecer é você, após implantar um antifraude em seu comércio eletrônico, achar que o trabalho está concluído. 
+Por isso, cada e-commerce deve desenhar uma estratégia para a realização da revisão manual e fazer as escolhas que mais façam sentido para o modelo de negócios e para a operação em si. 
+
+**O que não pode acontecer é você, após implantar um antifraude em seu comércio eletrônico, achar que o trabalho está concluído.**
 
 Se você pensar assim, corre o risco de a sua solução jamais evoluir e você perder uma série de vendas legítimas. 
 
