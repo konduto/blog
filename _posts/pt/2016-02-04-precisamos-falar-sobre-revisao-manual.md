@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: pt
 date: '2016-02-05T18:39:00-03:00'
 title: Precisamos falar sobre revisão manual
 subtitle: "Será que realizar essa verificação, que pode adicionar um novo custo à sua operação, realmente vale a pena?"
