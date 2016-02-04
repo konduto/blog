@@ -15,7 +15,7 @@ O que fazer?
 
 Nós da **[Konduto](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)** queremos te ajudar. Por isso, pensamos em **5 dicas emergenciais para você conter o “sangramento” financeiro que o seu negócio pode estar sofrendo** enquanto não implementa uma solução antifraude capaz de barrar os golpes online. 
 
-##1. NÃO ENTRE EM PÂNICO!
+## 1. NÃO ENTRE EM PÂNICO!
 
 Sim, este é um passo muito importante. É preciso manter a calma e saber que o pior, infelizmente, ainda está por vir. **A fraude no cartão de crédito demora de 30 a 90 dias para ser percebida pelo consumidor**, entre ele identificar cobranças indevidas na fatura e entrar em contato com o banco para solicitar o estorno e o cancelamento do cartão. 
 
@@ -25,7 +25,7 @@ Quando o problema da fraude começar a aparecer, o e-commerce deve já se prepar
 
 ![peguefraude](/images/160112-v1-kcpf.png)
 
-##2. Filtrar por produto
+## 2. Filtrar por produto
 
 Ok, aparentemente você manteve a calma e está pronto para começar a agir. Agora prepare-se: vai ser necessário apertar um pouco o cinto para proteger a saúde da sua loja virtual. Recomendamos que você aplique alguns “filtros” para poder detectar as transações com mais chances de serem fraudes, e o primeiro deles é bastante óbvio: o tipo de produto.
 
@@ -33,7 +33,7 @@ Ok, aparentemente você manteve a calma e está pronto para começar a agir. Ago
 
 As respostas para essas perguntas podem dar um bom indício sobre os pedidos que devem ter atenção redobrada durante este momento emergencial. Tome cuidado com os principais itens do seu e-commerce: afinal de contas, os **fraudadores não cometerão crimes para comprar um pacote de balas de hortelã ou uma caneta esferográfica**. 
 
-##3. Filtrar os pedidos de maior valor
+## 3. Filtrar os pedidos de maior valor
 
 Às vezes um pedido fraudulento não envolve somente um item bastante cobiçado, mas um “ponto fora da curva” pode ser um bom indício para levantar suspeitas. Por isso, olhe para as métricas internas e encontre o **ticket médio** de sua loja online (ou seja: quanto um cliente gasta em média por compra?). 
 
@@ -43,13 +43,13 @@ Se um cliente costuma gastar R$ 200,00 quando realiza uma compra na sua loja, qu
 
 Não dá vontade de comemorar deste jeito? Mas é melhor irmos com calma. Muita calma. Às vezes a euforia de “vender bastante” e ter um lucro espetacular pode nublar a nossa visão. E aí, em vez disso, você teria um prejuízo considerável. Recomendamos que você separe todos os pedidos que tenham um valor bem superior ao seu ticket médio e revise-os com mais atenção. 
 
-##4. Atenção com os fretes expressos! 
+## 4. Atenção com os fretes expressos! 
 
 Criminosos não estão nada dispostos a esperar vários dias úteis para a chegada de um produto: ele quer receber a encomenda o mais rápido possível. Por isso, é muito provável que ele escolha a opção de **entrega imediata** (e também a mais cara, afinal, não é ele quem vai pagar por isso). 
 
 Ah, e importante frisar: não estamos sugerindo que você retire a opção de frete expresso da sua loja, apenas que fique mais atento quando um cliente escolher este tipo de entrega. Este é um filtro bastante sutil, mas capaz de detectar algumas compras ilegítimas. 
 
-##5. Desconfie das coincidências
+## 5. Desconfie das coincidências
 
 Fique bastante atento a muitos pedidos que cheguem com os dados repetidos, especialmente **dados de endereço de entrega e telefone para contato** - afinal, um criminoso pode ter dados de [milhares de cartões e milhares de CPFs](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo), mas ele certamente não terá dezenas de números de telefone ou de endereços para receber entregas. 
 

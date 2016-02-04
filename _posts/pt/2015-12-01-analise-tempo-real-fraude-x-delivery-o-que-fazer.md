@@ -26,7 +26,7 @@ Já pensou?
 
 O lojista que opera nestas condições não tem o luxo de filtrar os pedidos mais difíceis na mão, então precisa fazer uma escolha: deixar mais fraudes passarem para não impactar os clientes legítimos ou barrar mais vendas e acabar com clientes bons na "rede"?
 
-##O que dói mais?
+## O que dói mais?
 
 Vale aqui fazermos uma observação: caso o lojista se encontre nesta posição de ter que escolher entre vender mais ou barrar mais, quem deve ampará-lo na decisão é o bolso – ou a **“dor do bolso”**. Caso o modelo de negócios esteja sustentado em margens mais gordas, talvez a melhor resposta seja aprovar mais pedidos, pois o prejuízo será muito menor – embora haja também o risco de o volume de fraudes ser tão grande que incomode as adquirentes de cartões de crédito. Já se o lojista trabalha com escala ou com produtos físicos de alto custo, recusar vendas suspeitas pode ser o mais sensato a se fazer.
 
@@ -41,7 +41,7 @@ Há, porém, um “meio-termo” entre barrar uma fraude e perder um pedido bom 
 
 De qualquer maneira, **a empresa não pode se limitar às ferramentas tradicionais de bloqueio de fraude**. Há muito mais dados que devem ser levados em consideração para detectar uma compra fraudulenta – e esses dados falam muito. Só que aí residem dois probleminhas: algumas dessas informações não são “visíveis a olho nu”; e **os dados precisam ser analisados**.
 
-##O poder da [inteligência artificial](http://blog.konduto.com/pt/2015/01/afinal-o-que-e-machine-learning?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
+## O poder da [inteligência artificial](http://blog.konduto.com/pt/2015/01/afinal-o-que-e-machine-learning?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
 Será que você já detectou padrões nas vendas que o seu e-commerce faz, tanto as legítimas quanto as fraudulentas? Se você analisar direitinho, estudá-las minuciosamente, vai detectar que vários padrões se repetem para diversos tipos de transações, realizadas pelos mais diferentes tipos de consumidores.
 
@@ -157,7 +157,7 @@ A priori, com um bom conhecimento de matemática e estatística, papel e caneta 
 
 É aí que entra a inteligência artificial, que consegue cruzar todas essas informações (e muitas outras mais) em milissegundos, sem truncar o seu negócio e sem deixar o cliente faminto esperando aquela pizza quentinha. Sem falar que, com tudo isso, seus custos com fraudes diminuem e os lucros aumentam. **Vale até a pena pedir uma pizza para comemorar, não acha?**
 
-##Sobre a Konduto
+## Sobre a Konduto
 
 Somos uma startup que desenvolveu uma **tecnologia inovadora** para barrar as fraudes no e-commerce. Nosso **antifraude inteligente** monitora o cliente durante toda a jornada de compra em seu site e avalia a transação em tempo real - **a nossa resposta é dada em menos de 1s**! Nós detectamos somente as compras realmente suspeitas, aprovando mais pedidos e reduzindo os custos de fraude. Ah, e um detalhe importante: com o **[menor preço do mercado](https://www.konduto.com/pt/pricing?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**! 
 

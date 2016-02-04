@@ -21,7 +21,7 @@ A pesquisa teve a participação de 350 empresas, de 12 países: Alemanha, Austr
 
 De acordo com IBM e Ponemon, as empresas brasileiras tiveram um aumento considerável no risco de sofrerem um grande vazamento de dados, saltando de 30,1% em 2014 para 37% em 2015, “herdando” a amarga liderança do ranking - antes pertencente à Índia, que praticamente não sofreu alterações: apresentou uma tímida queda, de 30,4% para 29,8%. Atrás do Brasil apareceu a França, que cresceu de 24,5% para 35,6%. Do outro lado da lista, com muito mais segurança, estão Canadá e Alemanha, com, respectivamente, 16,3% e 15,9% de chances sofrerem grandes violações de registros pessoais. 
 
-##Países mais vulneráveis
+## Países mais vulneráveis
 
 ![chances](/images/160121-chances-fraude.png)
 <small>Ranking de países mais vulneráveis a vazamento de dados em nível empresarial. Brasil (BZ) teve o risco aumentado de 30,1% para 37%. Imagem: 2015 Cost of Data Breach/IBM e Instituto Ponemon</small>
@@ -43,7 +43,7 @@ O problema fica ainda mais grave quando analisamos **COMO** esses dados são arm
 
 Por isso, na dúvida, simplesmente não guarde essas informações. É melhor para você, para o cliente e para todo o ecossistema do comércio eletrônico. E, certamente, ajudaria o Brasil a melhorar sua reputação nos próximos estudos sobre vazamento de dados. 
 
-##Sobre a Konduto
+## Sobre a Konduto
 
 Somos uma startup que desenvolveu uma tecnologia inovadora para barrar fraudes no e-commerce. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída. e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
 

@@ -70,7 +70,7 @@ Nós precisávamos falar sobre a revisão manual para você. Agora é a sua vez 
 
 Mas, se tiver alguma dúvida, não hesite em nos procurar. A **[Konduto](http://www.konduto.com?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)** terá um enorme prazer em ajudar. Entre em contato conosco no [oi@konduto.com](mailto:oi@konduto.com).
 
-##Sobre a Konduto
+## Sobre a Konduto
 
 Somos uma startup que desenvolveu uma tecnologia inovadora para barrar fraudes no e-commerce. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída. e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
 

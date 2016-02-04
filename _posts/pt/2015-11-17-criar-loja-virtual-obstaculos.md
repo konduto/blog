@@ -34,7 +34,7 @@ No entanto, à medida que o lojista se sente confortável com sua operação, pr
 
 Claro que, no futuro, com o crescimento da sua loja virtual, haverá a necessidade de escalar o tipo e o formato de publicidade para o seu e-commerce. Mas, em um primeiro momento, trabalhar a presença digital do seu negócio é algo crucial – vamos deixar o filme de 30 segundos no intervalo da novela das 9 para depois, ok? :) 
 
-##Obstáculo #3: A necessidade de automação aumenta com o sucesso
+## Obstáculo #3: A necessidade de automação aumenta com o sucesso
 
 Assim que o pequeno lojista aumenta sua escala, tarefas como comunicar informações sobre seus produtos, receber, organizar e processar pedidos tornam-se bem mais complicadas sem o auxílio de uma plataforma mais automatizada. 
 
@@ -57,7 +57,7 @@ Claro que ver o crescimento de sua loja virtual é algo muito agradável, mas h�
 
 A preocupação com a automatização de **[análises de risco](http://blog.konduto.com/pt/2014/11/5-indicadores-para-quem-faz-analise-de-risco-no-e-commerce?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)** de pedidos surge da necessidade de que **a fraude não pode ser combatida apenas por operadores do e-commerce**. E quando não é feita adequadamente pode comprometer a rentabilidade (por meio da fraude por si) e a eficiência da operação, exigindo esforço humano para análise de pedidos. Assim como análise de risco, a análise de conciliação financeira também é uma necessidade de automatização de processos que pode tomar tempo e esforços preciosos para o negócio.
 
-##  Concluindo...
+## Concluindo...
 
 O lojista precisa garantir que determinada necessidade básica já foi sanada antes de “escalar” para o próximo obstáculo – ou para o próximo nível da hierarquia. Afinal de contas, na maioria dos casos não faz muito sentido preocupar-se com automação de plataforma ou análise de risco se você não tem um volume tão grande e tem disponibilidade para realizar essas atividades. Até porque um indicador que jamais deve ser ignorado pelo dono de uma loja – online ou offline – é a **margem**.
 

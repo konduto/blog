@@ -83,7 +83,7 @@ E para você, quando será tarde demais? Quando você aprenderá que, sem avalia
 
 Antes que seu fôlego financeiro acabe, pense, faça cálculos e, mais importante ainda, faça as suas escolhas. 
 
-##Sobre a Konduto
+## Sobre a Konduto
 
 Somos uma startup que desenvolveu uma tecnologia inovadora para barrar fraudes no e-commerce. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída. e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
 
