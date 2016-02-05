@@ -15,7 +15,7 @@ Hummm… não, não é bem assim.
 
 Se pensarmos desta forma, acabaremos ignorando uma atividade fundamental para garantir a eficiência da análise de risco - e, consequentemente, a saúde financeira do seu e-commerce: a revisão manual. 
 
-Há diversas formas de um antifraude um pedido e chegar a uma conclusão sobre o grau de risco daquela transação. Mas, grosseiramente falando, é tudo estatística: “este pedido tem X% de chance de ser fraude, já este aqui tem 3X%”. Mas há casos em que o sistema não consegue ter tanta certeza assim, e é aqui que um agente humano pode ajudar - e muito!.
+Há diversas formas de um antifraude analisar um pedido e chegar a uma conclusão sobre o grau de risco daquela transação. Mas, grosseiramente falando, é tudo estatística: “este pedido tem X% de chance de ser fraude, já este aqui tem 3X%”. Mas há casos em que o sistema não consegue ter tanta certeza assim, e é aqui que um agente humano pode ajudar - e muito!.
 
 Neste caso, toda loja que faz análise de risco precisa levar a revisão manual em consideração - seja com uma equipe interna realizando esta atividade ou terceirizando a operação. É a revisão manual que poderá executar algumas tarefas que a tecnologia (ainda) não faz, como procurar informações sobre ele em sites de busca ou redes sociais ou até mesmo entrar em contato com o comprador para checar alguns dados. E, uma vez munido de todas as informações necessárias, tomar uma decisão holística, analisando o todo.
 
