@@ -21,7 +21,7 @@ Neste caso, toda loja que faz análise de risco precisa levar a revisão manual 
 
 Mas será que a revisão manual vale mesmo a pena? Eu realmente devo adicionar este custo à minha operação?
 
-Resposta: sim. Duas vezes sim. E o exemplo abaixo vai explicar o porquê. 
+Resposta: sim. Duas vezes sim! E o exemplo abaixo vai explicar o porquê. 
 
 Vamos supor que você tenha uma venda de R$ 1.000,00, e a margem sobre este produto seja de 20%. O seu antifraude, por algum motivo (ou por vários), achou que aquela transação precisa ser mais bem analisada e colocou-a na lista de revisão. Caso você não execute esta atividade, você tem duas alternativas: 
 
