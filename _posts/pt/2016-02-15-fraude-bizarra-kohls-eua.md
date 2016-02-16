@@ -35,11 +35,11 @@ Acontece que a banheirinha, o carrinho e os TRÊS berços são itens muito volum
 
 Por sorte, a cliente que relatou o acontecimento a Krebs conseguiu detectar a tempo a atividade suspeita em sua conta. A Kohl’s, por sua vez, conseguiu bloquear as compras feitas indevidamente e cancelou os créditos que haviam sido gerados ao criminoso. 
 
-##E o que eu tenho a ver com isso?
+## E o que eu tenho a ver com isso?
 
 Nós sabemos que a promoção da Kohl’s deu brecha para os ataques, e talvez o seu e-commerce nem tenha interesse em realizar alguma campanha do gênero. No entanto, escrevemos este texto e contamos essa história para mostrar um fator ainda mais relevante. 
 
-##Às vezes, um fraudador não está interessado no seu produto. 
+## Às vezes, um fraudador não está interessado no seu produto. 
 
 Mas você vai sofrer com o prejuízo, de uma forma ou de outra: seja como no caso relatado neste artigo, do sequestro de contas e dos benefícios gerados aos clientes da Kohl’s, seja da clássica fraude de testadores de cartão - que fazem compras de pequeno valor apenas para saber se aquele cartão obtido recentemente continua válido. 
 
@@ -49,7 +49,7 @@ E isso mostra que, às vezes, a lógica da fraude online é muito mais complexa 
 [Fast-food de fraude no e-commerce? Já existe algo assim...](http://blog.konduto.com/pt/2015/10/fast-food-de-fraude-no-ecommerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Código CVV dinâmico? Novidade é anunciada na Europa](http://blog.konduto.com/pt/2015/10/codigo-cvv-dinamico-novidade-e-anunciada-na-europa/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Fraude amiga? Um chargeback nem sempre é uma fraude](http://blog.konduto.com/pt/2015/05/fraude-amiga/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-##Sobre a Konduto
+## Sobre a Konduto
 
 Somos uma startup que desenvolveu uma tecnologia inovadora para barrar fraudes no e-commerce. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída. e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
 
