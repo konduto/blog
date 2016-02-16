@@ -27,7 +27,7 @@ No intervalo de 20 minutos entre alteração de e-mail e acesso da cliente verda
 
 Conseguem imaginar por que todas essas compras? 
 
-(E não, não é porque o fraudador é bonzinho e quer que o nenê da cliente fique super confortável e tenha um berço em cada cômodo da casa. Ele não sabe e nem quer saber se a cliente tem ou não um bebê em casa).  
+*(E não, não é porque o fraudador é bonzinho e quer que o nenê da cliente fique super confortável e tenha um berço em cada cômodo da casa. Ele não sabe e nem quer saber se a cliente tem ou não um bebê em casa.)*  
 
 ![gif sadbaby](/images/160216-sadbaby.gif)
 
@@ -49,7 +49,7 @@ E isso mostra que, às vezes, a lógica da fraude online é muito mais complexa 
 [Fast-food de fraude no e-commerce? Já existe algo assim...](http://blog.konduto.com/pt/2015/10/fast-food-de-fraude-no-ecommerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Código CVV dinâmico? Novidade é anunciada na Europa](http://blog.konduto.com/pt/2015/10/codigo-cvv-dinamico-novidade-e-anunciada-na-europa/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Fraude amiga? Um chargeback nem sempre é uma fraude](http://blog.konduto.com/pt/2015/05/fraude-amiga/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-## Sobre a Konduto
+##Sobre a Konduto
 
 Somos uma startup que desenvolveu uma tecnologia inovadora para barrar fraudes no e-commerce. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída. e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
 
