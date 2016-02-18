@@ -13,7 +13,7 @@ Ahn? Oi? Como assim?
 
 ![gif oi](/images/160216-oicomo.gif)
 
-Sim, nós sabemos. Parece muito estranho mesmo. Mas há uma incrível lógica por trás desta atitude bastante esquisita de fraudadores que fazem compras para as próprias vítimas. 
+Sim, nós sabemos. Pareceu muito estranho mesmo para nós aqui na **[Konduto](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-kohlskos)** também. Mas há uma incrível lógica por trás desta atitude bastante esquisita de fraudadores que fazem compras para as próprias vítimas. 
 
 A Kohl’s possui uma campanha que oferece ao cliente um crédito de US$ 10 em futuras compras a cada US$ 50 gastos na loja, inclusive no e-commerce. Foi a deixa para que fraudadores aplicassem o seguinte golpe: eles invadem uma conta de um cliente da rede, fazem várias compras de alto valor e roubam o bônus gerado com essas transações. E, com este crédito sim, são adquiridas mercadorias com alto poder de revenda ou até mesmo vale-compras comercializáveis. 
 
@@ -54,7 +54,7 @@ E isso mostra que, às vezes, a lógica da fraude online é muito mais complexa 
 
 Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-kohlskos)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída. e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
 
-Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup e **pagando centavos por cada transação analisada**. [Confira nossos preços](http://konduto.com/pt/pricing/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-kohlskos)! 
+Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup e pagando centavos por cada transação analisada. **[Confira nossos preços](http://konduto.com/pt/pricing/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-kohlskos)**! 
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)  
 
