@@ -51,7 +51,7 @@ Assim que percebemos o erro grave que estávamos cometendo, decidimos corrigi-lo
 
 Na real as coisas provavelmente serão inversas: você vende menos do que esperava e os seus custos aumentam porque a economia entrou em crise e o valor do dólar subiu no telhado. 
 
-![chart](/images/160225-brl-usd-chart.png)
+![chart](/images/160225-brl-usd-chart.PNG)
 
 Projetamos todos os nossos custos no pior cenário e nunca nos iludimos já contando com um contrato gordo com aquela empresa gigantesca que acabou de nos solicitar um orçamento. É um cenário desconfortável, mas necessário. 
 
