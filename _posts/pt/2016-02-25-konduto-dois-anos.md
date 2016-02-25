@@ -37,8 +37,6 @@ Nós estudamos muito e desenhamos o nosso primeiro funil de vendas. O funil sofr
 
 No final de 2014 encerramos a fase de beta e oficialmente colocamos a companhia no ar. Tivemos um lançamento legal no mercado brasileiro e rapidamente os leads começaram a aparecer. Fazíamos posts semanais em nosso blog que atraíam ainda mais leads. Beleza, aqui vamos nós!
 
-![herewego](/images/160225-herewego.gif)
-
 Porém, com mais leads e clientes vinha também mais trabalho em vendas e suporte, e nos sobrava menos tempo para escrever conteúdos interessantes ou gerenciar o Adwords. Nossos posts de blog, que antes eram semanais, passaram a ser quinzenais, depois mensais até… “não é possível que já faz tanto tempo assim que a gente não posta no blog!”. 
 
 Não tínhamos mais tempo para marketing e acabamos deixando de lado esta atividade para nos focarmos em clientes e novos leads. Só que esses leads passaram a se tornar cada vez mais murchos e mirradinhos, pois não estávamos mais realizando nenhuma atividade capaz de conquistá-los e nutri-los. 
