@@ -9,9 +9,9 @@ author: tom
 ---
 O mês de fevereiro foi muito especial para a **[Konduto](https://www.konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-2a)**, pois comemoramos  2 anos de vida! 
 
-![celebration](/images/160225-celebration.gif)
+![celebration](/images/160225-celebrate.gif)
 
-Só não sabemos dizer se “já faz dois anos” ou se “faz só dois anos” desde que o nosso time ligou o computador pela primeira vez para programar. De qualquer forma, gostaríamos muito de agradecer os nossos clientes por confiar na Konduto, nossos investidores e nossos "betas" por acreditar na gente e, especialmente, à [nossa incrível equipe](https://www.konduto.com/pt/about/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-2a) pelo trabalho duro realizado nos últimos 24 meses. 
+Só não sabemos dizer se “já faz dois anos” ou se “faz só dois anos” desde que o nosso time ligou o computador pela primeira vez para programar. De qualquer forma, gostaríamos muito de agradecer os nossos clientes por confiar na Konduto, nossos investidores e nossos "betas" por acreditar na gente e, especialmente, à **[nossa incrível equipe](https://www.konduto.com/pt/about/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-2a)** pelo trabalho duro realizado nos últimos 24 meses. 
 
 Faz alguns dias, uma pessoa me perguntou em que a Konduto que nós começamos a planejar no início de tudo é diferente da Konduto de hoje. Isso nos fez pensar em toda a nossa jornada até agora: os erros que cometemos, os acertos que tivemos e as lições aprendidas. E gostaríamos de compartilhar um pouco disto com você hoje! 
 
@@ -29,7 +29,7 @@ Certamente daremos uma segunda chance ao modelo self-service, mas o modelo comer
 
 Nenhum de nós na Konduto tinha experiência em vendas - o mais perto que chegávamos era o nível “engenheiro de vendas”, e isso definitivamente não configura um profissional comercial.
 
-Não tínhamos a menor ideia do trabalho árduo que a área de vendas exige: os processos, a persistência, os (muitos) follow-ups e a rapidez - isso porque eu havia lido o artigo “[Se os produtos SaaS se vendem sozinhos, por que precisamos de uma área comercial?](http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/) (If SaaS Products Sell Themselves, Why Do We Need Sales?)”, do Mark Cranney! 
+Não tínhamos a menor ideia do trabalho árduo que a área de vendas exige: os processos, a persistência, os (muitos) follow-ups e a rapidez - isso porque eu havia lido o artigo “[Se os produtos SaaS se vendem sozinhos, por que precisamos de uma área comercial?](http://a16z.com/2014/05/30/selling-saas-products-dont-sell-themselves/) (*If SaaS Products Sell Themselves, Why Do We Need Sales?*)”, do Mark Cranney! 
 
 Nós estudamos muito e desenhamos o nosso primeiro funil de vendas. O funil sofreu modificações várias vezes desde então, mas agora posso garantir que temos uma nova admiração pelo profissional de vendas. 
 
