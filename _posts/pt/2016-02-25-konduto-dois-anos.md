@@ -66,11 +66,12 @@ Felizmente acertamos em cheio neste ponto. Todos os nossos “SIM” foram ótim
 
 ![team](/images/160225-team-kdt.png)
 
+
 ## E agora, Konduto?
 
 Estes foram os cinco aprendizados mais importantes que tivemos nestes dois anos de Konduto. Se pudéssemos voltar no tempo, deixaríamos um recado para nós mesmos com estas dicas. Talvez elas te ajudem, ou talvez você cometa os mesmos erros que a gente. Tudo bem, faz parte. 
 
-Nos últimos 24 meses, colocamos no ar um sistema antifraude inovador para o e-commerce brasileiro (e mundial), combinando análise de risco, comportamento de navegação e inteligência artificial. Entre erros e acertos, **[fomos do zero a 1 milhão de transações analisadas mensalmente](http://startupi.com.br/2016/01/konduto-contabiliza-um-milhao-de-transacoes-analisadas-e-cresce-50-vezes-no-segundo-ano-de-operacoes/), conquistamos uma centena de clientes e ajudamos a reduzir o golpe online em transações com cartão de crédito.
+Nos últimos 24 meses, colocamos no ar um sistema antifraude inovador para o e-commerce brasileiro (e mundial), combinando análise de risco, comportamento de navegação e inteligência artificial. Entre erros e acertos, **[fomos do zero a 1 milhão de transações analisadas mensalmente](http://startupi.com.br/2016/01/konduto-contabiliza-um-milhao-de-transacoes-analisadas-e-cresce-50-vezes-no-segundo-ano-de-operacoes/)**, conquistamos uma centena de clientes e ajudamos a reduzir o golpe online em transações com cartão de crédito.
 
 Estamos muto felizes, mas conscientes de que não podemos parar por aqui. Temos muito trabalho a fazer, muitas melhorias para desenvolver, muitos clientes para conquistar e muita coisa para aprender. 
 
