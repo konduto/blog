@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: pt
 date: '2015-01-30T11:01:00-03:00'
 title: "Inteligência artificial: afinal, o que é machine learning?"
 subtitle: "Entenda como as máquinas conseguem aprender sozinhas e qual o impacto disso na nossa vida"

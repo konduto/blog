@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: pt
 date: '2016-02-25T10:39:00-03:00'
 title: 'Konduto completa 2 anos! Mas o que aprendemos até aqui?'
 subtitle: "O antifraude mais inteligente do e-commerce brasileiro está comemorando dois anos de vida. "

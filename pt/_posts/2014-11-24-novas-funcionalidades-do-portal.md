@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: pt
 date: '2014-11-24T10:31:00-03:00'
 title: Novas funcionalidades do Portal
 excerpt: "Novidades que vão ajudar você a fazer melhores revisões manuais."

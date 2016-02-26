@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: pt
 date: '2015-12-17T18:39:00-03:00'
 title: "Conheça 20 tarefas incríveis executadas por machine learning"
 subtitle: "Você sabia? O aprendizado de máquina está presente em vários setores da sociedade: lazer, transporte, publicidade, comércio eletrônico, medicina, investigação criminal, proteção ambiental"

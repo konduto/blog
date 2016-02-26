@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: pt
 date: '2015-09-07T09:10:00-03:00'
 title: "Revisão manual, notificações, viagens e marketplace"
 subtitle: ""

@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: pt
 date: '2016-02-15T10:39:00-03:00'
 title: 'Fraude bizarra chama atenção nos EUA: compras caras são enviadas para casa das vítimas'
 subtitle: "Caso ocorreu após uma cliente ter a conta sequestrada por um fraudador bastante preguiçoso"

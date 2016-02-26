@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: pt
 date: '2016-01-12T18:39:00-03:00'
 title: "Os chargebacks aumentaram? Aprenda 5 dicas emergenciais para se proteger de fraudes"
 subtitle: "Saiba como você pode se proteger dos golpes de cartão de crédito enquanto não implanta uma solução antifraude"

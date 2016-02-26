@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: pt
 date: '2015-05-06T15:42:00-03:00'
 title: "Anunciando a nova blacklist"
 excerpt: "A nossa nova blacklist tem até uma API dedicada. Saiba mais sobre esta nova

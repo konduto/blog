@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: pt
 date: '2015-05-27T14:10:00-03:00'
 title: "Fraude amiga?"
 subtitle: "Um chargeback nem sempre é fraude."

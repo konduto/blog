@@ -1,6 +1,5 @@
 ---
 layout: post
-categories: pt
 date: '2015-01-14T11:01:00-03:00'
 title: "Compra online sem login? Conheça o case do botão de R$ 1 bilhão"
 subtitle: "Como forçar o cliente a se registrar pode reduzir as vendas"
