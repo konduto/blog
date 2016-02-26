@@ -11,4 +11,4 @@ gem 'kramdown'
 gem 'rack-jekyll'
 gem 'puma'
 
-gem 'rack-locale-root-redirect'
+gem 'http_accept_language'

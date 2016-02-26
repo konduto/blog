@@ -1,7 +1,7 @@
 require 'rack/jekyll'
 require 'yaml'
 
-use Rack::Accept
-use Rack::LocaleRootRedirect, pt: '/pt', en: '/en'
+require 'http_accept_language'
+use HttpAcceptLanguage::Middleware
 
 run Rack::Jekyll.new
