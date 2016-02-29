@@ -2,16 +2,16 @@
 layout: post
 categories: en
 date: '2016-02-25T10:39:00-03:00'
-title: 'We are turning 2! But what did we learn until now?'
-subtitle: "5 lessons we learned while we went from 0 to 1+ million orders a month"
-excerpt: "5 lessons we learned while we went from 0 to 1+ million orders a month"
+title: 'This is our second anniversary! But what did we learn until now?'
+subtitle: "5 lessons we learned while we went from 0 to +1 million orders screened monthly"
+excerpt: "5 lessons we learned while we went from 0 to +1 million orders screened monthly"
 author: tom
 ---
 This a very special day for us, because [Konduto](https://www.konduto.com/?utm_source=konduto&utm_medium=blog-en&utm_campaign=conteudo-2a) is turning 2!
 
 We can't tell if it's "already" or "that long" since our team first sat down together to begin coding. We want to thank our customers for trusting us, our beta trials and investors for believing in us, and specially our [awesome team](https://www.konduto.com/pt/about/?utm_source=konduto&utm_medium=blog-en&utm_campaign=conteudo-2a) for the hard work they've put in these past 24 months.
 
-![celebration](/images/160225-celebration.gif)
+![celebration](/images/160225-celebrate.gif)
 
 A few days ago someone asked me how the Konduto we envisioned back then is different from the Konduto today. That got us thinking about the journey so far - the many hits, misses and lessons learned. We thought we might share some of these lessons with you today.
 
@@ -37,8 +37,6 @@ We read up on the subject and designed our first sales funnel ever. That funnel 
 
 In late 2014 we ended the closed beta phase and openly launched the company. It was a very good launch down here in Brazil, and soon new leads popped up. Weekly blog posts brought in more leads. Weee, here we go!
 
-![herewego](/images/160225-herewego.gif)
-
 However, more leads and customers meant more work in sales and support, and less time writing content and tweaking Adwords. Weekly posts turned into bi-weekly, then monthly, then oh-my has it been that long?
 
 Soon we had no more time for marketing, so we dropped most of it to focus on our customers and new leads. Yes, those same new leads that began to wither because we weren't doing any of those things anymore.
@@ -49,7 +47,8 @@ Once we realized this we took actions to revert it. Just under a year after laun
 
 It's easy to think everything will work perfectly -- your app will go viral and you won't know what to do with all the customers, all the while bootstrapping and keeping costs near zero. But the truth is likely to be the opposite: you book less revenue than predicted and your costs rise unexpectedly because the economy blows the exchange rate through the roof.
 
-![chart](/images/160225-brl-usd-chart.png)
+![chart](/images/160225-brl-usd-chart.PNG)
+<small>Imagem: xe.com</small>
 
 All our costs were projected as "worst case" and we always assumed that we would not close that big customer we were talking to. It's uncomfortable, but necessary.
 
@@ -77,9 +76,7 @@ But, by now, we just want to say:
 
 And count on us. 
 
-*Daniel, Milton e Tom*
-
-
+*Daniel, Milton and Tom*
 
 
 
