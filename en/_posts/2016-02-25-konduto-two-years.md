@@ -48,7 +48,7 @@ Once we realized this we took actions to revert it. Just under a year after laun
 It's easy to think everything will work perfectly -- your app will go viral and you won't know what to do with all the customers, all the while bootstrapping and keeping costs near zero. But the truth is likely to be the opposite: you book less revenue than predicted and your costs rise unexpectedly because the economy blows the exchange rate through the roof.
 
 ![chart](/images/160225-brl-usd-chart.PNG)
-<small>Imagem: xe.com</small>
+<small>Image: xe.com</small>
 
 All our costs were projected as "worst case" and we always assumed that we would not close that big customer we were talking to. It's uncomfortable, but necessary.
 
