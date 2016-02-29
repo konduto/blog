@@ -2,9 +2,9 @@
 layout: post
 categories: en
 date: '2016-02-25T10:39:00-03:00'
-title: 'This is our second anniversary! But what did we learn until now?'
-subtitle: "5 lessons we learned while we went from 0 to +1 million orders screened monthly"
-excerpt: "5 lessons we learned while we went from 0 to +1 million orders screened monthly"
+title: 'We are turning 2! But what did we learn until now?'
+subtitle: "5 lessons we learned while we went from 0 to 1+ million orders a month"
+excerpt: "5 lessons we learned while we went from 0 to 1+ million orders a month"
 author: tom
 ---
 This a very special day for us, because [Konduto](https://www.konduto.com/?utm_source=konduto&utm_medium=blog-en&utm_campaign=conteudo-2a) is turning 2!
