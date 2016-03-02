@@ -2,9 +2,9 @@
 layout: post
 categories: en
 date: '2016-02-25T10:39:00-03:00'
-title: 'This is our second anniversary! But what did we learn until now?'
-subtitle: "5 lessons we learned while we went from 0 to +1 million orders screened monthly"
-excerpt: "5 lessons we learned while we went from 0 to +1 million orders screened monthly"
+title: 'We are turning two! But what did we learn until now?'
+subtitle: "5 lessons we learned while we went from 0 to 1+ million orders screened monthly"
+excerpt: "5 lessons we learned while we went from 0 to 1+ million orders screened monthly"
 author: tom
 ---
 This a very special day for us, because [Konduto](https://www.konduto.com/?utm_source=konduto&utm_medium=blog-en&utm_campaign=conteudo-2a) is turning 2!
@@ -66,7 +66,7 @@ This fortunately is something we did right. All our straight up "YESes" were gre
 
 These were the five more important lessons we had for the last 24 months. If we could come back in time, we'd give this peace of advise to ourselves. Maybe they'll help you, or maybe you'll make the same mistakes we did. That's ok, it happens. 
 
-Over the last two years we launched an smart, innovator anti-fraud, combining buying behavior, risk analysis and Artificial Intelligence (machine learning). We went from 0 to +1 million orders screened monthly, won 100+ clients and helped Brazilian ecommerce to reduce online fraud. 
+Over the last two years we launched an smart, innovator anti-fraud, combining buying behavior, risk analysis and Artificial Intelligence (machine learning). We went from 0 to 1+ million orders screened monthly, won 100+ clients and helped Brazilian ecommerce to reduce online fraud. 
 
 We're absolutely excited, but we're also aware that we can't just stop right here. Indeed we still got a lot to do, many improvements to develop, customers to attract and tons of things to learn. 
 
@@ -77,6 +77,3 @@ But, by now, we just want to say:
 And count on us. 
 
 *Daniel, Milton and Tom*
-
-
-
