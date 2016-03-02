@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: pt
-date: '2016-03-02T10:39:00-03:00'
+date: '2016-03-03T10:39:00-03:00'
 title: 'O consumidor conectado pelo bolso'
 subtitle: "Várias soluções estão sendo criadas para facilitar o  processo de pagamento, mas o comércio não tem explorado esse movimento"
 excerpt: "O comércio parece não ter percebido como é importante tornar a experiência de pagamento agradável para o consumidor?"
