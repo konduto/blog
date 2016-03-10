@@ -19,7 +19,7 @@ Muitas [teorias conspiratórias](https://neuronionerd.wordpress.com/2016/02/13/1
 Mas isso não quer dizer, necessariamente, que as TVs sejam espiãs. Isso nem é tão novidade assim nas nossas vidas. As Smart TVs da Samsung realizam a mesma atividade que o seu smartphone com comando de voz e muitos outros devices (desde que, é claro, você acione o aparelho a partir do comando "Hey, Siri!").
 
 **Leia também**  
-[Entrevista: Eles estão barrando fraudes no e-commerce com a inteligência artificial!](http://ofuturodascoisas.com/entrevista-eles-estao-barrando-fraudes-no-e-commerce-com-a-inteligencia-artificial/  
+[Entrevista: Eles estão barrando fraudes no e-commerce com a inteligência artificial!](http://ofuturodascoisas.com/entrevista-eles-estao-barrando-fraudes-no-e-commerce-com-a-inteligencia-artificial/)  
 [Conheça 20 tarefas incríveis executadas por machine learning](https://blog.konduto.com/pt/2015/12/20-tarefas-incriveis-que-machine-learning-pode-fazer/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Coisas que você acha que sabe sobre IPs, só que não](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
