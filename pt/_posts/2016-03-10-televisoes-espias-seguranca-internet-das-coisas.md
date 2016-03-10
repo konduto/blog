@@ -12,11 +12,16 @@ Shhh! Vamos falar baixo que alguma televisão pode nos ouvir…
 
 ![silence](/images/160310-silence.gif)
 
-Recentemente, voltou ao feed de notícias do Facebook de muita gente [uma notícia que ecoou bastante em fevereiro de 2015](http://exame.abril.com.br/tecnologia/noticias/samsung-pede-que-clientes-evitem-discutir-assuntos-pessoais-em-frente-de-sua-smarttv): a Samsung reconhecendo que as Smart TV com reconhecimento de voz poderiam captar e "transmitir a terceiros" dados pessoais ditos por pessoas próximas aos aparelhos. E a reflexão sobre este conteúdo nos fez pensar algumas coisas aqui na [Konduto](http://www.konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)). 
+Recentemente, voltou ao feed de notícias do Facebook de muita gente [uma notícia que ecoou bastante em fevereiro de 2015](http://exame.abril.com.br/tecnologia/noticias/samsung-pede-que-clientes-evitem-discutir-assuntos-pessoais-em-frente-de-sua-smarttv): a Samsung reconhecendo que as Smart TV com reconhecimento de voz poderiam captar e "transmitir a terceiros" dados pessoais ditos por pessoas próximas aos aparelhos. E a reflexão sobre este conteúdo nos fez pensar algumas coisas aqui na **[Konduto](http://www.konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. 
 
 Muitas [teorias conspiratórias](https://neuronionerd.wordpress.com/2016/02/13/1984-e-hoje-samsung-afirma-que-suas-smart-tvs-estao-ouvindo-as-conversas-de-seus-usuarios/) vieram à tona durante a discussão sobre o caso da empresa sul-coreana. Fato é que as televisões inteligentes da Samsung de fato "ouvem" o que é falado próximo a ela e transmitem esses dados para uma terceira parte processá-los e aperfeiçoar o sistema de reconhecimento de voz. 
 
 Mas isso não quer dizer, necessariamente, que as TVs sejam espiãs. Isso nem é tão novidade assim nas nossas vidas. As Smart TVs da Samsung realizam a mesma atividade que o seu smartphone com comando de voz e muitos outros devices (desde que, é claro, você acione o aparelho a partir do comando "Hey, Siri!").
+
+**Leia também**  
+[Entrevista: Eles estão barrando fraudes no e-commerce com a inteligência artificial!](http://ofuturodascoisas.com/entrevista-eles-estao-barrando-fraudes-no-e-commerce-com-a-inteligencia-artificial/  
+[Conheça 20 tarefas incríveis executadas por machine learning](https://blog.konduto.com/pt/2015/12/20-tarefas-incriveis-que-machine-learning-pode-fazer/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Coisas que você acha que sabe sobre IPs, só que não](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
 De acordo com uma pesquisa realizada pela HP Security Research, grupo independente de pesquisa em segurança com reconhecimento global, 70% dos aparelhos ligados à Internet das Coisas têm falhas graves de segurança e estão sujeitos a ataques de hackers. O levantamento analisou dez tipos de aparelhos mais utilizados atualmente para esse tipo de uso e foi encontrado um total 250 vulnerabilidades. 
 
