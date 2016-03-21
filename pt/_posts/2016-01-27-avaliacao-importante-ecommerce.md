@@ -1,5 +1,6 @@
 ---
 layout: post
+categories: pt
 date: '2016-01-26T18:39:00-03:00'
 title: Você precisa avaliar uma coisa muito importante no seu e-commerce
 subtitle: "É sério que você vai deixar o medo da fraude acabar com o seu e-commerce?"
@@ -13,7 +14,7 @@ Eu tenho uma suspeita. Ou melhor: uma certeza. Uma certeza quase que absoluta: a
 Empreendedor online, pergunte-se: “de cada 100 pedidos que eu mando para meu meio de pagamento, quantos retornam aprovados?”. Muitos não terão essa resposta, mas eu aposto que a maioria dos e-commerces saberá o custo de aquisição de um cliente via links patrocinados, qual o percentual dos visitantes que se torna comprador etc. Mas por que será que poucas, muito poucas, pouquíssimas pessoas saberão esse índice de pedidos aprovados? 
 
 **Leia também**  
-[Os chargebacks aumentaram? Aprenda 5 dicas emergenciais para se proteger de fraudes](http://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo) 
+[Os chargebacks aumentaram? Aprenda 5 dicas emergenciais para se proteger de fraudes](http://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Vai criar uma loja virtual? Veja quais obstáculos você deve ultrapassar](http://blog.konduto.com/pt/2015/11/criar-loja-virtual-obstaculos/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
