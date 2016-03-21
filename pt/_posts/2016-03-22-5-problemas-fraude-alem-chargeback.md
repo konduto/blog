@@ -15,7 +15,7 @@ Neste artigo, a **[Konduto](http://konduto.com/?utm_source=konduto&utm_medium=bl
 
 ## Você começa a ter dores de cabeça
 
-![headache](/images/160315-headache.png)
+![headache](/images/160321-headache.png)
 
 Lidar com os contratempos causados pela fraude é complicado. Você terá que destinar (ou contratar) funcionários para resolver os problemas relacionados a conciliação, contestação, auditoria, recuperação e estorno.
 
@@ -25,7 +25,7 @@ Ou seja, a partir do momento em que a fraude se torna um problema mais grave par
 
 ## Você fica sujeito a multas altíssimas (e em dólares!)
 
-![money](/images/160315-money.gif)
+![money](/images/160321-money.gif)
 
 Ao perceber que o seu e-commerce passou a sofrer um alto volume de fraudes, superando a taxa aceitável de 1% ou outras métricas pré-determinadas, as adquirentes de cartão de crédito podem incluí-lo em um programa de chargebacks. A loja inicialmente é notificada e, se não corrigir o problema dentro de um período de tempo específico (em torno de três meses), começa a receber multas de [Visa](https://usa.visa.com/dam/VCOM/download/about-visa/visa-rules-public.pdf) e/ou [MasterCard](https://www.mastercard.us/content/dam/mccom/en-us/documents/rules/spme-manual-july-2015.pdf). 
 
