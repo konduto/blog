@@ -2,7 +2,7 @@
 layout: post
 categories: pt
 date: '2016-03-21T10:39:00-03:00'
-title: 'Muito além do chargeback: veja outros 5 problemas que a fraude pode causar’
+title: "Muito além do chargeback: veja outros 5 problemas que a fraude pode causar"
 subtitle: "Não é só o valor do produto. Ainda tem multas, descredenciamento de bandeiras, medo do consumidor... "
 excerpt: "O prejuízo que a fraude pode causar a um e-commerce não se limita aoo custo de um produto. O buraco é muito maior"
 author: tom
