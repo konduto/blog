@@ -4,7 +4,7 @@ categories: pt
 date: '2016-03-21T10:39:00-03:00'
 title: "Muito além do chargeback: veja outros 5 problemas que a fraude pode causar"
 subtitle: "Não é só o valor do produto. Ainda tem multas, descredenciamento de bandeiras, medo do consumidor... "
-excerpt: "O prejuízo que a fraude pode causar a um e-commerce não se limita aoo custo de um produto. O buraco é muito maior"
+excerpt: "O prejuízo que a fraude pode causar a um e-commerce não se limita ao custo de um produto. O buraco é muito maior"
 author: tom
 ---
 Quem vende pela internet sabe que o “custo da fraude” deve sempre estar embutido no risco do negócio - afinal de contas, é o lojista quem arca com o **[chargeback](http://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)** (estorno) no caso de compras realizadas com cartões roubados. Hoje em dia é considerado “saudável” um e-commerce cuja taxa de fraude não supere 1% do faturamento, mas este não é o único dado com o qual você deve se preocupar. 
