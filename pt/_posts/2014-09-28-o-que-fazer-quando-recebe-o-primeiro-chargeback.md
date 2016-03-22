@@ -54,6 +54,6 @@ Somos uma startup brasileira fundada em 2014 que criou uma tecnologia única que
 
 ## Quer saber mais? 
 
-Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	
+Ficou alguma dúvida? Fale com a gente no **[oi@konduto.com](mailto:oi@konduto.com)!**	
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)
