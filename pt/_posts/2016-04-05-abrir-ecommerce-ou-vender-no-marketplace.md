@@ -2,7 +2,7 @@
 layout: post
 categories: pt
 date: '2016-04-04T10:39:00-03:00'
-title: 'Devo criar um e-commerce ou vender em um marketplace?’
+title: Devo criar um e-commerce ou vender em um marketplace?
 subtitle: "Para quem está começando a surfar a onda do e-commerce, não é demérito nenhum criar uma loja dentro de um marketplace"
 excerpt: "Empreendedor, você sabe quando deve criar uma loja virtual para chamá-la de sua?"
 author: felipe
