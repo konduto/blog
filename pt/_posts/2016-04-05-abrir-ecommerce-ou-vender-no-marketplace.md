@@ -40,7 +40,7 @@ Mas, se o seu negócio evoluir e você quiser tornar a sua operação mais indep
 **Leia também**  
 [Fraude bizarra: compras caras são enviadas para casa das vítimas](http://blog.konduto.com/pt/2016/02/fraude-bizarra-kohls-eua/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Você precisa avaliar uma coisa muito importante no seu e-commerce](http://blog.konduto.com/pt/2016/01/avaliacao-importante-ecommerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Os chargebacks aumentaram? Aprenda 5 dicas emergenciais para se proteger de fraudes](http://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
+[Aprenda 5 dicas emergenciais para se proteger de fraudes](http://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
 ## Sobre a Konduto
 
