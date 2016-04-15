@@ -1,47 +1,46 @@
 ---
 layout: post
 categories: pt
-date: '2016-04-26T10:39:00-03:00'
-title: Por que é o lojista quem precisa arcar com as fraudes no e-commerce?
-subtitle: "E-commerce é diferente do mundo físico. Esteja ciente disso para não se surpreender no futuro"
-excerpt: "Se o banco emissor autorizou uma venda pela internet no cartão, por que é o lojista quem deve pagar em caso de fraude?"
-author: felipe
+date: '2016-04-15T10:39:00-03:00'
+title: 'Meu cartão de crédito foi clonado! E agora?'
+subtitle: Entenda o que fazer se não reconhecer alguma compra feita em seu cartão de crédito
+excerpt: 'Onde meu cartão foi clonado? Devo parar de comprar pela internet?'
+author: tom
 ---
 
 ![cards](/images/160415-cards.png)
 
-Com certa frequência recebemos e-mails de lojistas que ainda não possuem um antifraude e acabaram de sofrer o primeiro **[chargeback](http://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-cbfault)**, e muitos demonstram uma grande surpresa quando se deparam com uma notícia bem desagradável: **são eles quem devem se responsabilizar pelas compras fraudulentas em seu e-commerce**, e não os bancos ou as operadoras de cartão. É um comentário bastante frequente: 
+Você certamente conhece alguém que já teve o cartão de crédito clonado e utilizado para alguma compra indevida na internet, ou talvez até mesmo você já tenha passado por este problema. No entanto, muitas pessoas não sabem exatamente por que isso acontece e nem o que devem fazer quando são vítimas deste tipo de crime, cada vez mais comum em nosso dia a dia. Sempre há inúmeras dúvidas a respeito deste tema, e pior: **por falta de informação, o consumidor acaba tomando algumas atitudes equivocadas para se proteger, mas acaba ficando ainda mais vulnerável a golpes**.
 
-“Eu pensei que, quando o banco emissor do cartão autorizou a transação, eu não teria que me preocupar mais com a fraude”. 
+O cartão de crédito é a forma de pagamento mais utilizada na internet - só no Brasil, 70% das transações são feitas assim, segundo levantamento feito pelo gateway de pagamentos Moip, em parceria com a Keyscores. No entanto, um estudo feito pela Oberthur Technologies mostra que 28% das pessoas que compram no e-commerce já foram vítimas de fraudes e 70% delas modificaram o comportamento de compra depois disso.
 
-Esta confusão muitas vezes acontece porque **este fluxo é verdadeiro no mundo físico**: quando um cliente escolheu pagar uma compra com cartão e inseriu a senha na maquininha, uma vez autorizada a transação o lojista já pode ficar tranquilo. Se por acaso um consumidor contestar aquela transação no futuro, a loja não precisa se responsabilizar. Afinal de contas, a senha, por ser única e (supostamente) intransferível, é uma maneira de garantir que quem está fazendo o pagamento é de fato o dono daquele cartão. 
+**Mas será que mudar de comportamento e deixar de fazer compras pela internet é a atitude correta?** Confira, abaixo, as principais dúvidas de quem é vítima da clonagem de cartão de crédito e as nossas dicas de o que fazer nessa situação.
 
-Mas no ambiente online as coisas são um pouquinho diferentes. Um e-commerce, quando decide receber pagamentos online, acaba se comprometendo também em arcar com a segurança das transações que envolverem aqueles cartões de crédito. É necessário inclusive assinar um termo de responsabilidade sobre isso, mas este é um dentre muitos documentos que precisam ser firmados pelo lojista. Ou seja, se no futuro houver alguma contestação de compra, o estorno sairá do bolso do lojista. 
+## Vou perder o dinheiro daquela compra indevida com o meu cartão?
 
-Isso significa que, no e-commerce, a *autorização* do banco emissor do cartão não significa que o banco está reconhecendo aquele cliente na frente do computador ou da tela do smartphone como o portador daquele cartão. A **autorização não está relacionada à identidade do cliente, mas apenas à checagem se aquele cartão que está sendo utilizado possui dinheiro para pagar aquela compra**. 
+Não. Basta ligar para o seu banco ou para a operadora do cartão de crédito e informar a compra que você não reconhece na fatura. O cartão será cancelado automaticamente e a cobrança na fatura será cancelada.
 
-Entendemos, porém, que tudo isso pode gerar bastante confusão e causar uma decepção muito grande a um empreendedor quando ele se depara com o prejuízo de um, dois ou dezenas de chargebacks de uma hora para outra. A nossa ideia também não é entrar no mérito legal e opinar se este fluxo de responsabilidade pela fraude online cabe ao lojista ou aos bancos, mas é importante frisar que a fraude online acaba gerando prejuízos em toda a cadeia de pagamentos online. 
+## Como clonaram meu cartão?
 
-De acordo com dados do setor, **para cada US$ 1 que um e-commerce perde com a fraude, os bancos e as adquirentes e bancos desembolsam cerca de US$ 1,50 com custos operacionais** de atendimento e de substituição daqueles cartões de crédito cancelados pelos clientes e também em várias outras atividades preventivas e de segurança. 
+**Talvez você nunca saberá como o seu cartão de crédito foi clonado**. Ele pode ter sido utilizado para um crime online, mas o vazamento dos dados pode ter ocorrido tanto na internet (por conta de ataques de hackers e vírus ao seu computador ou ao de um e-commerce) como no “mundo físico” (algum caixa eletrônico ou maquininha de cartão tinha um “chupa-cabra”, que era capaz de interceptar os dados do cartão e enviá-los para os criminosos). 
 
-Um consumidor, quando descobre que seu cartão de crédito foi utilizado indevidamente, também acaba ficando inseguro sobre todo o processo de pagamento online. É comum ouvirmos um cliente vítima de fraude dizer que “a partir daquela data só fará pagamentos via boleto” (o que é um equívoco muito grande pensando como consumidor) ou então aqueles que desconfiam da segurança do banco emissor ou da bandeira do cartão, com pensamentos do tipo: “meu cartão da bandeira A nunca foi clonado; já o da bandeira B foi clonado duas vezes”. Ou seja, **a fraude gera uma experiência muito ruim para as marcas de bancos e bandeiras, assim como também gerará para o seu e-commerce**, conforme já publicamos **[neste artigo](http://blog.konduto.com/pt/2016/03/5-problemas-fraude-alem-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-cbfault)**. 
+## Foi a loja que clonou meu cartão?
 
-A má notícia é que **não existe e-commerce à prova de fraude**: a partir do momento em que você decide receber pagamentos online acaba ficando sujeito a este tipo de golpe - independentemente do tipo de produto ou serviço que você vende, já que **[há muitos casos em que os criminosos não estão necessariamente interessados no produto da sua loja](xxxxxxxxxxxx). 
+Provavelmente não. O e-commerce responsável por aquela transação que você não reconhece na fatura do seu cartão também foi vítima do crime. Depois que você ligar para o banco e solicitar o estorno daquela transação, o dinheiro sairá da conta da loja - que, por sua vez, já deve ter enviado o produto para o criminoso e terá que arcar com aquele prejuízo. Porém, há alguns casos (muito mais raros) em que o próprio e-commerce é o responsável pelo crime.
 
-**A fraude faz parte do jogo do comércio eletrônico, e mantê-la em uma taxa entre 0,3 e 0,7% é uma das tarefas que você deve administrar em sua operação**. Assimilar esta ideia é uma das muitas tarefas de um empreendedor, que precisará entender que o objetivo da análise de risco não se trata utopicamente de “acabar com a fraude”. Há muitas outras métricas que precisam ser levadas em consideração, e ainda falaremos muito sobre isso nos nossos próximos artigos. Fique de olho! :) 
+## Devo parar de fazer compras no cartão pela internet?
 
-**Leia também**  
-[Fraude bizarra: compras caras são enviadas para casa das vítimas](http://blog.konduto.com/pt/2016/02/fraude-bizarra-kohls-eua/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Você precisa avaliar uma coisa muito importante no seu e-commerce](http://blog.konduto.com/pt/2016/01/avaliacao-importante-ecommerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Aprenda 5 dicas emergenciais para se proteger de fraudes](http://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
+De jeito nenhum. O cartão pode ser roubado, copiado e usado para fraudes, mas o consumidor está protegido por contrato contra as cobranças indevidas. Se o cartão foi utilizado em alguma fraude, basta ligar para o banco e solicitar o estorno daquela transação. 
 
-## Sobre a Konduto
+## Pagar por boleto é mais seguro?
 
-Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída. e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
+Este é o erro mais comum entre os consumidores. **O pagamento por cartão de crédito é sempre muito mais seguro em comparação ao pagamento por boleto**. Afinal de contas, se você pagar um boleto falso, não há como pedir o dinheiro de volta - a não ser judicialmente, em um processo bem mais lento do que uma ligação para o banco.
 
-Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup e pagando centavos por cada transação analisada. **[Confira nossos preços](http://konduto.com/pt/pricing/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**! 
+## Como eu devo me proteger?
 
-**Ficou interessado? Mande um e-mail para [oi@konduto.com](mailto:oi@konduto.com) e nos conte como podemos ajudar a sua loja virtual!**
+Há algumas atitudes básicas que o consumidor pode tomar, como tomar cuidado com e-mails falsos (phishing), manter um antivírus sempre atualizado no computador e no smartphone e nunca enviar dados sensíveis de cartão de crédito (número, código CVV e validade) por e-mail, chat ou mensagem de texto - e nem realizar recadastros destas informações.
+
+É importante frisar que adotar estas medidas básicas, infelizmente, não garantirá que o seu cartão de crédito jamais será clonado, pois em muitos casos o crime acontece sem que o portador do cartão tenha “culpa”. Por isso, o mais importante é que o consumidor se conscientize dos seus direitos e **SEMPRE** verifique cuidadosamente a fatura mensal do cartão, para que nenhuma cobrança indevida passe despercebida.
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)  
 
