@@ -55,13 +55,13 @@ Já o segundo cenário apresenta um lojista que é mais cauteloso e decide negar
 
 **Cenário ideal** 
 
-![ideal](/images/160417-ideal-.PNG)
+![ideal](/images/160417-graf-ideal.PNG)
 
 Note como as taxas de pedidos enviados para revisão, pedidos negados e chargebacks se mantêm estáveis ao longo do tempo. Neste cenário, as vendas enviadas para revisão manual tendem a ficar entre 10 e 12%, com a linha roxa, de vendas negadas por fraude, sempre na casa de 3%. Eventualmente, uma ou outra venda pode ser contestada pelo cliente, mas a taxa de chargebacks também se mantém próxima de 0,1%. 
 
 **Muitas vendas negadas** 
 
-![nega_muito](/images/160417-nega--muito.PNG)
+![nega_muito](/images/160417-graf-nega-muito.PNG)
 
 Uma vez que a análise de risco do e-commerce passou a negar mais vendas consideradas suspeitas, sem revisá-las manualmente, o sistema aprendeu com este comportamento e se tornou extremamente conservador. Desta forma, muito mais vendas acabaram sendo tratadas como suspeitas de antemão, e consequentemente menos vendas foram aprovadas. 
 
@@ -69,7 +69,7 @@ Note, porém, a linha pontilhada, que indica a taxa real de fraudes do negócio:
 
 **Muitas vendas aprovadas**
 
-![nega_pouco](/images/160417-nega--pouco.PNG)
+![nega_pouco](/images/160417-graf-nega-pouco.PNG)
 
 Já este caso apresenta um lojista que ignorou a recomendação de revisão, passou a aprovar pedidos considerados suspeitos pelo sistema e não alimentou o sistema posteriormente com dados de chargebacks. Logo, o modelo acabou se tornando permissivo demais, e vendas que inicialmente cairiam em um filtro de suspeita foram aprovadas. O resultado: muitas fraudes acabaram passando, em um nível muito acima do que era esperado, causando um prejuízo importante ao empreendimento. 
 
