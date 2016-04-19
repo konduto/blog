@@ -27,7 +27,7 @@ De acordo com IBM e Ponemon, as empresas brasileiras tiveram um aumento consider
 
 O estudo levou em consideração três grandes fatores como causadores dos vazamentos de dados nas empresas: ataques cibernéticos, falhas de sistema e negligência de funcionários. Mundialmente, invasões hackers são a principal razão para a divulgação indevida de registros pessoais: 47%, contra 29% de problemas relacionados à tecnologia e 25% de “fator humano”. 
 
-No entanto, neste quesito reside outra estatística alarmante para as empresas brasileiras. Percentualmente, dos 12 países que participaram da pesquisa, o nosso País é o que possui o maior índice de erros causados por colaboradores da própria empresa: 32%. Quantitativamente, os ataques criminosos ainda respondem pela maior parte da quebra de sigilo de informações pessoais de clientes: 38%. Os erros de TI são responsáveis por “apenas” 30%.
+No entanto, neste quesito reside outra estatística alarmante para as empresas brasileiras. Percentualmente, das 12 nações que participaram da pesquisa, o nosso País é o que possui o maior índice de erros causados por colaboradores da própria empresa: 32%. Quantitativamente, os ataques criminosos ainda respondem pela maior parte da quebra de sigilo de informações pessoais de clientes: 38%. Os erros de TI são responsáveis por “apenas” 30%.
 
 ![causas](/images/160121-causas-fraude.png)
 <small>Azul representa ataques maliciosos, vermelho indica falhas no sistema e verde corresponde ao fator humano. Imagem: 2015 Cost of Data Breach/IBM e Instituto Ponemon</small>
@@ -36,9 +36,9 @@ No entanto, neste quesito reside outra estatística alarmante para as empresas b
 
 A alta contribuição do “fator humano” para os vazamentos de dados no Brasil vai de encontro a um artigo que já havíamos publicado no nosso blog anteriormente, quando falamos sobre [as principais causas da fraude no comércio eletrônico](http://blog.konduto.com/pt/2015/03/as-causas-da-fraude-parte-2/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo). 
 
-Muitos donos e desenvolvedores de e-commerce, sejam eles pequenos ou gigantes, incidem em um erro grave, que compromete toda a cadeia do comércio: o armazenamento de dados de cartões de crédito. Há uma falsa impressão de que uma loja virtual, para poder processar este tipo de pagamento, é necessário estocar as informações do clientes. Isso não é verdade, nem mesmo em casos de conciliação ou de chargebacks. 
+Muitos donos e desenvolvedores de e-commerce, sejam eles pequenos ou gigantes, incidem em um erro grave, que compromete toda a cadeia do comércio: o armazenamento de dados de cartões de crédito. Há uma falsa impressão de que uma loja virtual, para poder processar este tipo de pagamento, precisa estocar as informações do clientes. Isso não é verdade, nem mesmo em casos de conciliação ou de chargebacks. 
 
-O problema fica ainda mais grave quando analisamos **COMO** esses dados são armazenados pelos e-commerces: há empresas que sequer protegem essas informações, em planilhas ou arquivos de textos. É um prato cheio e bastante apetitoso para um hacker ou funcionário mal-intencionado. 
+O problema fica ainda mais grave quando analisamos **COMO** esses dados são armazenados pelos e-commerces: há empresas que sequer protegem essas informações, deixando-a abertas em planilhas ou arquivos de textos. É um prato cheio e bastante apetitoso para um hacker ou funcionário mal-intencionado. 
 
 Por isso, na dúvida, simplesmente não guarde essas informações. É melhor para você, para o cliente e para todo o ecossistema do comércio eletrônico. E, certamente, ajudaria o Brasil a melhorar sua reputação nos próximos estudos sobre vazamento de dados. 
 
