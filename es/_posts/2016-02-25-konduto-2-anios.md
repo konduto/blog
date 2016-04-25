@@ -2,7 +2,7 @@
 layout: post
 categories: es
 date: '2016-02-25T10:39:00-03:00'
-title: "¡Konduto celebra 2 años! Pero ¿qué hemos aprendido hasta aquí?"
+title: '¡Konduto celebra 2 años! Pero ¿qué hemos aprendido hasta aquí?'
 subtitle: "El antifraude más inteligente del e-commerce latinoamericano conmemora dos años de vida"
 excerpt: "Si pudiéramos volver en el tiempo, nos daríamos estes cinco consejos"
 author: tom
@@ -79,4 +79,4 @@ Pero, de momento, nos gustaría decirles:
 
 *Daniel, Milton e Tom*
 
-Conéctase con Konduto también en las redes sociales: **[Linkedin]**(https://www.linkedin.com/company/konduto?trk=company_logo) y **[Facebook]**(https://www.linkedin.com/company/konduto?trk=company_logo).
+Conéctase con Konduto también en las redes sociales: **[Linkedin](https://www.linkedin.com/company/konduto?trk=company_logo)** y **[Facebook](https://www.facebook.com/konduto?fref=ts)**.

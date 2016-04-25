@@ -8,13 +8,13 @@ excerpt: "Cuando tú compras por internet, tu nombre ni tu identidad valen mucho
 author: tom
 ---
 
-![tarjeta](160415-cards.png)
+![cards](/images/160415-cards.png)
 
 La tarjeta de crédito es hoy el medio de pago que más se usa en internet, llegando a más del 70% de las compras. Una de las mayores ventajas de este medio de pago es la facilidad: además de recibir una aprobación inmediata, sin esperar la compensación de bancos o contar días hábiles, aún es posible aplazar las compras.
 
 A pesar de muy conocido y utilizado, este medio de pago aún esconde algunos secretos. Entre ellos:
 
-## 1. ¡Tu nombre no cuenta!
+## 1. ¡Tu nombre no cuenta! 
 
 ¿Sabes cuando el sitio te pide el nombre del portador de la tarjeta? Pues esta información no vale nada, no es verificada. Algunas tiendas chequean si el nombre del destinatario del paquete y el nombre del portador son iguales, pero no van más allá. No existe en muchos países una verificación automática capaz de decir quién es el dueño de la tarjeta.
 
@@ -56,6 +56,6 @@ Somos una startup que desarrolló una tecnología innovadora para impedir el fra
 
 La solución antifraude Konduto es simple, más eficiente y con respuesta en tiempo real, para no perjudicar la operación. Detectamos los pedidos que son realmente sospechosos: de este modo, usted reduce los costos con revisiones manuales al mismo tiempo en que vende más y sufre menos fraudes. Ah, y un detalle muy importante: ¡a un precio mucho menor que los demás antifraudes del mercado!
 
-**¿Quieres saber más? ¿Tienes alguna duda? ¡Contáctanos por **[hola@konduto.com](mailto:hola@konduto.com)!**
+**¿Quieres saber más? ¿Tienes alguna duda? ¡Contáctanos por [hola@konduto.com](mailto:hola@konduto.com)!**
 
-Conéctase con Konduto también en las redes sociales: **[Linkedin]**(https://www.linkedin.com/company/konduto?trk=company_logo) y **[Facebook]**(https://www.linkedin.com/company/konduto?trk=company_logo).
+Conéctase con Konduto también en las redes sociales: **[Linkedin](https://www.linkedin.com/company/konduto?trk=company_logo)** y **[Facebook](https://www.facebook.com/konduto?fref=ts)**.

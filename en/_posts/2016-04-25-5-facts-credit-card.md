@@ -7,11 +7,11 @@ excerpt: "Credit cards are the main e-commerce payment method today, reaching ov
 author: tom
 ---
 
-![cards](160415-cards.png)
+![cards](/images/160415-cards.png)
 
 Credit cards are the primary payment method for online purchases, reaching over 70% of sales in Brazil. One of the key advantages is that cards are practical: you get an immediate approval, without having to go to banks, and you can also pay in installments.
 
-Credit cards work differently in each country, and in Brazil is no different. We'll cover the Brazilian way of doing online business in another post, but here I'd like to point out a few secrets that even most locals are not aware:
+Credit cards work differently in each country, and in Brazil is no different. We'll cover the Brazilian way of doing online business in another post, but here I'd like to point out a few secrets that even most locals are not aware: 
 
 ### 1. Your name doesn't count
 
@@ -49,7 +49,7 @@ Other payment methods work differently. If you pay a [fake Boleto](http://krebso
 
 ## About Konduto
 
-A startup developing an **innovative technology** to bar e-commerce frauds. Our **intelligent anti-fraud** monitors the client throughout his purchase journey in your site and evaluates the transaction in real time - **our answer is given in less than 1s**! We detect only the purchases that are really suspicious, approving more orders and reducing the costs with frauds. Send us an e-mail on **[hi@konduto.com]**(mailto:hi@konduto.com)
+A startup developing an **innovative technology** to bar e-commerce frauds. Our **intelligent anti-fraud** monitors the client throughout his purchase journey in your site and evaluates the transaction in real time - **our answer is given in less than 1s**! We detect only the purchases that are really suspicious, approving more orders and reducing the costs with frauds. **Send us an e-mail on [hi@konduto.com](mailto:hi@konduto.com)**
 
 Follow us on [Linkedin](https://www.linkedin.com/company/konduto?trk=company_logo) and [Facebook](https://www.facebook.com/konduto?fref=ts)!
 
