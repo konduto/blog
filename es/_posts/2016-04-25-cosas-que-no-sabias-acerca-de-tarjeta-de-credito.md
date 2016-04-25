@@ -8,7 +8,7 @@ excerpt: "Cuando tú compras por internet, tu nombre ni tu identidad valen mucho
 author: tom
 ---
 
-![tarjeta](160415-cards)
+![tarjeta](160415-cards.PNG)
 
 La tarjeta de crédito es hoy el medio de pago que más se usa en internet, llegando a más del 70% de las compras. Una de las mayores ventajas de este medio de pago es la facilidad: además de recibir una aprobación inmediata, sin esperar la compensación de bancos o contar días hábiles, aún es posible aplazar las compras.
 
