@@ -54,7 +54,7 @@ locales:
   default: pt
   pt:
     name: pt
-    minread: mins
+    minread: min
     product: Produto
     about: Sobre
     older: Antigos
@@ -81,6 +81,35 @@ locales:
       Oct: Outubro
       Nov: Novembro
       Dec: Dezembro
+  es:
+    name: es
+    minread: minutos
+    product: Producto
+    about: Sobre
+    older: Antíguos
+    newer: Nuevos
+    written_by: Por
+    override_date: true
+    email_placeholder: tu@ejemplo.com
+    subscribe_button: Suscribir
+    mailchimp_id: d4ebf0389a
+    previous: Ve también
+    next: Siguiente
+    meta_description: >
+      Qué es el submundo del fraude en el e-commerce? Los mejores contenidos para que mejores el análisis de riesgo en tu negocio! 
+    months:
+      Jan: Enero
+      Feb: Febrero
+      Mar: Marzo
+      Apr: Abril
+      May: Mayo
+      Jun: Junio
+      Jul: Julio
+      Aug: Agosto
+      Sep: Septiembre
+      Oct: Octubre
+      Nov: Noviembre
+      Dec: Diciembre
   en:
     name: en
     minread: min read
