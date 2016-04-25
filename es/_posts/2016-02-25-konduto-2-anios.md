@@ -79,4 +79,4 @@ Pero, de momento, nos gustaría decirles:
 
 *Daniel, Milton e Tom*
 
-Conéctase con Konduto también en las redes sociales: **[Linkedin]**(https://www.linkedin.com/company/konduto?trk=company_logo) y **[Facebook]**(https://www.linkedin.com/company/konduto?trk=company_logo).
+Conéctase con Konduto también en las redes sociales: **[Linkedin](https://www.linkedin.com/company/konduto?trk=company_logo)** y **[Facebook](https://www.facebook.com/konduto?fref=ts)**.
