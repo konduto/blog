@@ -11,7 +11,7 @@ author: tom
 
 Credit cards are the primary payment method for online purchases, reaching over 70% of sales in Brazil. One of the key advantages is that cards are practical: you get an immediate approval, without having to go to banks, and you can also pay in installments.
 
-Credit cards work differently in each country, and in Brazil is no different. We'll cover the Brazilian way of doing online business in another post, but here I'd like to point out a few secrets that even most locals are not aware:
+Credit cards work differently in each country, and in Brazil is no different. We'll cover the Brazilian way of doing online business in another post, but here I'd like to point out a few secrets that even most locals are not aware: 
 
 ### 1. Your name doesn't count
 

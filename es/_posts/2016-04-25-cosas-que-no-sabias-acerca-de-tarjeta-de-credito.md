@@ -14,7 +14,7 @@ La tarjeta de crédito es hoy el medio de pago que más se usa en internet, lleg
 
 A pesar de muy conocido y utilizado, este medio de pago aún esconde algunos secretos. Entre ellos:
 
-## 1. ¡Tu nombre no cuenta!
+## 1. ¡Tu nombre no cuenta! 
 
 ¿Sabes cuando el sitio te pide el nombre del portador de la tarjeta? Pues esta información no vale nada, no es verificada. Algunas tiendas chequean si el nombre del destinatario del paquete y el nombre del portador son iguales, pero no van más allá. No existe en muchos países una verificación automática capaz de decir quién es el dueño de la tarjeta.
 
