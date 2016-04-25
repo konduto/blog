@@ -7,7 +7,7 @@ excerpt: "Credit cards are the main e-commerce payment method today, reaching ov
 author: tom
 ---
 
-![cards](160415-cards.png)
+![cards](/images/160415-cards.png)
 
 Credit cards are the primary payment method for online purchases, reaching over 70% of sales in Brazil. One of the key advantages is that cards are practical: you get an immediate approval, without having to go to banks, and you can also pay in installments.
 

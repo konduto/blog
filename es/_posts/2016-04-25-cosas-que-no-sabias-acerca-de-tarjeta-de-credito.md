@@ -8,7 +8,7 @@ excerpt: "Cuando tú compras por internet, tu nombre ni tu identidad valen mucho
 author: tom
 ---
 
-![tarjeta](160415-cards.png)
+![cards](/images/160415-cards.png)
 
 La tarjeta de crédito es hoy el medio de pago que más se usa en internet, llegando a más del 70% de las compras. Una de las mayores ventajas de este medio de pago es la facilidad: además de recibir una aprobación inmediata, sin esperar la compensación de bancos o contar días hábiles, aún es posible aplazar las compras.
 
@@ -56,6 +56,6 @@ Somos una startup que desarrolló una tecnología innovadora para impedir el fra
 
 La solución antifraude Konduto es simple, más eficiente y con respuesta en tiempo real, para no perjudicar la operación. Detectamos los pedidos que son realmente sospechosos: de este modo, usted reduce los costos con revisiones manuales al mismo tiempo en que vende más y sufre menos fraudes. Ah, y un detalle muy importante: ¡a un precio mucho menor que los demás antifraudes del mercado!
 
-**¿Quieres saber más? ¿Tienes alguna duda? ¡Contáctanos por **[hola@konduto.com](mailto:hola@konduto.com)!**
+**¿Quieres saber más? ¿Tienes alguna duda? ¡Contáctanos por [hola@konduto.com](mailto:hola@konduto.com)!**
 
-Conéctase con Konduto también en las redes sociales: **[Linkedin]**(https://www.linkedin.com/company/konduto?trk=company_logo) y **[Facebook]**(https://www.linkedin.com/company/konduto?trk=company_logo).
+Conéctase con Konduto también en las redes sociales: **[Linkedin](https://www.linkedin.com/company/konduto?trk=company_logo)** y **[Facebook](https://www.facebook.com/konduto?fref=ts)**.
