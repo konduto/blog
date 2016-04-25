@@ -161,6 +161,11 @@ defaults:
       path: "en"
     values:
       categories: ["en"]
+  -
+    scope:
+      path: "es"
+    values:
+      categories: ["es"]
 
 gems: ['kramdown']
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
