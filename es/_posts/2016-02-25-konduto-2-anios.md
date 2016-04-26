@@ -24,7 +24,7 @@ Hemos pasado un buen tiempo escribiendo la documentación de **[nuestra API](htt
 
 A pesar de haber desarrollado nuestra API con mucho esmero, no explicamos mucha cosa a su respecto una vez que estaba lista. Les dijimos a nuestros clientes algo como «¡aquí tienen una API, ahora les toca a ustedes!». Rápidamente repensamos nuestro abordaje y adoptamos el **[modelo transaccional](http://chaotic-flow.com/saas-startup-strategy-three-saas-sales-models/)**, más tradicional (léase: menos startup). Y lo hemos mantenido este último año.
 
-Seguramente daremos una segunda oportunidad al modelo autoservicio, pero el modelo comercial transaccional nos ha enseñado mucho acerca de las necesidades de nuestros clientes y nos ha dado la oportunidad de practicar distintos discursos de venta. Eso ha sido excelente, pues teníamos mucha necesidad de aprender a vender. Después de todo…
+Seguramente daremos una segunda oportunidad al modelo autoservicio, pero el modelo comercial transaccional nos ha enseñado mucho acerca de las necesidades de nuestros clientes y nos ha dado la oportunidad de practicar distintos discursos de venta. Eso ha sido excelente, pues teníamos mucha necesidad de aprender a vender. Después de todo... 
 
 ## Vender es difícil
 
