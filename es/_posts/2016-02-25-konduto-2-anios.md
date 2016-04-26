@@ -12,7 +12,7 @@ Febrero ha sido un mes muy especial para Konduto, **¡hemos celebrado 2 años de
 
 ![celebration](/images/160225-celebrate.gif)
 
-Pero no sabemos decir si «hace ya dos años» o si «hace solo dos años» desde que nuestro equipo conectó la computadora por primera vez para programar. De cualquier manera, nos gustaría mucho agradecer a nuestros clientes por confiar en Konduto, a nuestros inversores y a nuestros «betas» por creer en nosotros y, sobre todo, a **[nuestro increíble equipo]**(https://www.konduto.com/es/about/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo-2a) por el duro trabajo realizado en los últimos 24 meses.
+Pero no sabemos decir si «hace ya dos años» o si «hace solo dos años» desde que nuestro equipo conectó la computadora por primera vez para programar. De cualquier manera, nos gustaría mucho agradecer a nuestros clientes por confiar en Konduto, a nuestros inversores y a nuestros «betas» por creer en nosotros y, sobre todo, a **[nuestro increíble equipo](https://www.konduto.com/es/about/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo-2a)** por el duro trabajo realizado en los últimos 24 meses.
 
 Hace algunos días, me preguntaron cuál es la diferencia entre la Konduto que nosotros planeamos al inicio y la Konduto de hoy. Eso nos hizo pensar en toda nuestra jornada hasta ahora: los errores que cometimos, los aciertos que tuvimos y las lecciones aprendidas. ¡Nos gustaría compartir un poco de esto hoy contigo!
 
@@ -20,9 +20,9 @@ Hace algunos días, me preguntaron cuál es la diferencia entre la Konduto que n
 
 Integración es una de las mayores barreras de una empresa a la hora de cambiar de proveedor de TI. Realizar alguna modificación en el proceso de checkout de un e-commerce no es el mayor sueño de gerentes y directores, entonces decidimos hacer nuestra API muy sencilla para que cualquiera pueda integrarla.
 
-Hemos pasado un buen tiempo escribiendo la documentación de [nuestra API](http://docs.konduto.com/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo-2a) y desarrollando nuestros SDKs y el **[módulo Magento]**(https://www.magentocommerce.com/magento-connect/konduto-fraud-detection-service.html). Tan pronto como finalizamos el beta, lanzamos el flujo autoservicio y nos quedamos esperando que una avalancha de devs visitara nuestro sitio para realizar integraciones. Pero no fue lo que sucedió.
+Hemos pasado un buen tiempo escribiendo la documentación de **[nuestra API](http://docs.konduto.com/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo-2a)** y desarrollando nuestros SDKs y el **[módulo Magento](https://www.magentocommerce.com/magento-connect/konduto-fraud-detection-service.html)**. Tan pronto como finalizamos el beta, lanzamos el flujo autoservicio y nos quedamos esperando que una avalancha de devs visitara nuestro sitio para realizar integraciones. Pero no fue lo que sucedió.
 
-A pesar de haber desarrollado nuestra API con mucho esmero, no explicamos mucha cosa a su respecto una vez que estaba lista. Les dijimos a nuestros clientes algo como «¡aquí tienen una API, ahora les toca a ustedes!». Rápidamente repensamos nuestro abordaje y adoptamos el [modelo transaccional](http://chaotic-flow.com/saas-startup-strategy-three-saas-sales-models/), más tradicional (léase: menos startup). Y lo hemos mantenido este último año.
+A pesar de haber desarrollado nuestra API con mucho esmero, no explicamos mucha cosa a su respecto una vez que estaba lista. Les dijimos a nuestros clientes algo como «¡aquí tienen una API, ahora les toca a ustedes!». Rápidamente repensamos nuestro abordaje y adoptamos el **[modelo transaccional](http://chaotic-flow.com/saas-startup-strategy-three-saas-sales-models/)**, más tradicional (léase: menos startup). Y lo hemos mantenido este último año.
 
 Seguramente daremos una segunda oportunidad al modelo autoservicio, pero el modelo comercial transaccional nos ha enseñado mucho acerca de las necesidades de nuestros clientes y nos ha dado la oportunidad de practicar distintos discursos de venta. Eso ha sido excelente, pues teníamos mucha necesidad de aprender a vender. Después de todo…
 
@@ -59,7 +59,7 @@ Tienes que hacer bootstrap hasta lograr clientes que paguen, y saber cuál es su
 
 ## Invierte tiempo para montar un excelente equipo
 
-Las personas son el bien más importante de cualquier startup: son las que escriben el código, ponen el sitio en línea, depuran errores, venden y dan soporte a los clientes. Y también son las que estarán a tu lado cuando logres tu primera gran cuenta y cuando atravieses la primera gran crisis. Por tanto, no elijas a un empleado solo porque necesitas ocupar un puesto y aquel candidato es «la opción menos peor». Si, tras una entrevista, no piensas automáticamente**SÍ**, eso significa **NO**.
+Las personas son el bien más importante de cualquier startup: son las que escriben el código, ponen el sitio en línea, depuran errores, venden y dan soporte a los clientes. Y también son las que estarán a tu lado cuando logres tu primera gran cuenta y cuando atravieses la primera gran crisis. Por tanto, no elijas a un empleado solo porque necesitas ocupar un puesto y aquel candidato es «la opción menos peor». Si, tras una entrevista, no piensas automáticamente **SÍ**, eso significa **NO**.
 
 Felizmente hemos acertado totalmente en este punto. Todos nuestros «SÍES» han sido excelentes contrataciones y nos acompañan en la alegría y en la tristeza. ¡Contamos con un equipo de profesionales espectaculares y no habríamos llegado hasta aquí sin ellos! 
 
