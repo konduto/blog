@@ -64,6 +64,7 @@ locales:
     email_placeholder: voce@exemplo.com.br
     subscribe_button: Assinar
     mailchimp_id: 8949a10898
+    leading_id: 123
     previous: Veja também
     next: A seguir
     meta_description: >
@@ -93,6 +94,7 @@ locales:
     email_placeholder: tu@ejemplo.com
     subscribe_button: Suscribir
     mailchimp_id: d4ebf0389a
+    leading_id: 2215232
     previous: Ve también
     next: Siguiente
     meta_description: >
@@ -121,6 +123,7 @@ locales:
     email_placeholder: you@example.com
     subscribe_button: Subscribe
     mailchimp_id: d4ebf0389a
+    leading_id: 123
     previous: Previous story
     next: Next up
     meta_description: >

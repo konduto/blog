@@ -10,7 +10,7 @@ author: felipe
 
 Análise de risco é uma atividade crucial para o comércio eletrônico, e em muitos casos pode ser o diferencial entre um e-commerce bem-sucedido e um negócio que enfrenta dificuldades. No entanto, **combater a fraude online não é uma tarefa fácil**: o profissional da área precisa ter uma série de conhecimentos, e colocá-los em prática em um espaço bastante apertado de tempo, a fim de não prejudicar a experiência do bom cliente daquela loja virtual. 
 
-Fora isso, a análise de risco ainda tem quatro armadilhas nas quais bons e-commerces, bons empreendedores e bons analistas de fraude jamais podem cair. São tentações que aparecem no dia a dia da operação; menosprezá-las pode ser um erro. E, neste caso, um erro significa um prejuízo financeiro considerável.
+Fora isso, a análise de risco ainda tem quatro armadilhas nas quais bons e-commerces, bons empreendedores e bons analistas de fraude jamais podem cair. São tentações que aparecem no dia a dia da operação; menosprezá-las pode ser um erro. E, neste caso, um erro significa um prejuízo financeiro considerável 
 
 ![cilada](/images/160428-businessman.png)
 
@@ -57,6 +57,11 @@ Um dos maiores problemas do comércio eletrônico é que praticamente não há m
 A sua loja virtual pode não necessitar a proteção de um antifraude, ou você pode estar com o risco do negócio totalmente sob controle, mantendo o seu negócio dentro de um patamar bastante saudável. Entretanto, fechar os olhos para estas quatro armadilhas que listamos pode fazer com que o jogo se volte contra você e torne as coisas um pouco mais complicadas. 
 
 Estar atento a estes perigos certamente facilitará o seu dia a dia no combate à fraude. E, caso surja alguma dúvida ou você decida reforçar a proteção do seu e-commerce com uma solução antifraude capaz de detectar fraudes em tempo real e aumentar a performance do seu negócio, não hesite em entrar em contato conosco! Basta mandar um e-mail para **[oi@konduto.com](mailto:oi@konduto.com)** que teremos o prazer em atendê-lo! 
+
+**Leia também**  
+[Você precisa avaliar uma coisa muito importante no seu e-commerce](https://blog.konduto.com/pt/2016/01/avaliacao-importante-ecommerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[5 indicadores para quem faz análise de risco no e-commerce](https://blog.konduto.com/pt/2014/11/5-indicadores-para-quem-faz-analise-de-risco-no-e-commerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[O que fazer quando você recebe o seu primeiro chargeback?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
 ## Sobre a Konduto
 
