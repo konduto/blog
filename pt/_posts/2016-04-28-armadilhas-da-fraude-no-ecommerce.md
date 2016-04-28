@@ -24,23 +24,26 @@ Estes criminosos, de fato, não querem o seu produto. Mas querem a sua plataform
 
 **Por isso, achar que nunca sofrerá uma fraude pode fazer com que você não proteja o seu e-commerce da maneira adequada**. Ao perceberem essa brecha, os testadores poderão realizar ataques intensos (milhares por dia, inclusive!) e causar um transtorno considerável ao seu negócio, expondo-o inclusive a pesadas multas das adquirentes de cartão. 
 
-Há alguns meses, também contamos outro episódio em que os fraudadores não estavam interessados no produto: eles faziam as compras e enviavam as remessas para o endereço da própria vítima. **[Entenda]**(https://blog.konduto.com/pt/2016/02/fraude-bizarra-kohls-eua/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-trap).
+Há alguns meses, também contamos outro episódio em que os fraudadores não estavam interessados no produto: eles faziam as compras e enviavam as remessas para o endereço da própria vítima. **[Entenda](https://blog.konduto.com/pt/2016/02/fraude-bizarra-kohls-eua/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-trap)**.
+
 
 ## 2. Confiar apenas em dados cadastrais 
 
-Esta armadilha é tão importante que já dedicamos um **[post exclusivo a ela em nosso blog]**(https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-trap), além de a citarmos ao longo de vários outros artigos que publicamos. Fato é que hoje em dia, para um fraudador, é muito fácil obter informações pessoais a partir da internet. 
+Esta armadilha é tão importante que já dedicamos um **[post exclusivo a ela em nosso blog](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-trap)**, além de a citarmos ao longo de vários outros artigos que publicamos. Fato é que hoje em dia, para um fraudador, é muito fácil obter informações pessoais a partir da internet. 
 
 Muitas vezes, aliás, um cliente legítimo e desatento pode se equivocar na hora de digitar o número do CPF enquanto finaliza uma compra. Um fraudador experiente não cairá neste erro, pois copiará os dígitos do documento conforme eles aparecem. Por isso, confiar somente nos dados do usuário e revisar um pedido **somente** na checagem de alguns dados cadastrais já não é mais o suficiente para a análise de risco atualmente. 
 
 ![cilada](/images/160428-cilada.gif)
 
+
 ## 3. Subestimar a revisão manual 
 
-Este é outro assunto fundamental para a saúde de um e-commerce. Toda loja que faz análise de risco deveria fazer **[revisão manual]**(https://blog.konduto.com/pt/2016/02/precisamos-falar-sobre-revisao-manual/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-trap) de pedidos suspeitos. Mesmo em casos nos quais não seja possível reverter uma decisão ou cancelar o envio de um produto, ela servirá para alimentar o sistema com informações importantes, detectar padrões de comportamento em sua loja virtual e tomar melhores decisões no futuro. 
+Este é outro assunto fundamental para a saúde de um e-commerce. Toda loja que faz análise de risco deveria fazer **[revisão manual](https://blog.konduto.com/pt/2016/02/precisamos-falar-sobre-revisao-manual/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-trap)** de pedidos suspeitos. Mesmo em casos nos quais não seja possível reverter uma decisão ou cancelar o envio de um produto, ela servirá para alimentar o sistema com informações importantes, detectar padrões de comportamento em sua loja virtual e tomar melhores decisões no futuro. 
 
 Mas tão ruim quanto não realizar esta atividade é fazê-la desleixadamente. Revisão manual é quase uma arte e requer uma grande atenção a um e-commerce. É preciso operação 24/7, com serviços de telefonia, acesso a birôs de dados... A decisão de realizá-la deve ser estratégica - e, se não for possível alocar recursos internamente, terceirizar a função pode ser uma alternativa. 
 
 Uma revisão manual mal feita pode ter duas consequências igualmente péssimas para a saúde financeira da sua loja virtual: você pode negar muitos pedidos bons e ter uma diminuição importante nas vendas ou, por outro lado, empolgar-se muito com uma venda aparentemente boa, totalmente fora da curva e muito acima do ticket médio da sua loja, e no final sofrer um tombo grande ao descobrir meses mais tarde que aquilo se tratava de uma fraude. 
+
 
 ## 4. Acreditar que cliente antigo é venda garantida
 
@@ -50,7 +53,8 @@ Não, não estamos falando que há o risco de um bom cliente de repente se volta
 
 Um dos maiores problemas do comércio eletrônico é que praticamente não há meios de garantir a identidade de quem está do outro lado da tela realizando uma compra. Portanto, confiar “somente” no fato de aquela compra estar atrelada a um cliente de longa data da sua loja pode levá-lo ao erro de, eventualmente, sofrer um golpe de quem menos se espera. 
 
-![trap_gato](/images/160427-trap.gif)
+![trap_gato](/images/160428-trap.gif)
+
 
 ## Concluindo...
 
@@ -62,6 +66,7 @@ Estar atento a estes perigos certamente facilitará o seu dia a dia no combate �
 [Você precisa avaliar uma coisa muito importante no seu e-commerce](https://blog.konduto.com/pt/2016/01/avaliacao-importante-ecommerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [5 indicadores para quem faz análise de risco no e-commerce](https://blog.konduto.com/pt/2014/11/5-indicadores-para-quem-faz-analise-de-risco-no-e-commerce/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [O que fazer quando você recebe o seu primeiro chargeback?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
+
 
 ## Sobre a Konduto
 
