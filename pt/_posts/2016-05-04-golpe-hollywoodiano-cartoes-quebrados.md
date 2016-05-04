@@ -11,9 +11,9 @@ author: felipe
 O jornal Folha de S.Paulo revelou um **[novo tipo de golpe de cartão de crédito](http://www1.folha.uol.com.br/cotidiano/2016/05/1767189-novo-golpe-de-cartao-de-credito-tem-ate-grampo-em-vitimas.shtml)**, que chegou a causar um prejuízo de até R$ 35 mil às vítimas. O crime é bastante engenhoso, mas escancara uma verdade que nem sempre é levada em consideração hoje em dia: o processo de **“commoditização” de dados pessoais**, cada vez mais nas mãos de criminosos. E por isso resolvemos pensar um pouco em cima deste exemplo. 
 
 **Leia também**  
-[Fraude bizarra chama atenção nos EUA: compras caras são enviadas para casa das vítimas](https://blog.konduto.com/pt/2016/02/fraude-bizarra-kohls-eua/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-golpehollywood)  
+[Fraude bizarra: compras caras são enviadas para casa das vítimas](https://blog.konduto.com/pt/2016/02/fraude-bizarra-kohls-eua/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-golpehollywood)  
 [Não fale perto da sua TV. Ela pode ser uma espiã!](https://blog.konduto.com/pt/2016/03/televisoes-espias-seguranca-internet-das-coisas/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-golpehollywood)  
-[Estudo: Brasil é o país mais vulnerável para vazamento de dados](https://blog.konduto.com/pt/2016/01/vazamento-dados-estudo-brasil/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-golpehollywood)
+[Estudo: Brasil é o país mais vulnerável para vazamento de dados](https://blog.konduto.com/pt/2016/01/vazamento-dados-estudo-brasil/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-golpehollywood)  
 [As principais causas de fraude no e-commerce - Vazamento de dados](https://blog.konduto.com/pt/2015/03/as-causas-da-fraude-parte-2/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-golpehollywood)
 
 O golpe acontece da seguinte forma: um criminoso, passando-se por funcionário do departamento de segurança do banco emissor, faz um telefonema informando que o cartão de crédito da vítima foi clonado e utilizado para compras e saques. O portador do plástico não reconhece aquelas transações, e o estelionatário informa que realizará o bloqueio do cartão. É aí que o golpe começa a ganhar forma. 
