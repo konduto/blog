@@ -8,13 +8,13 @@ excerpt: "Se o banco emissor autorizou uma venda pela internet no cartão, por q
 author: felipe
 ---
 
-![cash](/images/160504-cash.png)
+![cash](/images/160511-cash.png)
 
 Com certa frequência recebemos e-mails de lojistas que ainda não possuem um antifraude e acabaram de sofrer o primeiro **[chargeback](http://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-cbfault)**, e muitos demonstram uma grande surpresa quando se deparam com uma notícia bem desagradável: **são eles quem devem se responsabilizar pelas compras fraudulentas em seu e-commerce**, e não os bancos ou as operadoras de cartão. É um comentário bastante frequente: 
 
 “Mas por quê!? Eu pensei que, quando o banco emissor do cartão autorizou a transação, eu não teria que me preocupar mais com a fraude”. 
 
-![idk](/images/160504-idk.gif)
+![idk](/images/160511-idk.gif)
 
 Esta confusão muitas vezes acontece porque **este fluxo é verdadeiro no mundo físico**: quando um cliente escolheu pagar uma compra com cartão e inseriu a senha na maquininha, uma vez autorizada a transação o lojista já pode ficar tranquilo. Se por acaso um consumidor contestar aquela transação no futuro, a loja não precisa se responsabilizar. Afinal de contas, a senha, por ser única e (supostamente) intransferível, é uma maneira de garantir que quem está fazendo o pagamento é de fato o dono daquele cartão. 
 
@@ -22,7 +22,7 @@ Mas no ambiente online as coisas são um pouquinho diferentes. Um e-commerce, qu
 
 Isso significa que, no e-commerce, a **autorização** do banco emissor do cartão não significa que o banco está reconhecendo aquele cliente na frente do computador ou da tela do smartphone como o portador daquele cartão. A **autorização não está relacionada à identidade do cliente, mas apenas à checagem se aquele cartão que está sendo utilizado possui dinheiro para pagar aquela compra**. Deu para entender a diferença?
 
-![gotit](/images/160504-gotit.gif)
+![gotit](/images/160511-gotit.gif)
 
 Sabemos, porém, que tudo isso pode gerar bastante confusão e causar uma decepção muito grande a um empreendedor quando ele se depara com o prejuízo de um, dois ou dezenas de chargebacks de uma hora para outra. A nossa ideia também não é entrar no mérito legal e opinar se este fluxo de responsabilidade pela fraude online cabe ao lojista ou aos bancos, mas é importante frisar que a fraude online acaba gerando prejuízos em toda a cadeia de pagamentos. 
 
