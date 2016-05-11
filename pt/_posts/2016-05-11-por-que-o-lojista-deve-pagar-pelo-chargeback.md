@@ -1,8 +1,8 @@
 ---
 layout: post
 categories: pt
-date: '2016-05-12-T10:39:00-03:00'
-title: "Por que é o lojista quem precisa pagar pelas fraudes no e-commerce?"
+date: '2016-05-11-T10:39:00-03:00'
+title: "Por que o lojista é quem paga pela fraude na internet?"
 subtitle: "E-commerce é diferente do mundo físico. Esteja ciente disso para não se surpreender no futuro"
 excerpt: "Se o banco emissor autorizou uma venda pela internet no cartão, por que é o lojista quem deve pagar em caso de fraude?"
 author: felipe
