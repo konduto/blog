@@ -10,7 +10,7 @@ author: milton
 
 Dinos si te suena familiar: inauguraste tu tienda virtual hace algún tiempo y sigues de cerca cada pedido que llega. Miras uno por uno. Comienzas a ver que el número de pedidos se incrementa, tal vez alguien mencione a tu tienda en una red social. Todo va bien, hasta el día en que este llega: **tu primer chargeback**.
 
-**Te puede interesar**
+**Te puede interesar**  
 [Entiende cómo es el análisis de fraude de Konduto](https://www.konduto.com/es/how-it-works/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo-1stcb)  
 [Echa un vistazo en nuestros precios](https://www.konduto.com/es/pricing/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo-1stcb)
 
