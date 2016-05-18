@@ -10,17 +10,19 @@ author: felipe
 
 ![submundo](/images/160518-submundo.png)
 
-A fraude de cartão de crédito é uma prática que cada vez mais ameaça pessoas e empresas pelo Brasil: estima-se que, a 30 compras realizadas pela internet, uma delas seja realizada por um criminoso utilizando dados roubados de cartão. Mas nunca entendemos por que este crime, um dos mais cometidos no Brasil, raramente é debatido abertamente. 
+A fraude de cartão de crédito é uma prática que cada vez mais ameaça pessoas e empresas pelo Brasil: estima-se que, **a cada 30 compras feitas pela internet, uma delas seja realizada por um criminoso utilizando dados roubados de cartão**. Mas nunca entendemos por que este crime, um dos mais cometidos no Brasil, raramente é debatido abertamente. 
 
-Há muito desconhecimento, tanto por parte dos consumidores como por parte dos lojistas, a respeito da fraude de cartão de crédito. Por isso, resolvemos lançar nosso primeiro e-book: “O submundo da fraude no e-commerce”, compartilhando alguns dos conhecimentos que adquirimos ao longo dos nossos dois anos de operação. 
+Há muito desconhecimento, tanto por parte dos consumidores como por parte dos lojistas, a respeito da fraude de cartão de crédito. Por isso, resolvemos lançar nosso primeiro e-book: **"O submundo da fraude no e-commerce"**, compartilhando alguns dos conhecimentos que adquirimos ao longo dos nossos dois anos de operação. 
 
 **[Faça o download grátis do e-book!](http://ebooks.konduto.com/submundo-da-fraude/?utm_source=konduto&utm_medium=blog&utm_campaign=release)**
 
-O submundo da fraude no e-commerce, que está disponível para download gratuitamente, tem o objetivo de compartilhar alguns dos conhecimentos que adquirimos ao longo dos nossos dois anos de operação. Queremos ajudar os lojistas que sofrem diariamente com a fraude a se protegerem melhor, resguardando seus negócios, mas sem deixarem de vender para consumidores legítimos, que realmente querem comprar. 
+**O submundo da fraude no e-commerce**, que está disponível para download gratuitamente, tem o objetivo de compartilhar alguns dos conhecimentos que adquirimos ao longo dos nossos dois anos de operação. Queremos ajudar os lojistas que sofrem diariamente com a fraude a se protegerem melhor, resguardando seus negócios, mas sem deixarem de vender para consumidores legítimos, que realmente querem comprar. 
 
-Dividido em sete capítulos, O Submundo da fraude no e-commerce faz um mergulho no cenário criminoso e destrincha os golpes que mais afetam os lojistas virtuais no Brasil. Por que existe a fraude? Por que é tão fácil fraudar? Quais os produtos mais visados pelos fraudadores? Qual a melhor maneira de proteger o seu negócio deste crime? Tentamos responder a todas essas perguntas, que frequentemente estão presentes no discurso de quem surfa a próspera onda do comércio eletrônico. 
+Dividido em sete capítulos, **O submundo da fraude no e-commerce** faz um mergulho no cenário criminoso e destrincha os golpes que mais afetam os lojistas virtuais no Brasil. Por que existe a fraude? Por que é tão fácil fraudar? Quais os produtos mais visados pelos fraudadores? Qual a melhor maneira de proteger o seu negócio deste crime? Tentamos responder a todas essas perguntas, que frequentemente estão presentes no discurso de quem surfa a próspera onda do comércio eletrônico. 
 
-Todo o material do e-book foi produzido pela Konduto, a partir da experiência da nossa equipe com análise de risco e meios de pagamento. Boa leitura! 
+Todo o material do e-book foi produzido pela Konduto, a partir da experiência da nossa equipe com análise de risco e meios de pagamento. 
+
+Boa leitura! 
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)  
 
