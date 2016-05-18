@@ -8,10 +8,10 @@ author: tom
 ![5 coisas que você não sabia sobre cartão de crédito](/images/credit_card_facts.jpg)
 O cartão de crédito é hoje o meio de pagamento mais usado na internet, chegando a mais de 70% das compras. Uma das maiores vantagens do meio de pagamento é a facilidade: além de você receber uma aprovação imediata, sem esperar a compensação de bancos ou contar dias úteis, ainda é possível parcelar as compras. 
 
-**Veja também**  
+**Leia também** 
+** [E-book: Entenda o submundo da fraude no e-commerce](http://ebooks.konduto.com/submundo-da-fraude/?utm_source=konduto&utm_medium=blog&utm_campaign=release)**  
 [Entenda como é feita a detecção de fraudes na Konduto](https://www.konduto.com/pt/how-it-works/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-5cc)  
 [Coisas que você acha que sabe sobre IPs - só que não!](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Fraude amiga? Saiba o que é](https://blog.konduto.com/pt/2015/05/fraude-amiga?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
 
 Apesar de muito conhecido e utilizado, esse meio de pagamento ainda esconde alguns segredos. Veja abaixo alguns deles:
