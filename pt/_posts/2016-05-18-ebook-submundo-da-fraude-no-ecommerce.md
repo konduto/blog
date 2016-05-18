@@ -12,7 +12,7 @@ author: felipe
 
 A fraude de cartão de crédito é uma prática que cada vez mais ameaça pessoas e empresas pelo Brasil: estima-se que, **a cada 30 compras feitas pela internet, uma delas seja realizada por um criminoso utilizando dados roubados de cartão**. Mas nunca entendemos por que este crime, um dos mais cometidos no Brasil, raramente é debatido abertamente. 
 
-Há muito desconhecimento, tanto por parte dos consumidores como por parte dos lojistas, a respeito da fraude de cartão de crédito. Por isso, resolvemos lançar nosso primeiro e-book: **"O submundo da fraude no e-commerce"**, compartilhando alguns dos conhecimentos que adquirimos ao longo dos nossos dois anos de operação. 
+Há muito desconhecimento, tanto por parte dos consumidores como por parte dos lojistas, a respeito da fraude de cartão de crédito. Por isso, resolvemos lançar nosso primeiro e-book: **O submundo da fraude no e-commerce**, compartilhando alguns dos conhecimentos que adquirimos ao longo dos nossos dois anos de operação. 
 
 **[Faça o download grátis do e-book!](http://ebooks.konduto.com/submundo-da-fraude/?utm_source=konduto&utm_medium=blog&utm_campaign=release)**
 
