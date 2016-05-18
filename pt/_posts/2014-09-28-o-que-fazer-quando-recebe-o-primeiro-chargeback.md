@@ -8,10 +8,12 @@ author: milton
 ---
 Me diga se isto é familiar: você abriu a sua loja virtual há algum tempo e acompanha de perto cada pedido que chega. Olha um por um. Você começa a ver o número de pedidos aumentando, talvez alguém menciona a sua loja em uma rede social. Tudo está indo bem, até o dia em que ele chega: **o seu primeiro chargeback**.
 
-**Leia também**  
+**Veja também**  
+[Entenda como é feita a detecção de fraudes na Konduto](https://www.konduto.com/pt/how-it-works/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-1stcb)  
+[Confira os preços da análise de risco da Konduto](https://www.konduto.com/pt/pricing/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-1stcb)  
+[Coisas que você acha que sabe sobre IPs - só que não!](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Fraude amiga? Saiba o que é](https://blog.konduto.com/pt/2015/05/fraude-amiga?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Inteligência artificial: afinal, o que é machine learning?](https://blog.konduto.com/pt/2015/01/afinal-o-que-e-machine-learning?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)    
-[Compra online sem login? Conheça o case do botão de R$ 1 bilhão](https://blog.konduto.com/pt/2015/01/tinha-uma-senha-no-meio-do-caminho?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Compra online sem login? Conheça o case do botão de R$ 1 bilhão](https://blog.konduto.com/pt/2015/01/tinha-uma-senha-no-meio-do-caminho?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
 Um dos seus clientes fez uma contestação de venda, diz que não foi ele quem comprou na sua loja e o banco debitou aquele valor de você. No fundo você sabia que este dia iria chegar, mas não pensava que seria tão cedo. E agora? Veja abaixo algumas dicas de como lidar com esta situação desconfortável.
 

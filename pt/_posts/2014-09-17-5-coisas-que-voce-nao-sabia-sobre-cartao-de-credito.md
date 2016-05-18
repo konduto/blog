@@ -8,10 +8,7 @@ author: tom
 ![5 coisas que você não sabia sobre cartão de crédito](/images/credit_card_facts.jpg)
 O cartão de crédito é hoje o meio de pagamento mais usado na internet, chegando a mais de 70% das compras. Uma das maiores vantagens do meio de pagamento é a facilidade: além de você receber uma aprovação imediata, sem esperar a compensação de bancos ou contar dias úteis, ainda é possível parcelar as compras. 
 
-**Leia também**  
-[Coisas que você acha que sabe sobre IPs - só que não!](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Fraude amiga? Saiba o que é](https://blog.konduto.com/pt/2015/05/fraude-amiga?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Saiba as principais causas de fraude no e-commerce - Parte 1: Autenticação do cliente](https://blog.konduto.com/pt/2015/02/as-causas-da-fraude-parte-1?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
+**[Baixe grátis nosso e-book: O submundo da fraude no e-commerce](http://ebooks.konduto.com/submundo-da-fraude/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-5cc)**
 
 Apesar de muito conhecido e utilizado, esse meio de pagamento ainda esconde alguns segredos. Veja abaixo alguns deles:
 
@@ -28,6 +25,11 @@ Claro que não recomendo que você faça isso, pois se porventura a loja fizer e
 Assim como o nome, o CPF digitado no checkout não é usado para fins de identificação do dono do cartão. Seu uso tem outras utilidades, como emissão da nota fiscal e análise de crédito risco, capazes de determinar a quem aquele documento pertence. Mas nenhuma análise é capaz de garantir que um cartão pertence a um CPF.
 
 Como se poderia fazer tal validação? Apenas os bancos emissores do cartão sabem a quem ele pertence, mas por diversas razões - como custo, complexidade e segurança - esta informação não pode ser consultada. 
+
+**Leia também**  
+[Entenda como é feita a detecção de fraudes na Konduto](https://www.konduto.com/pt/how-it-works/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-5cc)  
+[Coisas que você acha que sabe sobre IPs - só que não!](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Por que o lojista é quem paga pela fraude na internet?](https://blog.konduto.com/pt/2016/05/por-que-o-lojista-deve-pagar-pelo-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
 ### 3. O seu endereço de fatura vale um pouquinho...
 

@@ -3,8 +3,8 @@ layout: post
 categories: es
 date: '2016-04-25T10:39:00-03:00'
 title: 5 cosas que no sabías acerca de la tarjeta de crédito
-subtitle: "Cuando tú compras por internet, tu nombre ni tu identidad valen mucho en la autenticación. ¡Ve otros secretos!"
-excerpt: "Cuando tú compras por internet, tu nombre ni tu identidad valen mucho en la autenticación. ¡Ve otros secretos!"
+subtitle: "Cuando tú compras por internet, ni tu nombre ni tu identidad valen mucho en la autenticación. ¡Ve otros secretos!"
+excerpt: "Cuando tú compras por internet, ni tu nombre ni tu identidad valen mucho en la autenticación. ¡Ve otros secretos!"
 author: tom
 ---
 
