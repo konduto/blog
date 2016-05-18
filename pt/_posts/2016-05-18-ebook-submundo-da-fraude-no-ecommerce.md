@@ -14,7 +14,7 @@ A fraude de cartão de crédito é uma prática que cada vez mais ameaça pessoa
 
 Há muito desconhecimento, tanto por parte dos consumidores como por parte dos lojistas, a respeito da fraude de cartão de crédito. Por isso, resolvemos lançar nosso primeiro e-book: “O submundo da fraude no e-commerce”, compartilhando alguns dos conhecimentos que adquirimos ao longo dos nossos dois anos de operação. 
 
-**[Faça o download grátis do e-book!](ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=release)**
+**[Faça o download grátis do e-book!](http://ebooks.konduto.com/submundo-da-fraude/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=release)**
 
 O submundo da fraude no e-commerce, que está disponível para download gratuitamente, tem o objetivo de compartilhar alguns dos conhecimentos que adquirimos ao longo dos nossos dois anos de operação. Queremos ajudar os lojistas que sofrem diariamente com a fraude a se protegerem melhor, resguardando seus negócios, mas sem deixarem de vender para consumidores legítimos, que realmente querem comprar. 
 
