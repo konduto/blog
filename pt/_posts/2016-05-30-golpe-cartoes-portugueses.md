@@ -17,8 +17,7 @@ Todos os golpes foram feitos com plásticos que eram da bandeira Visa. Segundo o
 
 “Em comunicado, a Visa Europa explica que está trabalhando ativamente com o banco português e que estão em permanente vigilância para qualquer assunto relacionado com fraude”, divulgou o *Público*. 
 
-![reproducao-pt](/images/160530-reproducao-publico-pt.PNG)
-<small>Reprodução: Público.pt</small>
+![img-cartao](/images/160530-cartao-grafismo.png)
 
 A Caixa Geral de Depósitos se recusou a precisar o número de clientes que tiveram os cartões clonados, mas, de acordo com o *Diário de Notícias*, o total chega à casa dos milhares.
 
