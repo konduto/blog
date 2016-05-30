@@ -17,6 +17,9 @@ Todos os golpes foram feitos com plásticos que eram da bandeira Visa. Segundo o
 
 “Em comunicado, a Visa Europa explica que está trabalhando ativamente com o banco português e que estão em permanente vigilância para qualquer assunto relacionado com fraude”, divulgou o *Público*. 
 
+![reproducao-pt](/images/160530-reproducao-publico-pt.png)
+<small>Reprodução: Público.pt</small>
+
 A Caixa Geral de Depósitos se recusou a precisar o número de clientes que tiveram os cartões clonados, mas, de acordo com o *Diário de Notícias*, o total chega à casa dos milhares.
 
 Apesar de os clientes portugueses que foram vítimas deste golpe transcontinental serem ressarcidos das compras indevidas, fatalmente caberá aos e-commerces brasileiros onde os cartões clonados foram usados o pagamento dos chargebacks - afinal, **[é o lojista quem paga a conta da fraude no e-commerce](https://blog.konduto.com/pt/2016/05/por-que-o-lojista-deve-pagar-pelo-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-ccport)**. 
