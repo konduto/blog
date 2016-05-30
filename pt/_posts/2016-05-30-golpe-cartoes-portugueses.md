@@ -2,7 +2,7 @@
 layout: post
 categories: pt
 date: '2016-05-30-T10:39:00-03:00'
-title: "Novo golpe: criminosos clonam cartões de Portugal para fraudes em e-commerces do Brasil"
+title: "Criminosos clonam cartões de Portugal para fraudes no Brasil"
 subtitle: "Caso não foi noticiado pela imprensa brasileira, mas afetou e-commerces do nosso País"
 excerpt: "Golpe transcontinental afetou correntistas de um banco português"
 author: felipe
@@ -19,7 +19,7 @@ Todos os golpes foram feitos com plásticos que eram da bandeira Visa. Segundo o
 
 A Caixa Geral de Depósitos se recusou a precisar o número de clientes que tiveram os cartões clonados, mas, de acordo com o *Diário de Notícias*, o total chega à casa dos milhares.
 
-Apesar de os clientes portugueses que foram vítimas deste golpe transcontinental serem ressarcidos das compras indevidas, fatalmente caberá aos e-commerces brasileiros onde os cartões clonados foram usados o pagamento dos chargebacks - afinal, **é o lojista quem paga a conta da fraude no e-commerce**(https://blog.konduto.com/pt/2016/05/por-que-o-lojista-deve-pagar-pelo-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-ccport). 
+Apesar de os clientes portugueses que foram vítimas deste golpe transcontinental serem ressarcidos das compras indevidas, fatalmente caberá aos e-commerces brasileiros onde os cartões clonados foram usados o pagamento dos chargebacks - afinal, **é o lojista quem paga a conta da fraude no e-commerce(https://blog.konduto.com/pt/2016/05/por-que-o-lojista-deve-pagar-pelo-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-ccport)**. 
 
 O caso reforça uma teoria que nós, da **Konduto**, já comentamos algumas vezes em nossos artigos. **[Uma dica importante para lojistas evitarem fraudes virtuais é desconfiar das coincidências](https://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-ccport)**. Certamente o lote de cartões portugueses vazados foi usado para muitas compras em poucas lojas, e em um curto espaço de tempo. Assim, provavelmente um e-commerce que suspeitasse de algo no mínimo “estranho” por ter recebido um volume incomum de pedidos feitos por clientes de um banco português teria evitado este prejuízo por fraude. 
 
