@@ -170,5 +170,8 @@ defaults:
     values:
       categories: ["es"]
 
-gems: ['kramdown']
+gems:
+  - kramdown
+  - jekyll-coffeescript
+
 exclude: ['config.ru', 'Gemfile', 'Gemfile.lock', 'vendor', 'Procfile', 'Rakefile']
