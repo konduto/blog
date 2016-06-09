@@ -8,12 +8,8 @@ author: milton
 ---
 Me diga se isto é familiar: você abriu a sua loja virtual há algum tempo e acompanha de perto cada pedido que chega. Olha um por um. Você começa a ver o número de pedidos aumentando, talvez alguém menciona a sua loja em uma rede social. Tudo está indo bem, até o dia em que ele chega: **o seu primeiro chargeback**.
 
-**Veja também**  
-[Entenda como é feita a detecção de fraudes na Konduto](https://www.konduto.com/pt/how-it-works/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-1stcb)  
-[Confira os preços da análise de risco da Konduto](https://www.konduto.com/pt/pricing/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-1stcb)  
-[Coisas que você acha que sabe sobre IPs - só que não!](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Fraude amiga? Saiba o que é](https://blog.konduto.com/pt/2015/05/fraude-amiga?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Compra online sem login? Conheça o case do botão de R$ 1 bilhão](https://blog.konduto.com/pt/2015/01/tinha-uma-senha-no-meio-do-caminho?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
+**Baixe grátis**   
+[E-book: Entenda como funciona o submundo da fraude no e-commerce](http://ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-ccport)
 
 Um dos seus clientes fez uma contestação de venda, diz que não foi ele quem comprou na sua loja e o banco debitou aquele valor de você. No fundo você sabia que este dia iria chegar, mas não pensava que seria tão cedo. E agora? Veja abaixo algumas dicas de como lidar com esta situação desconfortável.
 
@@ -47,6 +43,12 @@ Até o ano passado não havia muito o que pudesse ser feito para reverter um cha
 Se você comprovar que foi vítima de uma fraude, investigue para ver se não continua acontecendo. Muitos fraudadores usam o mesmo cadastro para fraudar uma loja até que ele seja cancelado, e pode haver pedidos em abertos no seu sistema feitos para o mesmo usuário. Verifique se não há outros pedidos com entregas para o mesmo endereço e com os mesmos dados cadastrais, como IP, e-mail, CPF ou cartão. Bloqueie tudo o que puder achar até poder revisar um por um.
 
 Receber uma notificação de chargeback nunca é uma coisa boa, mas não é o fim do mundo. É importante ficar atento para ver se é um caso isolado ou um sinal de algum problema maior. Na dúvida, tente sempre o contato com cliente e com a sua operadora de cartão.
+
+**Veja também**  
+[Entenda como é feita a detecção de fraudes na Konduto](https://www.konduto.com/pt/how-it-works/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-1stcb)  
+[Coisas que você acha que sabe sobre IPs - só que não!](https://blog.konduto.com/pt/2015/04/coisas-que-voce-acha-que-sabe-sobre-ips-sqn?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Fraude amiga? Saiba o que é](https://blog.konduto.com/pt/2015/05/fraude-amiga?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Compra online sem login? Conheça o case do botão de R$ 1 bilhão](https://blog.konduto.com/pt/2015/01/tinha-uma-senha-no-meio-do-caminho?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
 ## Sobre a Konduto
 

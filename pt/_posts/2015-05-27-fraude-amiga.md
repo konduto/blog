@@ -11,10 +11,8 @@ author: tom
 ---
 Existem [inúmeros](http://www.cursodeecommerce.com.br/blog/tipos-de-fraudes-com-cartoes-de-credito-ecommerce/) [artigos](http://ecommercepordentro.com/tipos-fraude-cartao-credito/) [por ai](http://www.albertovalle.com.br/fraudes-cartoes-de-credito-lojas-virtuais/) descrevendo os tipos mais comuns de fraude no e-commerce. Uma delas é conhecida como **fraude amiga**, termo que gera uma certa curiosidade. Como uma fraude pode ser considerada "amiga"? Chamamos de **fraude amiga** aquela contestação que acontece não por malícia, mas sim por confusão do dono do cartão. Ele pode muito bem ter feito aquela compra, mas não se lembra.
 
-**Leia também**  
-[Quer evitar fraudes? Checar apenas nomes e CPF não é mais suficiente](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[5 coisas que você não sabia sobre cartões de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+**Baixe grátis!**   
+[E-book: Entenda como funciona o submundo da fraude no e-commerce](http://ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
 Em muitos casos a causa é simples: a razão social da loja é diferente do nome fantasia. Ele comprou na Padaria da Joana, mas não sabe que na verdade é a "ABC Com e Distr Alim Ltda". Ele *literalmente* não reconhece a compra no seu extrato. Outro cenário comum é o filho que usou o cartão dos pais para comprar créditos em algum joguinho, o que pode ter acontecido com ou sem o consentimento deles. Ao ver um lançamento estranho na fatura a pessoa acha que o cartão foi clonado e pede o cancelamento.
 
@@ -58,6 +56,11 @@ Aqui tem loja que coloca o nome fantasia, o produto comprado e até o telefone d
 Há dois poréns: só funciona em algumas operadoras de cartão e só cabe uma quantidade limitada de caracteres. Mas é bem melhor do que nada.
 
 Lidar com chargebacks é um pepino e não tem nada de amigável nisso. Por isso é importante trabalhar para *evitar* contestaçōes desnecessárias, o que implica melhorar não só o antifraude mas também outros pontos da operação.
+
+**Leia também**  
+[Quer evitar fraudes? Checar apenas nomes e CPF não é mais suficiente](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[5 coisas que você não sabia sobre cartões de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	
 

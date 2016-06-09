@@ -32,7 +32,7 @@ Cabe aos lojistas saberem se proteger, seja não "afrouxando o cinto" na hora de
 
 Somos uma startup fundada em 2014 que lançou um sistema antifraude para o e-commerce que não se limita ao cruzamento de dados do comprador, como nome e CPF. Nossa tecnologia única analisa o comportamento de navegação do usuário desde o momento em que ele entra no site do lojista e avalia, em tempo real, as chances de a compra ser positiva ou fraudulenta. 
 
-Nosso algoritmo de machine learning também se adapta ao modelo de clientes do lojista, reduzindo o número de falsos positivos, revisões manuais e chargebacks. Melhor para o lojista, que tem o custo de operação reduzido e consegue maximizar as receitas. **[Confira os nossos preços](https://www.konduto.com/pt/pricing?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**! 
+Nosso algoritmo de machine learning também se adapta ao modelo de clientes do lojista, reduzindo o número de falsos positivos, revisões manuais e chargebacks. Melhor para o lojista, que tem o custo de operação reduzido e consegue maximizar as receitas. 
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	
 

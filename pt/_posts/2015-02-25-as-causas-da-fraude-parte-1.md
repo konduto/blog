@@ -32,6 +32,4 @@ Muitas empresas estão trabalhando para tentar resolver o problema da autentica�
 
 Enquanto não surgir uma solução universal, simples de usar e segura, o melhor é ter sempre em mente isto: não há como verificar quem está do outro lado.
 
-**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para a nossa newsletter!](http://eepurl.com/2jpuz)**
-
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)

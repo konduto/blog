@@ -40,7 +40,7 @@ Por último, mas não menos importante: é vital que toda a empresa esteja engaj
  
 ## Sobre a [Konduto](https://www.konduto.com/pt?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
-Somos uma startup brasileira fundada em 2014 que desenvolveu uma tecnologia única para **evitar fraudes**, analisando o comportamento de navegação do usuário desde o momento em que ele acessa a loja para efetuar a compra. Cruzamos esta e diversas outras métricas e dados e indicamos, em tempo real, se a compra é legal, suspeita ou fraudulenta. Nosso algoritmo inteligente se adapta ao seu tipo de negócio e permite que você reduza falsos positivos e custos de revisões manuais para poder vender mais, com mais segurança e menos dor de cabeça. Ah, e um detalhe importante: com o **[menor preço do mercado](https://www.konduto.com/pt/pricing?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**! 
+Somos uma startup brasileira fundada em 2014 que desenvolveu uma tecnologia única para **evitar fraudes**, analisando o comportamento de navegação do usuário desde o momento em que ele acessa a loja para efetuar a compra. Cruzamos esta e diversas outras métricas e dados e indicamos, em tempo real, se a compra é legal, suspeita ou fraudulenta. Nosso algoritmo inteligente se adapta ao seu tipo de negócio e permite que você reduza falsos positivos e custos de revisões manuais para poder vender mais, com mais segurança e menos dor de cabeça! 
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	
 

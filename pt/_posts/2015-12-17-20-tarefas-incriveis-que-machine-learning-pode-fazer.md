@@ -98,7 +98,7 @@ Claro que não poderíamos deixar este tópico fora da nossa relação - afinal,
 		
 Nós somos uma startup que desenvolveu uma tecnologia inovadora para barrar a fraude no e-commerce. Nossas análises são completas e não se baseiam na triangulação de dados cadastrais, como e-mail e CPF. Nós monitoramos também o comportamento de navegação do cliente do instante em que ele entra em sua loja virtual até o momento em que a compra é concluída. 
 
-A solução antifraude Konduto é simples, mas eficiente e com a resposta em tempo real, para não prejudicar a operação. Nós detectamos os pedidos que são realmente suspeitos: desta forma, você reduz os custos com revisões manuais ao mesmo tempo em que vende mais e sofre menos fraudes. Ah, e um detalhe muito importante: por um **[preço muito menor](https://www.konduto.com/pt/pricing)** que os demais antifraudes do mercado! 
+A solução antifraude Konduto é simples, mas eficiente e com a resposta em tempo real, para não prejudicar a operação. Nós detectamos os pedidos que são realmente suspeitos: desta forma, você reduz os custos com revisões manuais ao mesmo tempo em que vende mais e sofre menos fraudes. 
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	
 

@@ -10,6 +10,9 @@ author: felipe
 
 Análise de risco é uma atividade crucial para o comércio eletrônico, e em muitos casos pode ser o diferencial entre um e-commerce bem-sucedido e um negócio que enfrenta dificuldades. No entanto, **combater a fraude online não é uma tarefa fácil**: o profissional da área precisa ter uma série de conhecimentos, e colocá-los em prática em um espaço bastante apertado de tempo, a fim de não prejudicar a experiência do bom cliente daquela loja virtual. 
 
+**Baixe grátis!**   
+[E-book: Entenda como funciona o submundo da fraude no e-commerce](http://ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-trap)
+
 Fora isso, a análise de risco ainda tem quatro armadilhas nas quais bons e-commerces, bons empreendedores e bons analistas de fraude jamais podem cair. São tentações que aparecem no dia a dia da operação; menosprezá-las pode ser um erro. E, neste caso, um erro significa um prejuízo financeiro considerável 
 
 ![cilada](/images/160428-businessman.png)
@@ -72,7 +75,7 @@ Estar atento a estes perigos certamente facilitará o seu dia a dia no combate �
 
 Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-trap)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
 
-Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup e pagando centavos por cada transação analisada. **[Confira nossos preços](http://konduto.com/pt/pricing/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-cbfault)**! 
+Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup! 
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)  
 

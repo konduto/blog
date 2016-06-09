@@ -52,7 +52,5 @@ Uma curiosidade: alguns bancos notificam o dono do cartão, por SMS, sobre valor
 Sim, seu cartão pode ser roubado, copiado e usado para fraudes. Mas não é sua culpa se o site não é legítimo ou se o e-commerce não soube se proteger de ataques. Você está protegido, por contrato, contra cobranças indevidas. Se seu cartão foi usado em uma fraude, basta ligar no banco e solicitar o estorno da cobrança.
 
 Por outro lado, se você pagou um [boleto de uma loja fantasma](http://www1.folha.uol.com.br/mercado/2014/07/1479569-gangue-do-boleto-infectou-192-mil-computadores-detectam-fbi-e-pf.shtml), não há como pedir o dinheiro de volta a não ser através da Justiça, um processo bem mais lento do que uma ligação para o banco.
-
-**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para a nossa newsletter!](http://eepurl.com/2jpuz)**
 		
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)

@@ -10,10 +10,8 @@ author: tom
 ---
 Toda vez que um filme menciona tecnologia, o termo "IP" ([Protocolo de Internet](https://pt.wikipedia.org/wiki/Endere%C3%A7o_IP), ou Internet Protocol em inglês) é lançado em algum momento do diálogo. Na trama, falar em endereço de IP automaticamente classifica a personagem como alguém que "entende de computadores". E, na maioria dos casos, é possível rastrear o IP até uma pessoa ou endereço e pegar o criminoso no flagra. Funciona que é uma maravilha... nas telas!
 
-**Leia também!**  
-[5 coisas que você não sabia sobre cartões de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Quer evitar fraudes? Checar apenas nomes e CPF não é mais suficiente](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
-[Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+**Baixe grátis!**   
+[E-book: Entenda como funciona o submundo da fraude no e-commerce](http://ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-fraude-aereo)
 
 Hollywood achou uma solução fácil para amarrar a trama, e o termo acabou ficando bem conhecido no mundo "não-TI". Só que na vida real não é bem assim.
 
@@ -55,6 +53,11 @@ Porém, é bem fácil mascarar o seu IP original e fazer parecer que você está
 Qualquer empresa que tenta identificar um fraudador usando o IP como fonte objetiva está fadada a entregar resultados ruins. A análise do IP dentro de centenas de variáveis ajuda a compor um cenário, mas está muito longe de ser algo realmente importante.
 
 Espero que tenha ajudado a derrubar alguns mitos sobre os endereços de IP e o que dá e não dá para fazer com eles.
+
+**Leia também!**  
+[5 coisas que você não sabia sobre cartões de crédito](https://blog.konduto.com/pt/2014/09/5-coisas-que-voce-nao-sabia-sobre-cartao-de-credito?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Quer evitar fraudes? Checar apenas nomes e CPF não é mais suficiente](https://blog.konduto.com/pt/2014/10/porque-checar-apenas-nome-e-cpf-ja-nao-e-suficiente-na-analise-manual?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Recebi meu primeiro chargeback! O que fazer?](https://blog.konduto.com/pt/2014/09/o-que-fazer-quando-recebe-o-primeiro-chargeback?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**
 

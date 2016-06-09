@@ -39,6 +39,4 @@ Você pode usar um gateway com uma página de pagamento customizada, que fica so
 
 Se o seu negócio não consegue rodar sem capturar ou armazenar o número do cartão - e há muitos casos assim -, então está na hora de se familiarizar com os padrões de segurança do PCI. Comece clicando [aqui](https://pt.pcisecuritystandards.org/_onelink_/pcisecurity/en2pt/minisite/en/docs/PCI_DSS_v3.pdf) e [aqui](https://pt.pcisecuritystandards.org/minisite/en/).
 
-**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para a nossa newsletter!](http://eepurl.com/2jpuz)**
-
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)

@@ -40,6 +40,4 @@ A moral da história é que só o fato de todo mundo fazer assim não quer dizer
 <small>---
 _* Quando acessei este site hoje ele estava com um certificado de segurança vencido. Se você não estiver seguro de visitá-lo, <a href="https://s3.amazonaws.com/f.cl.ly/items/3u0x3z003S1J2u1E3121/The%20$300%20Million%20Button.pdf">baixe aqui um PDF do artigo</a>._</small>
 
-**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para o nosso newsletter!](http://eepurl.com/2jpuz)**
-
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)

@@ -31,7 +31,7 @@ A realidade do McDumpals, no entanto, não está muito distante de nós. **No Br
 
 **Konduto**
 
-Com a Konduto, você conta com uma plataforma de segurança para lojas virtuais, que analisa o comportamento de navegação o consumidor e detecta potenciais fraudes, evitando assim que mercadorias de alto valor sejam despachadas para golpistas e minimizando o prejuízo para os comerciantes. Tudo com uma tecnologia única, com resultados em tempo real, um algoritmo que se adapta ao padrão da sua loja e melhor ainda: com o **[melhor preço do mercado](https://www.konduto.com/pt/pricing?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. Ficou interessado? Faça um teste e comece a usar **GRÁTIS**!
+Com a Konduto, você conta com uma plataforma de segurança para lojas virtuais, que analisa o comportamento de navegação o consumidor e detecta potenciais fraudes, evitando assim que mercadorias de alto valor sejam despachadas para golpistas e minimizando o prejuízo para os comerciantes. Tudo com uma tecnologia única, com resultados em tempo real e um algoritmo que se adapta ao padrão da sua loja!
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	
 

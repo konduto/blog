@@ -80,6 +80,4 @@ Com um valor único por pedido analisado você corre o risco de pagar caro por p
 
 Em uma operação mais avançada há outros indicadores importantes, quase todas ligadas à equipe de análise manual, como tempo médio da revisão e a performance dos analistas. Vamos tratar deste assunto em outro post, mas com os indicadores acima você já terá uma visão muito melhor da saúde da sua operação.
 
-**Quer ficar ligado nos artigos e novidades da Konduto? [Inscreva-se para a nossa newsletter!](http://eepurl.com/2jpuz)**
-
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)

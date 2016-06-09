@@ -158,7 +158,7 @@ A priori, com um bom conhecimento de matemática e estatística, papel e caneta 
 
 ## Sobre a Konduto
 
-Somos uma startup que desenvolveu uma **tecnologia inovadora** para barrar as fraudes no e-commerce. Nosso **antifraude inteligente** monitora o cliente durante toda a jornada de compra em seu site e avalia a transação em tempo real - **a nossa resposta é dada em menos de 1s**! Nós detectamos somente as compras realmente suspeitas, aprovando mais pedidos e reduzindo os custos de fraude. Ah, e um detalhe importante: com o **[menor preço do mercado](https://www.konduto.com/pt/pricing?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**! 
+Somos uma startup que desenvolveu uma **tecnologia inovadora** para barrar as fraudes no e-commerce. Nosso **antifraude inteligente** monitora o cliente durante toda a jornada de compra em seu site e avalia a transação em tempo real - **a nossa resposta é dada em menos de 1s**! Nós detectamos somente as compras realmente suspeitas, aprovando mais pedidos e reduzindo os custos de fraude.
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	
 

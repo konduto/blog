@@ -12,6 +12,9 @@ author: tom
 
 Você certamente conhece alguém que já teve o cartão de crédito clonado e utilizado para alguma compra indevida na internet, ou talvez até mesmo você já tenha passado por este problema. No entanto, muitas pessoas não sabem exatamente por que isso acontece e nem o que devem fazer quando são vítimas deste tipo de crime, cada vez mais comum em nosso dia a dia. Sempre há inúmeras dúvidas a respeito deste tema, e pior: **por falta de informação, o consumidor acaba tomando algumas atitudes equivocadas para se proteger, mas acaba ficando ainda mais vulnerável a golpes**.
 
+**Baixe grátis!**   
+[E-book: Entenda como funciona o submundo da fraude no e-commerce](http://ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-5cc)
+
 O cartão de crédito é a forma de pagamento mais utilizada na internet - só no Brasil, 70% das transações são feitas assim, segundo levantamento feito pelo gateway de pagamentos Moip, em parceria com a Keyscores. No entanto, um estudo feito pela Oberthur Technologies mostra que 28% das pessoas que compram no e-commerce já foram vítimas de fraudes e 70% delas modificaram o comportamento de compra depois disso.
 
 **Mas será que mudar de comportamento e deixar de fazer compras pela internet é a atitude correta?** Confira, abaixo, as principais dúvidas de quem é vítima da clonagem de cartão de crédito e as nossas dicas de o que fazer nessa situação.
