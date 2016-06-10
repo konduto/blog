@@ -35,16 +35,16 @@ Por isso a possibilidade de revender por R$ 500 uma passagem que, na verdade, cu
 
 Este tipo de golpe, bastante comum na internet, tem consequências ruins para muitas pessoas e instituições envolvidas. Por exemplo: 
 
-*Para o cliente desavisado do suposto agente de viagens*  
+**Para o cliente desavisado do suposto agente de viagens** 
 Como a compra das passagens foi feita com o cartão de crédito de um terceiro, há o risco de a fraude ser detectada a tempo pelo banco emissor do cartão e a transação ser cancelada. Assim, quando o cliente chegar ao aeroporto ou à rodoviária pronto para viajar, pode ter uma surpresa bem desagradável e ser informado que aquele voucher não é mais válido e que a passagem não existe. Imagine o tamanho da frustração!
 
-*Para a companhia aérea ou a agência de viagem vítima do golpe*  
+**Para a companhia aérea ou a agência de viagem vítima do golpe**  
 Se a passagem comprada ilegalmente pelo fraudador não foi cancelada a tempo da viagem, a empresa terá que arcar com o prejuízo e devolver o dinheiro daquela compra para o consumidor portador do cartão vítima de fraude. Sem falar também na experiência negativa que este acontecimento gerará - afinal, a marca do negócio ficará atrelada à sensação de compra fraudulenta. 
 
-*Para o portador do cartão vítima do golpe*  
+**Para o portador do cartão vítima do golpe**  
 É sempre muito desagradável saber que foi vítima de um golpe. Por mais que o dinheiro daquela compra fraudulenta seja devolvido ao portador do cartão, a sensação de vulnerabilidade pode ser tão grande que ele poderá ficar inseguro em fazer pagamentos pelo cartão na internet ou até mesmo em fazer novas compras pela internet. Sem falar que as marcas que também foram vítimas do golpe poderão perder pontos no inconsciente do consumidor. 
 
-*Para o banco emissor do cartão*  
+**Para o banco emissor do cartão**  
 O banco também tem custos operacionais e de atendimento para cancelar o cartão clonado do cliente e emitir um novo plástico - e esse processo não é barato. Há também a experiência negativa do correntista, que pode também achar que utilizar cartões daquele banco “não é seguro”. 
 
 ## Como evitar este golpe?
@@ -57,9 +57,10 @@ Para o consumidor, desconfiar de ofertas generosíssimas como estas é a melhor 
 
 Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
 
-Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup! 
+Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup!
+
+**Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	 
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)  
 
-<div id="fb-root"></div><script>(function(d, s, id) {  var js, fjs = d.getElementsByTagName(s)[0];  if (d.getElementById(id)) return;  js = d.createElement(s); js.id = id;  js.src = "//connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v2.3";  fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><div class="fb-post" data-href="https://www.facebook.com/konduto/videos/613187352119217/" data-width="650"><div class="fb-xfbml-parse-ignore"><blockquote cite="https://www.facebook.com/konduto/videos/613187352119217/"><p>Entenda como diminuir fraudes no seu e-commerce com a Konduto:</p>Posted by <a href="https://www.facebook.com/konduto/">Konduto</a> on&nbsp;<a href="https://www.facebook.com/konduto/videos/613187352119217/">Sexta, 12 de dezembro de 2014</a></blockquote></div></div>
-
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonduto%2Fvideos%2F613187352119217%2F&show_text=1&width=560" width="560" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
