@@ -9,6 +9,7 @@ author: felipe
 ---
 
 ![banner-aereo](/images/160613-banner-aereo.png)
+<small>A imagem acima foi obtida em um perfil de Facebook de um suposto agente de viagens</small>
 
 Você já viu algum banner assim, de alguma agência de viagens cujo nome você nunca ouviu falar? E já ficou tentado em fazer essa compra imperdível e economizar um bom dinheiro para a viagem de férias ou do próximo feriado prolongado?  A tentação é enorme, mas tem algo nessa história que não cheira muito bem, não é mesmo? 
 
