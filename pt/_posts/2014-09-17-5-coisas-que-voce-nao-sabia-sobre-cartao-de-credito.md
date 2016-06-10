@@ -53,4 +53,14 @@ Sim, seu cartão pode ser roubado, copiado e usado para fraudes. Mas não é sua
 
 Por outro lado, se você pagou um [boleto de uma loja fantasma](http://www1.folha.uol.com.br/mercado/2014/07/1479569-gangue-do-boleto-infectou-192-mil-computadores-detectam-fbi-e-pf.shtml), não há como pedir o dinheiro de volta a não ser através da Justiça, um processo bem mais lento do que uma ligação para o banco.
 		
-Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)
+## Sobre a Konduto
+
+Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
+
+Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup!
+
+**Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	 
+
+Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)  
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonduto%2Fvideos%2F613187352119217%2F&show_text=1&width=560" width="560" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>

@@ -37,4 +37,4 @@ Com a Konduto, você conta com uma plataforma de segurança para lojas virtuais,
 
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)
 
-
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonduto%2Fvideos%2F613187352119217%2F&show_text=1&width=560" width="560" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>

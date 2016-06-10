@@ -40,3 +40,5 @@ A solução antifraude da Konduto é simples, mas eficiente e sem complicações
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**		
 		
 Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR)
+
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonduto%2Fvideos%2F613187352119217%2F&show_text=1&width=560" width="560" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>

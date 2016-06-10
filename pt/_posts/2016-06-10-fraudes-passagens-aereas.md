@@ -35,7 +35,7 @@ Por isso a possibilidade de revender por R$ 500 uma passagem que, na verdade, cu
 
 Este tipo de golpe, bastante comum na internet, tem consequências ruins para muitas pessoas e instituições envolvidas. Por exemplo: 
 
-**Para o cliente desavisado do suposto agente de viagens** 
+**Para o cliente desavisado do suposto agente de viagens**  
 Como a compra das passagens foi feita com o cartão de crédito de um terceiro, há o risco de a fraude ser detectada a tempo pelo banco emissor do cartão e a transação ser cancelada. Assim, quando o cliente chegar ao aeroporto ou à rodoviária pronto para viajar, pode ter uma surpresa bem desagradável e ser informado que aquele voucher não é mais válido e que a passagem não existe. Imagine o tamanho da frustração!
 
 **Para a companhia aérea ou a agência de viagem vítima do golpe**  
