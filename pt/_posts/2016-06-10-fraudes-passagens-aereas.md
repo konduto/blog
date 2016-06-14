@@ -53,7 +53,7 @@ Para o consumidor, desconfiar de ofertas generosíssimas como estas é a melhor 
 
 É claro que uma suposta “promoção” imperdível, em que você é oferecido um desconto de até 65% sobre o valor real de um bilhete aéreo ou rodoviário, pode deixar algum turista em dúvida. Entretanto, é importante ter em mente que há o risco (grande) de o próprio comprador da passagem se dar mal. Caso a fraude seja detectada a tempo, o viajante corre o risco de ter as férias frustradas momentos antes do embarque. Neste caso, para quem recorrer? O valor gasto muito provavelmente não será reembolsado… (sem falar que este tipo de golpe é uma prática criminosa!)
 
-## Sobre a Konduto
+## Sobre a Konduto 
 
 Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
 
