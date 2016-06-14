@@ -47,7 +47,7 @@ Se a passagem comprada ilegalmente pelo fraudador não foi cancelada a tempo da 
 **Para o banco emissor do cartão**  
 O banco também tem custos operacionais e de atendimento para cancelar o cartão clonado do cliente e emitir um novo plástico - e esse processo não é barato. Há também a experiência negativa do correntista, que pode também achar que utilizar cartões daquele banco “não é seguro”. 
 
-## Como evitar este golpe?
+## Como evitar este golpe? 
 
 Para o consumidor, desconfiar de ofertas generosíssimas como estas é a melhor solução. O mais seguro é realizar as compras das passagens diretamente nos sites das companhias aéreas e das agências de viagem ou, então, com agentes muito bem referenciados. 
 
