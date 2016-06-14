@@ -8,7 +8,7 @@ excerpt: "Como supostos agentes de viagens conseguem obter descontos de até 65%
 author: felipe
 ---
 
-![banner-aereo](/images/160613-jet.png)
+![banner-aereo](/images/160613-jet.jpg)
 
 Você já viu algum banner assim, de alguma agência de viagens cujo nome você nunca ouviu falar? E já ficou tentado em fazer essa compra imperdível e economizar um bom dinheiro para a viagem de férias ou do próximo feriado prolongado?  A tentação é enorme, mas tem algo nessa história que não cheira muito bem, não é mesmo? 
 
