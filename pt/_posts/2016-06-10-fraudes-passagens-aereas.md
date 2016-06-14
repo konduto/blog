@@ -8,9 +8,9 @@ excerpt: "Como supostos agentes de viagens conseguem obter descontos de até 65%
 author: felipe
 ---
 
-![banner-aereo](/images/160613-banner-aereo.png)
+![banner-aereo](/images/160613-jet.jpg)
 
-Você já viu algum banner assim, de alguma agência de viagens cujo nome você nunca ouviu falar? E já ficou tentado em fazer essa compra imperdível e economizar um bom dinheiro para a viagem de férias ou do próximo feriado prolongado?  A tentação é enorme, mas tem algo nessa história que não cheira muito bem, não é mesmo? 
+Você já viu alguma oferta assim, de alguma agência de viagens cujo nome você nunca ouviu falar? E já ficou tentado em fazer essa compra imperdível e economizar um bom dinheiro para a viagem de férias ou do próximo feriado prolongado?  A tentação é enorme, mas tem algo nessa história que não cheira muito bem, não é mesmo? 
 
 ## Quando a esmola é demais… 
 
@@ -52,8 +52,6 @@ O banco também tem custos operacionais e de atendimento para cancelar o cartão
 Para o consumidor, desconfiar de ofertas generosíssimas como estas é a melhor solução. O mais seguro é realizar as compras das passagens diretamente nos sites das companhias aéreas e das agências de viagem ou, então, com agentes muito bem referenciados. 
 
 É claro que uma suposta “promoção” imperdível, em que você é oferecido um desconto de até 65% sobre o valor real de um bilhete aéreo ou rodoviário, pode deixar algum turista em dúvida. Entretanto, é importante ter em mente que há o risco (grande) de o próprio comprador da passagem se dar mal. Caso a fraude seja detectada a tempo, o viajante corre o risco de ter as férias frustradas momentos antes do embarque. Neste caso, para quem recorrer? O valor gasto muito provavelmente não será reembolsado… (sem falar que este tipo de golpe é uma prática criminosa!)
-
-*A imagem deste artigo foi encontrada em um perfil de um suposto agente de viagens no Facebook*
 
 ## Sobre a Konduto
 
