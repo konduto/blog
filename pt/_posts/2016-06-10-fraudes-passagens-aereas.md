@@ -10,6 +10,8 @@ author: felipe
 
 ![banner-aereo](/images/160613-jet.jpg)
 
+**Olhou o valor da passagem no site e achou caro? Aqui a mesma passagem tem 50% de desconto!!!**
+
 Você já viu alguma oferta assim, de alguma agência de viagens cujo nome você nunca ouviu falar? E já ficou tentado em fazer essa compra imperdível e economizar um bom dinheiro para a viagem de férias ou do próximo feriado prolongado?  A tentação é enorme, mas tem algo nessa história que não cheira muito bem, não é mesmo? 
 
 ## Quando a esmola é demais… 
