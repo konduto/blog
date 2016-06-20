@@ -51,7 +51,7 @@ Por último, mas não menos importante, os gateways trazem segurança. Eles manu
 
 ## Resumindo: você paga para não ter dor de cabeça
 
-![peace](/images/2006-peace.gif)
+![peace](/images/160620-peace.gif)
 
 Integrar com um gateway de pagamentos não é uma tarefa simples, e não é todo mundo que se interessa em abrir mão de um percentual do valor de cada venda para pagar este serviço. No entanto, a verdadeira vantagem de um gateway não é necessariamente fazer um meio de campo entre o checkout da sua loja e as adquirentes de cartão. Um gateway, na verdade, tira das suas mãos uma série de peculiaridades e resoluções de problemas que você teria se plugasse a sua loja virtual diretamente com cada uma das operadoras de cartão. 
 
