@@ -56,8 +56,8 @@ Cualquier empresa que intenta identificar un fraudador usando el IP como fuente 
 Esperamos haber ayudado a derribar algunos mitos sobre las direcciones IP y lo que se puede o no hacer con estas.
 
 **Te puede interesar**  
-[5 cosas que no sabías acerca de la tarjeta de crédito](https://blog.konduto.com/es/2016/04/cosas-que-no-sabias-acerca-de-tarjeta-de-credito/)
-[¿Qué hacer al recibir el primer chargeback?](https://blog.konduto.com/es/2016/05/que-hacer-al-recibir-el-primer-chargeback/)
+[5 cosas que no sabías acerca de la tarjeta de crédito](https://blog.konduto.com/es/2016/04/cosas-que-no-sabias-acerca-de-tarjeta-de-credito/)  
+[¿Qué hacer al recibir el primer chargeback?](https://blog.konduto.com/es/2016/05/que-hacer-al-recibir-el-primer-chargeback/)  
 [¿Fraude amigo?: sabe lo que es y aprende como evitarlo](https://blog.konduto.com/es/2016/05/que-es-un-fraude-amigo/)
 
 ## Acerca de Konduto
