@@ -35,7 +35,7 @@ Já o CVV dinâmico, de acordo com uma pesquisa de mercado independente, causari
 		
 Nós somos uma startup brasileira que ajuda lojistas a **reduzirem o número de fraudes em transações de cartão não-presente e a minimizarem seus custos**. As nossas análises se baseiam no comportamento de navegação do cliente e deixam apenas os pedidos **realmente suspeitos** na fila para revisão manual. 		
 		
-A solução antifraude da Konduto é simples, mas eficiente e sem complicações para a implantação. Além disso, **não necessita de manutenção**, uma vez que conta com um **sistema machine learning**. Não é preciso gerenciar nenhuma regra: o nosso algoritmo aprende automaticamente com as suas vendas e com os seus clientes, adaptando-se ao  seu negócio. 
+A solução antifraude da Konduto é simples, mas eficiente e sem complicações para a implantação. Além disso, **não necessita de manutenção**, uma vez que conta com um **sistema machine learning**. Não é preciso gerenciar nenhuma regra: o nosso algoritmo aprende automaticamente com as suas vendas e com os seus clientes, adaptando-se ao seu negócio. 
 			
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**		
 		
