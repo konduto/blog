@@ -59,7 +59,7 @@ Como em muitas decisões que tomamos no gerenciamento de uma empresa, esta é um
 
 ## Sobre a Konduto
 
-Nossa experiência em gateways, meios de pagamento, engenharia da computação, machine learning e publicidade online nos permitiu criar um antifraude completamente diferente do que já existia no mercado brasileiro. Nós desenvolvemos uma nova maneira de detectar fraudes no e-commerce, de uma maneira muito mais eficaz e permitindo que o lojista tenha uma redução de custos considerável em sua operação. 
+Nossa experiência em gateways, meios de pagamento, engenharia da computação, machine learning e publicidade online nos permitiu criar um antifraude completamente diferente do que já existia no mercado brasileiro. Nós desenvolvemos um novo método de detectar fraudes no e-commerce, muito mais eficaz e permitindo que o lojista tenha uma redução de custos considerável em sua operação. 
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	 
 
