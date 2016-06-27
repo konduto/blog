@@ -2,7 +2,7 @@
 layout: post
 categories: pt
 date: '2016-06-27-T10:39:00-03:00'
-title: "Cuidado para o seu marketplace não virar um caixa eletrônico para fraudadores"
+title: "Cuidado, seu marketplace pode virar caixa eletrônico para fraudadores!"
 subtitle: "Quando um criminoso é ao mesmo tempo lojista e cliente no próprio marketplace"
 excerpt: "Entenda como fraudadores podem ameaçar o rentável modelo de negócios dos marketplaces"
 author: felipe
@@ -12,7 +12,12 @@ author: felipe
 
 Marketplace é um dos termos que está mais em alta no cenário do comércio eletrônico mundial, e não é à toa: muitas das principais empresas do planeta que utilizam este modelo de negócios caíram nas graças do consumidor, vendendo os mais variados tipos de produtos e serviços.
 
-Quer dizer... “vendendo” não é o termo mais adequado. Um marketplace, na verdade, não vende absolutamente nada para ninguém; há quem discorde, mas ele a priori ajuda o consumidor que busca por um determinado tipo de produto ou serviço a encontrar alguma loja ou prestador de serviços capaz de suprir esta necessidade. O marketplace nada mais é que o “local” (site ou app) onde o processo de compra e venda é realizado – e estas empresas, para atrair mais lojistas, oferecem uma série de vantagens, como auxílio em marketing, antecipação do pagamento de vendas e garantia de pagamento contra fraudes (para clientes e lojistas).
+**Baixe grátis!**   
+[E-book: Entenda como funciona o submundo da fraude no e-commerce](http://ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-mktplc)
+
+Quer dizer... “vendendo” não é o termo mais adequado. Um marketplace, na verdade, não vende absolutamente nada para ninguém; há quem discorde, mas ele a priori ajuda o consumidor que busca por um determinado tipo de produto ou serviço a encontrar alguma loja ou prestador de serviços capaz de suprir esta necessidade. 
+
+O marketplace nada mais é que o “local” (site ou app) onde o processo de compra e venda é realizado – e estas empresas, para atrair mais lojistas, oferecem uma série de vantagens, como auxílio em marketing, antecipação do pagamento de vendas e garantia de pagamento contra fraudes (para clientes e lojistas).
 
 Venda online de produtos novos? Produtos usados? Livros? Carros? Hospedagem? Itens importados da China? Transporte (Black, X ou Pool)? Entrega de comida? Artesanatos? Passagens de ônibus ou de avião? Designers? Técnicos de computadores? Sim, hoje em dia há marketplaces para todas essas demandas – e você certamente se lembrou de algum site ou aplicativo que faz este trabalho, não é?
 
@@ -32,7 +37,9 @@ A loja do fraudador, de repente, começa a fazer um enorme sucesso e receber cen
 
 ![suspicious](/images/160627-suspicious.gif)
 
-Aquela loja não está vendendo produtos para consumidores que precisam daqueles itens. Provavelmente aquele criminoso tem em mãos um extenso lote de cartões clonados e está utilizando o sistema do marketplace para “sacar” dinheiro daqueles cartões. Como muitos marketplaces pagam antecipadamente o valor das vendas para os lojistas e também arcam com os custos de chargeback em caso de golpes, fraudadores se aproveitam para fazer diversas compras com cartões clonados e obter rapidamente aquele dinheiro fácil. Quando chegarem os chargebacks, provavelmente aquela loja de fachada já tenha desaparecido. E o prejuízo recairá sobre o marketplace. 
+Aquela loja não está vendendo produtos para consumidores que precisam daqueles itens. Provavelmente aquele criminoso tem em mãos um extenso lote de cartões clonados e está utilizando o sistema do marketplace para “sacar” dinheiro daqueles cartões. 
+
+Como muitos marketplaces pagam antecipadamente o valor das vendas para os lojistas e também arcam com os custos de chargeback em caso de golpes, fraudadores se aproveitam para fazer diversas compras com cartões clonados e obter rapidamente aquele dinheiro fácil. Quando chegarem os chargebacks, provavelmente aquela loja de fachada já tenha desaparecido. E o prejuízo recairá sobre o marketplace. 
 
 ## Não são só produtos físicos!
 
@@ -43,6 +50,11 @@ Este tipo de golpe não acontece apenas em marketplaces de produtos: os serviço
 Nós da Konduto costumamos dizer: não há negócios à prova de fraude. Saber que ela existe e manter a calma quando este mal acometer o seu negócio é o primeiro passo para saber lidar da melhor maneira com este problema.
 
 No entanto, para um marketplace, que já administra diversas atividades para milhares de lojistas, gerenciar este tipo peculiar de fraude pode ser ainda mais difícil. Procurar um sistema antifraude que saiba como lidar com este problema talvez seja a solução mais adequada. Para isso a Konduto está aqui! :)
+
+**Leia também**  
+[PROMOÇÃO: Passagens aéreas pela metade do preço! É fraude?](http://blog.konduto.com/pt/2016/06/fraudes-passagens-aereas/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Por que o lojista é quem paga pela fraude na internet?](http://blog.konduto.com/pt/2016/05/por-que-o-lojista-deve-pagar-pelo-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
+[Aprenda 5 dicas emergenciais para se proteger de fraudes](http://blog.konduto.com/pt/2016/01/dicas-emergenciais-evitar-fraudes/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
 ## Sobre a Konduto 
 
