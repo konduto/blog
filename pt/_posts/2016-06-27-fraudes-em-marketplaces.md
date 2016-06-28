@@ -8,7 +8,7 @@ excerpt: "Entenda como fraudadores podem ameaçar o rentável modelo de negócio
 author: felipe
 ---
 
-![atm](/images/160627-atm.png)
+![atm](/images/160627-atm-v2.png)
 
 Marketplace é um dos termos que está mais em alta no cenário do comércio eletrônico mundial, e não é à toa: muitas das principais empresas do planeta que utilizam este modelo de negócios caíram nas graças do consumidor, vendendo os mais variados tipos de produtos e serviços.
 
