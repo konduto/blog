@@ -42,6 +42,6 @@ Receiving a chargeback notification is never a good thing, but **it is not the e
 
 ## About Konduto
 
-A startup developing an **innovative technology** to bar e-commerce frauds. Our **intelligent anti-fraud** monitors the client throughout his purchase journey in your site and evaluates the transaction in real time - **our answer is given in less than 1s**! We detect only the purchases that are really suspicious, approving more orders and reducing the costs with frauds. **Send us an e-mail on [hi@konduto.com](mailto:hi@konduto.com)**
+We are a startup developing an **innovative technology** to bar e-commerce frauds. Our **intelligent anti-fraud** monitors the client throughout his purchase journey in your site and evaluates the transaction in real time - **our answer is given in less than 1s**! We detect only the purchases that are really suspicious, approving more orders and reducing the costs with frauds. **Send us an e-mail on [hi@konduto.com](mailto:hi@konduto.com)**
 
 Follow us on [Linkedin](https://www.linkedin.com/company/konduto?trk=company_logo) and [Facebook](https://www.facebook.com/konduto?fref=ts)!

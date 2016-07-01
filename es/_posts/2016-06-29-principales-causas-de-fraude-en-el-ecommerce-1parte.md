@@ -32,6 +32,11 @@ Muchas empresas están trabajando para intentar solucionar el problema de la aut
 
 Mientras no surja una solución universal, simple de usar y segura, lo mejor es tener siempre en mente lo siguiente: no hay forma de comprobar quién está al otro lado.
 
+**Te puede interesar**  
+[5 cosas que no sabías acerca de la tarjeta de crédito](https://blog.konduto.com/es/2016/04/cosas-que-no-sabias-acerca-de-tarjeta-de-credito/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo)  
+[¿Qué hacer al recibir el primer chargeback?](https://blog.konduto.com/es/2016/05/que-hacer-al-recibir-el-primer-chargeback/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo)  
+[¿Fraude amigo?: sabe lo que es y aprende como evitarlo](https://blog.konduto.com/es/2016/05/que-es-un-fraude-amigo/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo)
+
 ## Acerca de Konduto
 
 Somos una startup que desarrolló una tecnología innovadora para impedir el fraude en el e-commerce. Nuestros análisis son completos y no se basan en la combinación de datos de registro, como el e-mail y el número de identificación. Monitoreamos también el comportamiento de navegación del cliente desde el instante en que este entra en su tienda virtual hasta el momento en que finaliza la compra.
@@ -40,4 +45,4 @@ La solución antifraude Konduto es simple, más eficiente y con respuesta en tie
 
 **¿Quieres saber más? ¿Tienes alguna duda? ¡Contáctanos por [hola@konduto.com](mailto:hola@konduto.com)!**
 
-Conéctase con Konduto también en las redes sociales: **[Linkedin](https://www.linkedin.com/company/konduto?trk=company_logo)** y **[Facebook](https://www.facebook.com/konduto?fref=ts)**.
+Conéctate con Konduto también en las redes sociales: **[Linkedin](https://www.linkedin.com/company/konduto?trk=company_logo)** y **[Facebook](https://www.facebook.com/konduto?fref=ts)**.
