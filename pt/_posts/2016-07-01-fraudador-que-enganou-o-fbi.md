@@ -14,7 +14,7 @@ A revista norte-americana *Wired* publicou recentemente um longo artigo sobre um
 
 O caso, que poderia facilmente servir de enredo para um bom filme, ocorreu no início dos anos 2000, quando **hackear deixava de ser um “uma diversão” para se tornar uma atividade “profissional e voltada ao lucro”**, de acordo com a *Wired*. O protagonista do relato é o ucraniano **Maksym Igor Popov**, então com 20 anos, que, apesar da pouca idade, já colecionava uma vasta experiência em crimes cibernéticos.
 
-**Baixe grátis**
+**Baixe grátis**  
 [E-book: Saiba como funciona o submundo da fraude no e-commerce](http://ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-wrd)
 
 Popov iniciou a **carreira criminosa** ainda adolescente, obtendo dados de **cartões de crédito de cidadãos dos Estados Unidos e utilizando-os para fazer compras fraudulentas** por telefone em lojas de informática e telefonia celular, solicitando a entrega dos produtos na Ucrânia. Posteriormente, o jovem hacker resolveu dar um passo ainda maior: ele invadia o sistema de grandes companhias para roubar dados e, em seguida, entrava em contato com elas fazendo-se passar por um “consultor de segurança” que oferecia seus serviços para solucionar o problema e garantir que aqueles dados não vazassem – sempre em troca de uma gorda quantia financeira. Na prática, era uma forma de extorsão.
