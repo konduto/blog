@@ -10,7 +10,9 @@ author: felipe
 
 ![banner-aereo](/images/160613-jet.jpg)
 
-Você já viu algum banner assim, de alguma agência de viagens cujo nome você nunca ouviu falar? E já ficou tentado em fazer essa compra imperdível e economizar um bom dinheiro para a viagem de férias ou do próximo feriado prolongado?  A tentação é enorme, mas tem algo nessa história que não cheira muito bem, não é mesmo? 
+**Olhou o valor da passagem no site e achou caro? Aqui a mesma passagem tem 50% de desconto!!!**
+
+Você já viu alguma oferta assim, de alguma agência de viagens cujo nome você nunca ouviu falar? E já ficou tentado em fazer essa compra imperdível e economizar um bom dinheiro para a viagem de férias ou do próximo feriado prolongado?  A tentação é enorme, mas tem algo nessa história que não cheira muito bem, não é mesmo? 
 
 ## Quando a esmola é demais… 
 
@@ -47,19 +49,17 @@ Se a passagem comprada ilegalmente pelo fraudador não foi cancelada a tempo da 
 **Para o banco emissor do cartão**  
 O banco também tem custos operacionais e de atendimento para cancelar o cartão clonado do cliente e emitir um novo plástico - e esse processo não é barato. Há também a experiência negativa do correntista, que pode também achar que utilizar cartões daquele banco “não é seguro”. 
 
-## Como evitar este golpe?
+## Como evitar este golpe? 
 
 Para o consumidor, desconfiar de ofertas generosíssimas como estas é a melhor solução. O mais seguro é realizar as compras das passagens diretamente nos sites das companhias aéreas e das agências de viagem ou, então, com agentes muito bem referenciados. 
 
 É claro que uma suposta “promoção” imperdível, em que você é oferecido um desconto de até 65% sobre o valor real de um bilhete aéreo ou rodoviário, pode deixar algum turista em dúvida. Entretanto, é importante ter em mente que há o risco (grande) de o próprio comprador da passagem se dar mal. Caso a fraude seja detectada a tempo, o viajante corre o risco de ter as férias frustradas momentos antes do embarque. Neste caso, para quem recorrer? O valor gasto muito provavelmente não será reembolsado… (sem falar que este tipo de golpe é uma prática criminosa!)
 
-*A imagem deste artigo foi encontrada em um perfil de um suposto agente de viagens no Facebook*
+## Sobre a Konduto 
 
-## Sobre a Konduto
+Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação. 
 
-Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
-
-Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup!
+Nosso sistema também reúne informações básicas como dados cadastrais, fingerprint e geolocalização, dentre outras, e passa todos estes dados por um filtro de inteligência artificial. A venda é analisada em menos de 1s, sem prejudicar ou causar transtorno à operação do lojista. Nosso algoritmo de machine learning aprende com cada análise e evolui com o passar do tempo, reduzindo cada vez mais o número de fraudes. 
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	 
 

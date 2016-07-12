@@ -60,7 +60,7 @@ Mais de um pedido com o mesmo telefone de contato em um curto espaço de tempo? 
 
 Não necessariamente. Digamos que você, seguindo os cinco passos acima, vai “estancar” o sangramento que os golpes com cartão de crédito causaram à sua empresa e colocar a operação em um modo de segurança enquanto não implementa uma solução antifraude. É este sistema que, de fato, vai conseguir barrar as transações com maior chance de se tornarem um chargeback. 
 
-A Konduto pode te ajudar também neste sexto passo. Mande um e-mail para a gente no [oi@konduto.com](mailto:oi@konduto.com) e nos conte um pouco mais sobre a análise de risco da sua empresa. Nosso antifraude inovador certamente vai mostrar quais são os pedidos realmente suspeitos de fraude e fazer com que a operação do seu e-commerce seja mais tranquila e com cada vez menos fraudes. 
+A Konduto pode te ajudar também neste sexto passo. Mande um e-mail para a gente no [oi@konduto.com](mailto:oi@konduto.com) e nos conte um pouco mais sobre a análise de risco da sua empresa. Nosso antifraude inovador certamente vai mostrar quais são os pedidos realmente suspeitos e fazer com que a operação do seu e-commerce seja mais tranquila e com cada vez menos fraudes. 
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	 
 

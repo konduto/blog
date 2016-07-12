@@ -29,11 +29,11 @@ Os suspeitos serão indiciados por seis crimes diferentes: falsificação de doc
 
 Todas as informações divulgadas pela Polícia Federal vão de encontro às revelações que nós, da Konduto, fizemos na última semana, quando publicamos nosso primeiro e-book: O submundo da fraude no e-commerce. No material, dedicamos um capítulo especialmente para ilustrar a “rotina de trabalho” de um criminoso especializado em realizado compras fraudulentas em lojas virtuais. **[Clique aqui](http://ebooks.konduto.com/submundo-da-fraude/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)** para fazer o download gratuitamente do nosso e-book!
 
-## Sobre a Konduto
+## Sobre a Konduto 
 
-Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-trap)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
+Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação. 
 
-Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup! 
+Nosso sistema também reúne informações básicas como dados cadastrais, fingerprint e geolocalização, dentre outras, e passa todos estes dados por um filtro de inteligência artificial. A venda é analisada em menos de 1s, sem prejudicar ou causar transtorno à operação do lojista. Nosso algoritmo de machine learning aprende com cada análise e evolui com o passar do tempo, reduzindo cada vez mais o número de fraudes. 
 
 **Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**	 
 

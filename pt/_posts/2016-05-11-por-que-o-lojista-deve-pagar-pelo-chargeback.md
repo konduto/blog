@@ -39,11 +39,11 @@ A má notícia é que **não existe e-commerce à prova de fraude**: a partir do
 [Precisamos falar sobre revisão manual](https://blog.konduto.com/pt/2016/02/precisamos-falar-sobre-revisao-manual/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)  
 [Análise de risco em tempo real: como evitar fraudes sem prejudicar o bom cliente?](https://blog.konduto.com/pt/2015/12/analise-tempo-real-fraude-x-delivery-o-que-fazer/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)
 
-## Sobre a Konduto
+## Sobre a Konduto 
 
-Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-cbfault)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação. Nosso sistema leva menos de 1s para analisar uma venda, sem causar transtorno à operação do lojista.
+Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação. 
 
-Nosso algoritmo de machine learning consegue reduzir as fraudes ao mesmo tempo em que aprende cada vez mais sobre o comportamento dos clientes de cada loja, aprovando mais pedidos automaticamente e reduzindo os custos de revisão manual. Tudo isso sem nenhum custo de setup! 
+Nosso sistema também reúne informações básicas como dados cadastrais, fingerprint e geolocalização, dentre outras, e passa todos estes dados por um filtro de inteligência artificial. A venda é analisada em menos de 1s, sem prejudicar ou causar transtorno à operação do lojista. Nosso algoritmo de machine learning aprende com cada análise e evolui com o passar do tempo, reduzindo cada vez mais o número de fraudes. 
 
 **Ficou interessado? Mande um e-mail para [oi@konduto.com](mailto:oi@konduto.com) e nos conte como podemos ajudar a sua loja virtual!**
 
