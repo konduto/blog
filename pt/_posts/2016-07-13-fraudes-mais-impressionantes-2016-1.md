@@ -2,7 +2,7 @@
 layout: post
 categories: pt
 date: '2016-07-13-T10:39:00-03:00'
-title: "Veja quas foram as as fraudes mais engenhosas do 1º semestre de 2016"
+title: "Quais foram as fraudes mais engenhosas do 1º semestre de 2016?"
 subtitle: "Alguns golpes on-line chamaram a atenção pela criatividade e audácia dos criminosos"
 excerpt: "Golpes com cartões de Portugal, com cartões quebrados... infelizmente, temos que admitir: fraudadores foram criativos"
 author: felipe
