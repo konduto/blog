@@ -26,15 +26,13 @@ Apenas um detalhe poderia gerar desconfiança: o site só recebia pagamentos por
 
 A loja falsa ficou ativa durante boa parte do primeiro semestre, alternando entre momentos fora do ar por suposta “manutenção”. Até a metade de junho, o site Reclame Aqui registrava 10 reclamações contra o suposto outlet - todas de clientes com o mesmo problema. Nenhuma ocorrência na página foi respondida. 
 
-## Compras fraudulentas enviadas para as próprias vítimas
+## Compra fraudulenta enviada para a própria vítima
 
 ![gift](/images/160713-gift.png)
 
 Este caso ocorreu nos Estados Unidos e foi noticiado em fevereiro pelo jornalista norte-americano Brian Krebs, especialista em segurança da informação. Criminosos tiraram proveito de uma campanha de marketing da Kohl’s, uma das maiores lojas de departamentos daquele país, e bolaram um esquema de fraudes um tanto quanto peculiar.
 
-A Kohl’s oferecia a seus clientes um crédito de US$ 10 a cada US$ 50 gastos em compras na loja (física ou e-commerce). Estelionatários, então, arquitetaram o seguinte crime: eles invadiam a conta de clientes da rede e faziam compras de alto valor com cartões clonados; enquanto os produtos eram enviados para a casa das vítimas, os criminosos roubavam o bônus que aquela transação havia gerado e o utilizavam para a compra de outros produtos.
-
-[Leia aqui como o caso foi solucionado](https://blog.konduto.com/pt/2016/02/fraude-bizarra-kohls-eua/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-top4)
+A Kohl’s oferecia a seus clientes um crédito de US$ 10 a cada US$ 50 gastos em compras na loja (física ou e-commerce). Estelionatários, então, arquitetaram o seguinte crime: eles invadiam a conta de clientes da rede e faziam compras de alto valor com cartões clonados; enquanto os produtos eram enviados para a casa das vítimas, os criminosos roubavam o bônus que aquela transação havia gerado e o utilizavam para a compra de outros produtos. **[Leia aqui como o caso foi solucionado](https://blog.konduto.com/pt/2016/02/fraude-bizarra-kohls-eua/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-top4)**.
 
 ## Fraudes com cartões quebrados
 
@@ -42,9 +40,7 @@ Fraudadores brasileiros bolaram um crime surpreendente, que foi noticiado no in�
 
 Para que o cancelamento fosse efetuado, os criminosos pediam que a vítima digitasse a senha de compra no teclado do telefone e, em seguida, quebrasse o cartão. O plástico, então, deveria ser entregue a um motoboy, que passaria na residência do cliente para recolher os fragmentos e submetê-los a uma suposta perícia.
 
-As vítimas, porém, não se davam conta de um detalhe: elas não destruíam o chip de segurança. E o contato metálico era o que a quadrilha precisava para realizar compras fraudulentas, uma vez que já haviam obtido a senha do cliente no contato telefônico. Resultado: o golpe chegou a causar prejuízos de R$ 11 mil a R$ 35 mil aos consumidores!
-
-[Leia mais detalhes do golpe](https://blog.konduto.com/pt/2016/05/golpe-hollywoodiano-cartoes-quebrados/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-top4)
+As vítimas, porém, não se davam conta de um detalhe: elas não destruíam o chip de segurança. E o contato metálico era o que a quadrilha precisava para realizar compras fraudulentas, uma vez que já haviam obtido a senha do cliente no contato telefônico. Resultado: o golpe chegou a causar prejuízos de R$ 11 mil a R$ 35 mil aos consumidores! **[Leia mais detalhes do golpe](https://blog.konduto.com/pt/2016/05/golpe-hollywoodiano-cartoes-quebrados/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-top4).**
 
 ## Golpe transoceânico: fraudes com cartões de Portugal
 
@@ -52,9 +48,7 @@ As vítimas, porém, não se davam conta de um detalhe: elas não destruíam o c
 
 O caso, que foi noticiado por diversos jornais portugueses nas últimas semanas de maio, teria sido originado em um ataque de hackers brasileiros à Visa Europa. Cartões de vários correntistas do banco lusitano Caixa Geral de Depósito (CGD) foram clonados e utilizados para compras no e-commerce do nosso País – o que é curioso, por serem duas nações bastante próximas e com a mesma língua nativa (afinal, provavelmente compras feitas por clientes com nomes lusófonos como João Alves e Maria Gonçalves não chamariam tanta atenção para um analista de risco brasileiro).
 
-De acordo com a imprensa do país europeu, milhares de pessoas teriam sido afetadas pelo golpe. Todos os correntistas da CGD seriam ressarcidos pela Visa, e o prejuízo pelas fraudes fatalmente recairia sobre as lojas virtuais brasileiras.  
-
-[Leia mais sobre o caso](https://blog.konduto.com/pt/2016/05/golpe-cartoes-portugueses/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-top4)
+De acordo com a imprensa do país europeu, milhares de pessoas teriam sido afetadas pelo golpe. Todos os correntistas da CGD seriam ressarcidos pela Visa, e o prejuízo pelas fraudes fatalmente recairia sobre as lojas virtuais brasileiras. **[Leia mais sobre o caso](https://blog.konduto.com/pt/2016/05/golpe-cartoes-portugueses/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-top4)**.
 
 ## O que esperar para o segundo semestre?
 
