@@ -7,12 +7,11 @@ subtitle: "Nossos sistemas já processam mais de uma venda por segundo"
 excerpt: "Triplicamos nossa capacidade em relação a dezembro de 2015"
 author: felipe
 ---
-
-A Konduto alcançou a marca de 3 milhões de transações analisadas por mês. Sim: mal entramos em nosso terceiro ano de operação e nossos sistemas já recebem mais de 1 venda por segundo!
+A Konduto alcançou a marca de 3 milhões de transações analisadas por mês. Sim: nossos sistemas já recebem mais de 1 venda por segundo! 
 
 ![celebration](/images/160714-3mm.gif) 
 
-Nós havíamos fechado dezembro muito felizes quando alcançamos a marca de 1 milhão de vendas processadas por mês. Nossa meta era dobrar este valor até o final de 2016, mas conseguimos ir bem mais além. Isso nos mostra duas coisas: o método Konduto é realmente eficiente, e os lojistas estão em busca de novas tecnologias para barrar fraudes! 
+Nós havíamos fechado dezembro muito felizes quando alcançamos a marca de 1 milhão de vendas processadas por mês; nossa meta era dobrar este valor até o final de 2016, mas conseguimos ir bem mais além.
 
 ## E o que mais vem por aí? 
 
