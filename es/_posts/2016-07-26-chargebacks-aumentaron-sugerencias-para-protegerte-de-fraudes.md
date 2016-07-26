@@ -7,7 +7,7 @@ subtitle: "Entérate de cómo protegerte de las estafas de tarjeta de crédito m
 excerpt: "Entérate de cómo protegerte de las estafas de tarjeta de crédito mientras no implantas una solución antifraude."
 author: felipe
 ---
-Tu e-commerce acaba de tener un excelente período de ventas, superando las expectativas y generando ingresos considerables para toda la empresa. Pero, justamente en el momento de mayor entusiasmo, llega una mala noticia: un [chargeback](https://blog.konduto.com/es/2016/05/que-hacer-al-recibir-el-primer-chargeback/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo). Y otro más. Y otro. La señal de alerta ya está sonando, y el ruido es alto.
+Tu e-commerce acaba de tener un excelente período de ventas, superando las expectativas y generando ingresos considerables para toda la empresa. Pero, justamente en el momento de mayor entusiasmo, llega una mala noticia: un **[chargeback](https://blog.konduto.com/es/2016/05/que-hacer-al-recibir-el-primer-chargeback/?utm_source=konduto&utm_medium=blog-es&utm_campaign=conteudo)**. Y otro más. Y otro. La señal de alerta ya está sonando, y el ruido es alto.
 
 ![blu](/images/160112-blu.gif)
 
@@ -39,9 +39,9 @@ A veces un pedido estafador no implica solo un ítem bastante cobijado, pero un 
 
 Si un cliente suele gastar $ 200,00 cuando realiza una compra en tu tienda, ¿cuál sería tu primera reacción si, un buen día, llegara un pedido por el valor de, digamos… **$ 10.000,00**?
 
-¿No se te dan ganas de festejar? Pero es mejor tomárselo con calma. Mucha calma. A veces el entusiasmo de «vender bastante» y obtener un beneficio espectacular puede nublarnos la vista. Y entonces, en lugar de un beneficio, podemos tener un perjuicio considerable. Te recomendamos separar todos los pedidos que tengan un valor mucho mayor que tu ticket medio y revisarlos con más atención.
-
 ![celeb](/images/160112-celebration.gif)
+
+¿No se te dan ganas de festejar? Pero es mejor tomárselo con calma. Mucha calma. A veces el entusiasmo de «vender bastante» y obtener un beneficio espectacular puede nublarnos la vista. Y entonces, en lugar de un beneficio, podemos tener un perjuicio considerable. Te recomendamos separar todos los pedidos que tengan un valor mucho mayor que tu ticket medio y revisarlos con más atención.
 
 ## 4. ¡Cuidado con los fletes expresos!
 

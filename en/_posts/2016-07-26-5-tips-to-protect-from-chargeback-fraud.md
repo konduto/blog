@@ -7,7 +7,7 @@ subtitle: "Learn how to protect yourself from credit card frauds while an anti-f
 excerpt: "Learn how to protect yourself from credit card frauds while an anti-fraud solution is not implemented."
 author: felipe
 ---
-Your e-commerce has just been through a great sales period, overcoming expectations and generating a very significant revenue for the whole company. But right now, at the most exciting moment, bad news arrives: a [chargeback](https://blog.konduto.com/en/2016/05/what-to-do-when-you-get-your-firs-chargeback/?utm_source=konduto&utm_medium=blog-en&utm_campaign=conteudo). And another. And yet another. The alert sign is already ringing, and it is loud.
+Your e-commerce has just been through a great sales period, overcoming expectations and generating a very significant revenue for the whole company. But right now, at the most exciting moment, bad news arrives: a **[chargeback](https://blog.konduto.com/en/2016/05/what-to-do-when-you-get-your-firs-chargeback/?utm_source=konduto&utm_medium=blog-en&utm_campaign=conteudo)**. And another. And yet another. The alert sign is already ringing, and it is loud.
 
 ![blu](/images/160112-blu.gif)
 
