@@ -3,8 +3,8 @@ layout: post
 categories: pt
 date: '2016-08-03-T10:39:00-03:00'
 title: "BBC encontra itens absurdos à venda na deep web: inclusive cartões clonados"
-subtitle: "A chamada internet oculta pode ser ponto de venda de armas, drogas e até cartões clonoados"
-excerpt: "Golpes com cartões de Portugal, com cartões quebrados... infelizmente, temos que admitir: fraudadores foram criativos"
+subtitle: "A chamada internet oculta pode ser ponto de venda de armas, drogas e até cartões clonados"
+excerpt: "A chamada internet oculta pode ser ponto de venda de armas, drogas e até cartões clonados"
 author: felipe
 ---
 
@@ -28,7 +28,7 @@ Hoje em dia, fraudadores têm um amplo acesso a milhares de dados. Muitas vezes 
 
 O artigo publicado pela BBC também reforça algo em que nós, da Konduto, há tempos insistimos: acreditar apenas em dados cadastrais pode ser um grande equívoco para quem vende na internet. Afinal de contas, a fraude on-line não é um ato cometido por um cliente buscando tirar vantagem de uma loja, mas sim um crime altamente especializado, contínuo e cometido por estelionatários que visam ao lucro. 
 
-Se você quiser entender um pouco mais sobre como funciona o “submundo da fraude” e saber como proteger o seu negócio deste tipo de criminosos, baixe grátis o nosso e-book sobre o tema – **[basta clicar aqui](http://ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-bbc))**!
+Se você quiser entender um pouco mais sobre como funciona o “submundo da fraude” e saber como proteger o seu negócio deste tipo de criminosos, baixe grátis o nosso e-book sobre o tema – **[basta clicar aqui](http://ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-bbc)**!
 
 **Leia também**  
 [Conheça a história do fraudador que ludibriou o FBI (mais de uma vez!)](https://blog.konduto.com/pt/2016/07/fraudador-que-enganou-o-fbi/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-bbc)  
