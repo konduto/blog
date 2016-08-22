@@ -1,0 +1,47 @@
+---
+layout: post
+categories: pt
+date: '2016-08-22-T10:39:00-03:00'
+title: "Fraudadores acordam tarde e adoram usar Windows e Google Chrome"
+subtitle: "Desvendamos detalhes cruciais para o combate à fraude na internet"
+excerpt: "O relatório Raio-X da Fraude no E-commerce já está disponível para download!"
+author: felipe
+---
+
+![esteira](/images/160822-esteira.png)
+
+Você saberia dizer qual o período do dia em que há mais tentativas de compras fraudulentas na internet? E qual o dia da semana em que a atividade dos criminosos se intensifica?
+
+A Konduto, com o objetivo de ajudar lojistas on-line a compreender melhor o problema do golpe de cartões de crédito clonados, responde estas e mais algumas curiosas questões no relatório Raio-X da Fraude no E-commerce Brasileiro. O documento reúne uma amostragem de mais de 10 milhões de transações que passaram pelos nossos sistemas entre 1º de janeiro e 30 de junho de 2016 e coleta preciosas informações sobre o comportamento de navegação de criminosos na internet.
+
+**Baixe grátis o relatório**
+[Raio-X da Fraude no E-commerce Brasileiro](http://ebooks.konduto.com/raio-x-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-report)
+
+O nosso relatório evidencia que fraudadores ficam acordados até muito tarde e não gostam de começar a agir antes do meio-dia. **O “expediente” destes criminosos normalmente começa às 17h e termina por volta das 3h**. Este período de dez horas corresponde a mais de 63% das tentativas de fraude ao longo do dia, sendo que **o auge da atividade entre 22h e 1h**, quando ocorrem 21% das tentativas.
+
+Por outro lado, o período matinal é o que possui menos tentativas de fraude: menos de 8% dos pedidos de origem criminosa são feitos entre 5 da manhã e meio-dia. Para se ter uma ideia, as vendas legítimas na internet se intensificam a partir das 10h e atingem o pico às 20h.
+
+E quanto aos dispositivos utilizados para as tentativas de compras fraudulentas? Os nossos dados que fraudadores não se diferenciam muito da população brasileira em geral: os criminosos têm preferência por usar computadores com Windows e navegar com o Google Chrome.
+
+Quase 80% das tentativas de fraude feitas em computador têm como origem um computador com o sistema operacional da Microsoft, enquanto cerca de 6 a cada 10 compras criminosas partem de um navegador Chrome – proporções muito maiores em comparação com as vendas legítimas. 
+
+No entanto, é possível ver a crescente de compras fraudulentas feitas em dispositivos mobile: de acordo com o relatório, 19% das transações ilegais partem de smartphones ou tablets, e a tendência é que este número aumente bastante nos próximos semestres. 
+
+## O que estes dados representam?
+
+Hoje em dia, a taxa de tentativa de fraude na internet é de 3,83%: ou seja, **1 a cada 26 pedidos feitos em uma loja virtual são feitos por estelionatários utilizando cartões clonados**. Este é um crime amplamente difundido, apesar de ainda muito pouco combatido no mundo inteiro.
+
+Para piorar, estes criminosos têm fácil acesso a dados cadastrais de bons compradores e um alto conhecimento de informática. E isso torna ainda mais difícil a tarefa de uma loja virtual em diferenciar vendas boas de vendas que poderão se tornar um chargeback no futuro.
+
+Nós, porém, partimos de uma teoria bastante diferente para criar o antifraude da Konduto. Acreditamos que **um fraudador se revela pela maneira como navega em um site ou em um aplicativo mobile**. Com isso, desenvolvemos um sistema que monitora todo o comportamento dos clientes durante o processo de compra e leva todas essas informações em conta na hora de calcular o risco de um pedido.
+
+Este método, inovador no mercado da análise de risco mundial, tem se mostrado altamente eficaz, reduzindo de maneira considerável o índice de fraudes e o custo operacional de nossos mais de 100 clientes. 
+
+**Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**         	
+ 
+Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR) 
+ 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonduto%2Fvideos%2F613187352119217%2F&show_text=1&width=560" width="560" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+
+
+
