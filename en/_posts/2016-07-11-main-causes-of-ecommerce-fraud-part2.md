@@ -9,8 +9,8 @@ author: tom
 ---
 We would have no fraud in e-commerce if there weren't millions of credit card numbers on the hands of criminals. If we could remove the offering of data, we would see a brutal drop in the number of chargebacks. But where do the cloned cards come from? How do fraudsters obtain such secret information?
 
-**Part 1** 
-[The main causes of fraud in e-commerce - Part 1: Client authentication](https://blog.konduto.com/es/2016/06/principales-causas-de-fraude-en-el-ecommerce-1parte/)
+**Part 1**  
+[The main causes of fraud in e-commerce - Part 1: Client authentication](https://blog.konduto.com/en/2016/06/main-causes-of-ecommerce-fraud-part1/?utm_source=konduto&utm_medium=blog-en&utm_campaign=conteudo)
 
 The main source, unfortunately, are the stores themselves. The responsibility is in the hands of those who capture and handle the data, that is, who receive them first hand from the purchaser, and use them in processing the payment. There are rare cases where some payment chain institution - procurers, banks or logos - is attacked. But it has happened before. However, the majority of leaks take place when the purchaser offers his card to the store owner.
 
