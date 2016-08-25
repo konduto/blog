@@ -2,7 +2,7 @@
 layout: post
 categories: es
 date: '2016-08-25-T10:39:00-03:00'
-title: "¿Fast-food de fraude en el e-commerce? Ya existe algo así…"
+title: "Fast-food de fraude en el e-commerce: Ya existe algo así…"
 subtitle: "El crimen de venta de datos robados de tarjetas de crédito está tan organizado que es posible obtener fácilmente esas informaciones en sitios y grupos de discusiones en internet. Es casi tan fácil como comprar una hamburguesa..."
 excerpt: "Hacer fraudes en internet ya es casi tan simple como comprar una hamburguesa..."
 author: felipe
