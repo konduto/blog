@@ -2,7 +2,7 @@
 layout: post
 categories: es
 date: '2016-08-29-T10:39:00-03:00'
-title: "Mucho más allá del chargeback: otros 5 problemas que el fraude puede causar"
+title: "Más allá del chargeback: otros 5 problemas que el fraude puede causar"
 subtitle: "No se trata solo del valor del producto. También hay multas, desacreditación de banderas, miedo del consumidor..."
 excerpt: "No se trata solo del valor del producto. También hay multas, desacreditación de banderas, miedo del consumidor..."
 author: felipe
