@@ -3,7 +3,7 @@ layout: post
 categories: pt
 date: '2016-09-04-T10:39:00-03:00'
 title: "Clientes VTEX agora podem contar com a proteção da Konduto!"
-subtitle: "Lojistas que utilizam a plataforma de e-commerce VTEX podem realizar integrar a Konduto com extrema facilidade"
+subtitle: "Lojistas que utilizam a plataforma de e-commerce VTEX podem integrar a Konduto com extrema facilidade"
 excerpt: "A Konduto deu mais um importante passo no combate à fraude on-line!"
 author: felipe
 ---
