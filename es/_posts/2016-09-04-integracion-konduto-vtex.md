@@ -24,6 +24,6 @@ Fundada en el 1999, VTEX está presente en 15 paises del continente americano, i
 
 Envíanos un mail a nuestro equipo comercial en el **[comercial@konduto.com](mailto:comercial@konduto.com)** y solicita una propuesta! 
  
-Conéctate con Konduto también en las redes sociales: [Linkedin](https://www.linkedin.com/company/konduto y [Facebook](https://www.facebook.com/konduto)
+Conéctate con Konduto también en las redes sociales: [Linkedin](https://www.linkedin.com/company/konduto) y [Facebook](https://www.facebook.com/konduto)
 
 
