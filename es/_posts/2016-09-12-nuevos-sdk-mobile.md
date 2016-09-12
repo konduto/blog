@@ -21,4 +21,6 @@ El análisis de comportamiento de navegación y compra se ha revelado un importa
 
 Nuestro nuevo SDK está disponible para iOS (a partir de la versión 6) y Android (a partir de la versión 1). 
 
-¿Quieres saber más? Contáctate con nuestro equipo comercial a través del e-mail comercial@konduto.com.  
+¿Quieres saber más? Contacta nuestro equipo comercial a través del e-mail [comercial@konduto.com](mailto:comercial@konduto.com)
+
+Conéctate con Konduto también en las redes sociales: [Linkedin](https://www.linkedin.com/company/konduto) y [Facebook](https://www.facebook.com/konduto)  
