@@ -10,6 +10,9 @@ author: felipe
 
 Nove em cada dez empreendedores sabem encontrar rapidamente a resposta para esta incômoda pergunta. É fácil: basta calcular o total de chargebacks (estornos de vendas contestadas) que a empresa recebeu das operadoras de cartão de crédito no último mês. 
 
+**Baixe grátis**  
+[E-book: Saiba como funciona o submundo da fraude no e-commerce](http://ebooks.konduto.com/submundo-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-custo-fraude)
+
 Fizemos esta pergunta para o João das Couves, que é CEO e co-founder da Loja do João – um fictício e-commerce que recebe 50 mil pedidos por mês, com um ticket médio de R$ 200. Ele nos respondeu assim: “A fraude está controlada. Mantivemos o indicador em 0,3% e recebemos só 150 chargebacks no último mês. O custo da fraude foi de apenas R$ 30 mil na Loja do João, aproximadamente”. 
 
 ## Será que essa é a conta?
@@ -35,7 +38,7 @@ O custo da fraude para um e-commerce ou qualquer negócio on-line não é apenas
 
 ## Como reduzir este custo?
 
-Atualmente, cerca de **3,83% dos pedidos que chegam a uma loja virtual são de origem fraudulenta(xxxxxxx)** (ou seja: 1 a cada 26 compras). No entanto, por “medo” da fraude, muitas empresas acabam barrando muito mais vendas do que deveriam. 
+Atualmente, cerca de **3,83% dos pedidos que chegam a uma loja virtual são de origem fraudulenta(http://ebooks.konduto.com/raio-x-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-custo-fraude)** (ou seja: 1 a cada 26 compras). No entanto, por “medo” da fraude, muitas empresas acabam barrando muito mais vendas do que deveriam. 
 
 Um indicador importante para o custo da fraude é a taxa de revisão manual – ou seja, quantos pedidos são marcados como suspeitos pelo sistema e enviados para um agente realizar uma análise minuciosa daquela compra. 
 
@@ -50,5 +53,22 @@ Neste cenário, 2% sobre cada uma das 50 mil vendas de ticket médio de R$ 200 r
 Como vimos, o custo total da fraude vai muito além da relação perfeita com as notificações de estorno que uma empresa recebe ao final de cada mês – e uma solução que prometa “fraude zero” pode até mesmo aumentar o “custo da fraude” no final do mês, por mais paradoxal que isso possa parecer.
 
 Há outros fatores que devem ser levados em consideração para calcularmos esta métrica, como o custo da ferramenta, taxa de revisão manual, equipe – e, claro, os chargebacks. E para você, qual é o custo da fraude? 
+
+**Leia também**  
+[Por que o lojista é quem paga pela fraude na internet?](https://blog.konduto.com/pt/2016/05/por-que-o-lojista-deve-pagar-pelo-chargeback/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-custo-fraude)  
+[BBC encontra itens absurdos à venda na deep web: inclusive cartões clonados](https://blog.konduto.com/pt/2016/08/cartoes-clonados-venda-deep-web/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-custo-fraude)  
+[Conheça a história do fraudador que ludibriou o FBI (mais de uma vez!)](https://blog.konduto.com/pt/2016/07/fraudador-que-enganou-o-fbi/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-custo-fraude)
+
+## Sobre a Konduto
+ 
+Somos uma startup que desenvolveu uma **[tecnologia inovadora para barrar fraudes no e-commerce](http://konduto.com/?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo)**. Analisamos como um cliente se comporta desde o primeiro momento em que acessa o seu site até o instante em que a compra é concluída e geramos em tempo real uma recomendação sobre aquela transação.
+ 
+Nosso sistema também reúne informações básicas como dados cadastrais, fingerprint e geolocalização, dentre outras, e passa todos estes dados por um filtro de inteligência artificial. A venda é analisada em menos de 1s, sem prejudicar ou causar transtorno à operação do lojista. Nosso algoritmo de machine learning aprende com cada análise e evolui com o passar do tempo, reduzindo cada vez mais o número de fraudes.
+ 
+**Quer saber mais? Ficou alguma dúvida? Fale com a gente no [oi@konduto.com](mailto:oi@konduto.com)!**         	
+ 
+Conecte-se com a Konduto também nas redes sociais: [Linkedin](https://www.linkedin.com/company/konduto), [Facebook](https://www.facebook.com/konduto) e [Twitter](https://twitter.com/KondutoBR) 
+ 
+<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fkonduto%2Fvideos%2F613187352119217%2F&show_text=1&width=560" width="560" height="400" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
 
 
