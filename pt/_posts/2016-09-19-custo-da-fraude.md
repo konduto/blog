@@ -2,13 +2,11 @@
 layout: post
 categories: pt
 date: '2016-09-19-T10:39:00-03:00'
-title: "Qual é o custo da fraude para a sua empresa? "
+title: "Qual é o custo da fraude para a sua empresa?"
 subtitle: "Às vezes, fraude zero não significa que o custo da fraude também será zero..."
 excerpt: "A conta parece simples, mas não é só calcular o total de chargebacks recebidos no mês"
 author: felipe
 ---
-
-![mobile](/images/160912-mobile.png) 
 
 Nove em cada dez empreendedores sabem encontrar rapidamente a resposta para esta incômoda pergunta. É fácil: basta calcular o total de chargebacks (estornos de vendas contestadas) que a empresa recebeu das operadoras de cartão de crédito no último mês. 
 
@@ -18,9 +16,7 @@ Fizemos esta pergunta para o João das Couves, que é CEO e co-founder da Loja d
 
 ![shrug](/images/160920-shrug.gif) 
 
-Não!
-
-**O custo da fraude vai além do número de chargebacks!** E explicamos isso a ele. 
+**Não! O custo da fraude vai além do número de chargebacks!** E a gente explicou isso ao João das Couves. 
 
 Vamos supor que a Loja do João tenha uma equipe de quatro colaboradores dedicados ao risco, à manutenção da solução antifraude daquele e-commerce e à verificação manual dos pedidos mais suspeitos. Especulando que o salário (somado) desta equipe seja de R$ 20 mil, os encargos trabalhistas fariam este valor subir para a casa dos R$ 32 mil por mês. 
 
