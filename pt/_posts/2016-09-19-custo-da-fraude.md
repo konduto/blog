@@ -19,7 +19,9 @@ Fizemos esta pergunta para o João das Couves, que é CEO e co-founder da Loja d
 
 ![shrug](/images/160920-shrug.gif) 
 
-**Não! O custo da fraude vai além do número de chargebacks!** E a gente explicou isso ao João das Couves. 
+**Não! O custo da fraude vai além do número de chargebacks!** 
+
+E a gente explicou isso ao João das Couves. 
 
 Vamos supor que a Loja do João tenha uma equipe de quatro colaboradores dedicados ao risco, à manutenção da solução antifraude daquele e-commerce e à verificação manual dos pedidos mais suspeitos. Especulando que o salário (somado) desta equipe seja de R$ 20 mil, os encargos trabalhistas fariam este valor subir para a casa dos R$ 32 mil por mês. 
 
@@ -38,7 +40,7 @@ O custo da fraude para um e-commerce ou qualquer negócio on-line não é apenas
 
 ## Como reduzir este custo?
 
-Atualmente, cerca de **3,83% dos pedidos que chegam a uma loja virtual são de origem fraudulenta(http://ebooks.konduto.com/raio-x-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-custo-fraude)** (ou seja: 1 a cada 26 compras). No entanto, por “medo” da fraude, muitas empresas acabam barrando muito mais vendas do que deveriam. 
+Atualmente, cerca de **[3,83% dos pedidos que chegam a uma loja virtual são de origem fraudulenta](http://ebooks.konduto.com/raio-x-da-fraude?utm_source=konduto&utm_medium=blog&utm_campaign=conteudo-custo-fraude)** (ou seja: 1 a cada 26 compras). No entanto, por “medo” da fraude, muitas empresas acabam barrando muito mais vendas do que deveriam. 
 
 Um indicador importante para o custo da fraude é a taxa de revisão manual – ou seja, quantos pedidos são marcados como suspeitos pelo sistema e enviados para um agente realizar uma análise minuciosa daquela compra. 
 
@@ -48,7 +50,7 @@ Outra possibilidade para a empresa pode ser a contratação de uma outra soluç�
 
 ![calculating](/images/160920-calculating.gif) 
 
-Neste cenário, 2% sobre cada uma das 50 mil vendas de ticket médio de R$ 200 resultaria em uma fatura mensal de R$ 200 mil. A fraude seria zero, mas o custo da fraude no e-commerce seria ainda maior do que anteriormente. **Seriam R$ 4 por cada pedido!**
+Neste cenário, 2% sobre cada uma das 50 mil vendas de ticket médio de R$ 200 resultaria em uma fatura mensal de R$ 200 mil. **A fraude seria zero, mas o custo da fraude no e-commerce seria ainda maior do que anteriormente**. 
 
 Como vimos, o custo total da fraude vai muito além da relação perfeita com as notificações de estorno que uma empresa recebe ao final de cada mês – e uma solução que prometa “fraude zero” pode até mesmo aumentar o “custo da fraude” no final do mês, por mais paradoxal que isso possa parecer.
 
